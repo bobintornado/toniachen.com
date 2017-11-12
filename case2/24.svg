@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 24 -->
+<svg x="0" y="0" width="1100" height="618" viewBox="0 0 1100 618" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_24{
+fill: #FFFFFF;
+}
+.g2_24{
+fill-opacity: 0;
+}
+.g3_24{
+fill: none;
+stroke: #000000;
+stroke-width: 1.1408833;
+stroke-linecap: butt;
+stroke-linejoin: round;
+stroke-miterlimit: 14;
+stroke-dasharray: 2,4;
+}
+.g4_24{
+fill: none;
+stroke: #000000;
+stroke-width: 1.1408833;
+stroke-linecap: butt;
+stroke-linejoin: round;
+stroke-miterlimit: 14;
+}
+.g5_24{
+stroke: #000000;
+stroke-width: 1.1408833;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 11;
+}
+
+.s1_24{
+font-size: 13.69px;
+font-family: ArialMT_5f;
+fill: #000000;
+}
+.s2_24{
+font-size: 15.21px;
+font-family: ArialMT_5f;
+fill: #000000;
+}
+.s3_24{
+font-size: 45.64px;
+font-family: Raleway-Bold_5j;
+fill: #F46524;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,618
+L1100,618
+L1100,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path fill-rule="evenodd" d="M0,0L1095.2,0l0,616.1L0,616.1Z" class="g1_24" />
+<path fill-rule="evenodd" d="M546,64.2l424.6,0l0,190.1l-424.6,0Z" class="g2_24" />
+<image preserveAspectRatio="none" x="546" y="64" width="425" height="190" xlink:href="24/img/1.png" />
+<path fill-rule="evenodd" d="M22.6,319l138.9,0l0,30.6l-138.9,0Z" class="g2_24" />
+<text 
+x="32" 
+y="342" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0.4,0,0,0,0" 
+class="s1_24"
+>'ackground 1ayer</text>
+
+<path fill-rule="evenodd" d="M282,323.5l138.9,0l0,30.6l-138.9,0Z" class="g2_24" />
+<text 
+x="292" 
+y="346" 
+dx="0,0,0,0,0,0,0,0,0.4,0,0,0,0" 
+class="s1_24"
+>(ontent 1ayer</text>
+
+<path fill-rule="evenodd" d="M541.4,325.6l195.4,0l0,30.6l-195.4,0Z" class="g2_24" />
+<text 
+x="551" 
+y="349" 
+dx="0,0,0,0,0,0,0,0,0.4,0,0,0,0,0,0,0,0.4,0,0,0,0" 
+class="s1_24"
+>,eneral control layer</text>
+
+<path fill-rule="evenodd" d="M808.4,311.9l195.4,0l0,30.5l-195.4,0Z" class="g2_24" />
+<text 
+x="818" 
+y="335" 
+dx="0,0,0,0,0,0,0,0.4,0,0,0,0.4,0,0,0,0,0,0,0,0,0,0,0,0.4,0,0,0,0" 
+class="s1_24"
+>8erver and interaction layer</text>
+
+<text 
+x="818" 
+y="351" 
+dx="0,0,0,0,0,0,0,0,0.4,0,0,0,0,0,0,0,0,0,0.4,0,0,0,0,0,0" 
+class="s1_24"
+>+eature controlsµ pop´ups</text>
+
+<path d="M37.3,354.1l231.8,0l0,125.6l-231.8,0Z" class="g2_24" />
+<image preserveAspectRatio="none" x="37" y="354" width="232" height="126" xlink:href="24/img/2.png" />
+<path d="M36.8,353.5l232.8,0l0,126.8l-232.8,0Z" class="g3_24" />
+<path d="M547.1,354.1l231.7,0l0,125.6l-231.7,0Z" class="g2_24" />
+<image preserveAspectRatio="none" x="547" y="354" width="232" height="126" xlink:href="24/img/3.png" />
+<path d="M546.5,353.5l232.9,0l0,126.8l-232.9,0Z" class="g3_24" />
+<path d="M819.2,361.3l231.8,0l0,125.6l-231.8,0Z" class="g2_24" />
+<image preserveAspectRatio="none" x="819" y="361" width="232" height="126" xlink:href="24/img/4.png" />
+<path d="M818.7,360.7l232.9,0l0,126.8l-232.9,0Z" class="g3_24" />
+<path d="M296.8,354.1l224.4,0l0,121.6l-224.4,0Z" class="g2_24" />
+<image preserveAspectRatio="none" x="297" y="354" width="224" height="122" xlink:href="24/img/5.png" />
+<path d="M296.2,353.5l225.6,0l0,122.8l-225.6,0Z" class="g3_24" />
+<path fill-rule="evenodd" d="M27.2,529.8l745.3,0l0,30.6l-745.3,0Z" class="g2_24" />
+<text 
+x="37" 
+y="553" 
+dx="0,0,0,0,0,0,0,0.4,0,0,0,0,0,0,0.4,0,0,0,0,0,0,0,0,0.4,0,0,0,0,0,0,0,0,4.2,0,0,0,0,0,0,0,0,0,0.4,0,0,0,0,0,0,0,0,0,0.4,0,0,0,0,0,0,0,0.4,0,0,0,0,0,0.4,0,0,0,0,0,0,0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0.4,0,0,0,0,0,0,0.4,0,0,0,0,0,0" 
+class="s1_24"
+>8ystem 1ayer# .nternet browserµ 2icrosoft operating systemµ &amp;pple system windows¶1inux system windows</text>
+
+<path d="M188.8,125.7l238,0l0,129l-238,0Z" class="g2_24" />
+<image preserveAspectRatio="none" x="189" y="126" width="238" height="129" xlink:href="24/img/6.png" />
+<path d="M188.2,125.2l239.2,0l0,130.1l-239.2,0Z" class="g3_24" />
+<path fill-rule="evenodd" d="M33.2,124.3l147.7,0l0,59.4l-147.7,0Z" class="g2_24" />
+<text 
+x="43" 
+y="149" 
+dx="0,0,0,0,0,0,0.4,0,0,0,0,0,0,0,0.4" 
+class="s2_24"
+>6uote 'lotter ´</text>
+
+<text 
+x="43" 
+y="167" 
+dx="0,0,0,0,0,0,0.4,0,0,0,0,0,0" 
+class="s2_24"
+>6uote details</text>
+
+<path fill-rule="evenodd" d="M532.1,23.4l471.7,0l0,34.6L532.1,58Z" class="g2_24" />
+<text 
+x="542" 
+y="48" 
+dx="0,0,0,0,0,0.4,0,0,0,0,0,0,0,0,0,0,0,0,0.4,0,0,0,0,0,0,0,0.4,0,0,0,0.4,0,0,0,0,0,0,0.4,0,0,0,0.4,0,0,0.4,0,0,0,0,0,0,0,0,0,0,0,0.4,0,0,0,0,0,0,0" 
+class="s2_24"
+>8ame &amp;rchitecture applied for device app :. ¸7esponsive design¹#</text>
+
+<path fill-rule="evenodd" d="M307.8,254.7L92.1,319Z" class="g2_24" />
+<path d="M307.8,254.7L92.1,319" class="g3_24" />
+<path fill-rule="evenodd" d="M307.8,254.7l43.6,68.8Z" class="g2_24" />
+<path d="M307.8,254.7l43.6,68.8" class="g3_24" />
+<path fill-rule="evenodd" d="M307.8,254.7l331.3,70.9Z" class="g2_24" />
+<path d="M307.8,254.7l331.3,70.9" class="g3_24" />
+<path fill-rule="evenodd" d="M307.8,254.7l598.3,57.2Z" class="g2_24" />
+<path d="M307.8,254.7l598.3,57.2" class="g3_24" />
+<path fill-rule="evenodd" d="M973,167.6l116.6,0l0,82.1l-116.6,0Z" class="g2_24" />
+<text 
+x="983" 
+y="192" 
+dx="0,0,0,0,0,0,0,0,0.4,0,0" 
+class="s2_24"
+>&amp;ndorid and</text>
+
+<text 
+x="983" 
+y="210" 
+dx="0,0,0,0,0.4,0,0" 
+class="s2_24"
+>i48 are</text>
+
+<text 
+x="983" 
+y="229" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s2_24"
+>different</text>
+
+<path fill-rule="evenodd" d="M973,208.7L928.8,193.9Z" class="g2_24" />
+<path d="M973,208.7L937,196.6" class="g4_24" />
+<path fill-rule="evenodd" d="M937.7,194.2l-7.3,0.2l5.8,4.6Z" class="g5_24" />
+<path fill-rule="evenodd" d="M33.2,34.8l495.8,0l0,76.6l-495.8,0Z" class="g2_24" />
+<text 
+x="43" 
+y="88" 
+dx="0,0,0,0,0,-0.5,0,0,0,0,0,0" 
+class="s3_24"
+>Real Example</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: ArialMT_5f;
+	src: url("fonts/ArialMT_5f.woff") format("woff");
+}
+
+@font-face {
+	font-family: Raleway-Bold_5j;
+	src: url("fonts/Raleway-Bold_5j.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

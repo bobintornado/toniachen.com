@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 18 -->
+<svg x="0" y="0" width="1466" height="825" viewBox="0 0 1466 825" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c0_18"><path d="M0,821.4L0,0L1460.3,0l0,821.4Z" /></clipPath>
+
+<style type="text/css"><![CDATA[
+
+.g1_18{
+fill: #FFFFFF;
+}
+.g2_18{
+fill: #F46524;
+}
+.g3_18{
+fill-opacity: 0;
+}
+.g4_18{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 2.2817667;
+stroke-linecap: butt;
+stroke-linejoin: round;
+stroke-miterlimit: 14;
+}
+
+.s1_18{
+font-size: 73.02px;
+font-family: Raleway-Bold_60;
+fill: #F46524;
+}
+.s2_18{
+font-size: 24.34px;
+font-family: Calibri_64;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,825
+L1466,825
+L1466,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<g clip-path="url(#c0_18)">
+<path fill-rule="evenodd" d="M0,0L1460.3,0l0,821.4L0,821.4Z" class="g1_18" />
+<path fill-rule="evenodd" d="M730.2,0l730.1,0l0,821.5l-730.1,0Z" class="g2_18" />
+</g>
+<path fill-rule="evenodd" d="M803.3,717.9l74.7,0Z" class="g3_18" />
+<path d="M803.3,717.9l74.7,0" class="g4_18" />
+<path fill-rule="evenodd" d="M42.4,223.2l646,0l0,210.5l-646,0Z" class="g3_18" />
+<text 
+x="120" 
+y="402" 
+dx="0,0,0,0,-0.7,0,0,0,0,0,0,0" 
+class="s1_18"
+>±EO Research</text>
+
+<path fill-rule="evenodd" d="M788.9,115.7l612.7,0l0,590.1l-612.7,0Z" class="g3_18" />
+<text 
+x="796" 
+y="260" 
+dx="0,0" 
+class="s2_18"
+>1.</text>
+
+<text 
+x="843" 
+y="260" 
+dx="0,0,0,0,0,0,0,0,-0.6,0,0,0,0,0,0,0,0" 
+class="s2_18"
+>¾ro³lem ·tatement</text>
+
+<text 
+x="796" 
+y="304" 
+dx="0,0" 
+class="s2_18"
+>2.</text>
+
+<text 
+x="843" 
+y="304" 
+dx="0,0,0,0,0,0,0,0,-0.6,0,0,0,0,0,0,0,0,0" 
+class="s2_18"
+>µe³site ·tatisti´s</text>
+
+<text 
+x="796" 
+y="347" 
+dx="0,0" 
+class="s2_18"
+>3.</text>
+
+<text 
+x="843" 
+y="347" 
+dx="0,0,0,0,0,0,0,0,-0.6,0,0,0,-0.6,0,0,0,0,0,0,0" 
+class="s2_18"
+>±urrent ·¸² ²verview</text>
+
+<text 
+x="796" 
+y="390" 
+dx="0,0" 
+class="s2_18"
+>4.</text>
+
+<text 
+x="843" 
+y="390" 
+dx="0,0,0,0,0,0,0,0,0,-0.6,0,0,0,-0.6,0,0,0,0,0" 
+class="s2_18"
+>»omepage ·¸² ·ample</text>
+
+<text 
+x="796" 
+y="434" 
+dx="0,0" 
+class="s2_18"
+>5.</text>
+
+<text 
+x="843" 
+y="434" 
+dx="0,0,0,0,0,0,0,-0.6,0,0,0,0,0,0,0,0" 
+class="s2_18"
+>Åoogle ¶nalyti´s</text>
+
+<text 
+x="796" 
+y="477" 
+dx="0,0" 
+class="s2_18"
+>6.</text>
+
+<text 
+x="843" 
+y="477" 
+dx="0,0,0,0,0,0,0,0,0,-0.6,0,0,0,0,0,0,0" 
+class="s2_18"
+>½dentify Çeywords</text>
+
+<text 
+x="796" 
+y="520" 
+dx="0,0" 
+class="s2_18"
+>7.</text>
+
+<text 
+x="843" 
+y="520" 
+dx="0,0,0,0,0,0,0,0,-0.6,0,0,0,0,0,0,0,-0.6,0,0,0,0,-0.6,0,0,0,0,0,0,0,0,-0.6,0,0,0,0,0,0" 
+class="s2_18"
+>¼onthly ¶rti´le with keywords ´entri´</text>
+
+<text 
+x="796" 
+y="564" 
+dx="0,0" 
+class="s2_18"
+>8.</text>
+
+<text 
+x="843" 
+y="564" 
+dx="0,0,0,0,0,0,0,-0.6,0,0,0,0" 
+class="s2_18"
+>·o´ial ¼edia</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: Calibri_64;
+	src: url("fonts/Calibri_64.woff") format("woff");
+}
+
+@font-face {
+	font-family: Raleway-Bold_60;
+	src: url("fonts/Raleway-Bold_60.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 32 -->
+<svg x="0" y="0" width="1466" height="825" viewBox="0 0 1466 825" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c0_32"><path d="M0,821.4L0,0L1460.3,0l0,821.4Z" /></clipPath>
+
+<style type="text/css"><![CDATA[
+
+.g1_32{
+fill: #FFFFFF;
+}
+.g2_32{
+fill-opacity: 0;
+}
+.g3_32{
+fill: none;
+stroke: #DB7B67;
+stroke-width: 3.0423558;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 1;
+}
+.g4_32{
+fill: #DB7B67;
+stroke: #DB7B67;
+stroke-width: 3.0423558;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 11;
+}
+
+.s1_32{
+font-size: 66.93px;
+font-family: Calibri_64;
+fill: #F46524;
+}
+.s2_32{
+font-size: 21.30px;
+font-family: Calibri-Bold_6g;
+fill: #C00000;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,825
+L1466,825
+L1466,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<g clip-path="url(#c0_32)">
+<path fill-rule="evenodd" d="M0,0L1460.3,0l0,821.4L0,821.4Z" class="g1_32" />
+</g>
+<path fill-rule="evenodd" d="M48.6,71.4l1224.4,0l0,77.3l-1224.4,0Z" class="g2_32" />
+<text 
+x="106" 
+y="134" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1.6,0,0,0,0,0,0,0,0,0,-1.6,0,0,0,-1.6,0,0,0,0,0,0,0,0,0,0" 
+class="s1_32"
+>4.°ransition, animation and intera´tion</text>
+
+<path fill-rule="evenodd" d="M609.1,258.5l228.2,0l0,86l-228.2,0Z" class="g2_32" />
+<text 
+x="612" 
+y="259" 
+dx="0,0,0,0,0,0,0,0,-0.5,0,0,0,0,0" 
+class="s2_32"
+>¸liding ³anner</text>
+
+<text 
+x="612" 
+y="284" 
+dx="0,0,0,0,0,-0.5,0,0,0,0,0,0,0,0,0,0,0,-0.5,0,0" 
+class="s2_32"
+>text disappeared too</text>
+
+<text 
+x="612" 
+y="309" 
+dx="0,0,0,0,0" 
+class="s2_32"
+>fast,</text>
+
+<text 
+x="612" 
+y="334" 
+dx="0,0,0,0,0,-0.5,0,0,0,0,0,0,-0.5,0,0" 
+class="s2_32"
+>will re-set the</text>
+
+<text 
+x="612" 
+y="359" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s2_32"
+>timeframe.</text>
+
+<path fill-rule="evenodd" d="M911.6,508.3l522.8,0l0,261.1l-522.8,0Z" class="g2_32" />
+<image preserveAspectRatio="none" x="912" y="508" width="522" height="261" xlink:href="32/img/1.png" />
+<path fill-rule="evenodd" d="M911.6,238l519.7,0l0,251.1l-519.7,0Z" class="g2_32" />
+<image preserveAspectRatio="none" x="912" y="238" width="519" height="251" xlink:href="32/img/2.png" />
+<path fill-rule="evenodd" d="M845.7,344.5l139.7,0Z" class="g2_32" />
+<path d="M845.7,344.5l121.4,0" class="g3_32" />
+<path fill-rule="evenodd" d="M967.1,349.6l13.8,-5.1l-13.8,-5Z" class="g4_32" />
+<path fill-rule="evenodd" d="M53.9,422.6l695.7,0l0,331l-695.7,0Z" class="g2_32" />
+<image preserveAspectRatio="none" x="54" y="423" width="696" height="331" xlink:href="32/img/3.png" />
+<path fill-rule="evenodd" d="M854.3,353.1l170.7,251Z" class="g2_32" />
+<path d="M854.3,353.1L1014.7,589" class="g3_32" />
+<path fill-rule="evenodd" d="M1010.6,591.8l11.9,8.6l-3.6,-14.3Z" class="g4_32" />
+<path fill-rule="evenodd" d="M204.7,316.3l0,213Z" class="g2_32" />
+<path d="M204.7,316.3l0,194.7" class="g3_32" />
+<path fill-rule="evenodd" d="M199.7,511l5,13.8l5,-13.8Z" class="g4_32" />
+<path fill-rule="evenodd" d="M567.8,522.6l0,0c0,-21,17,-38,38,-38c10.1,0,19.7,4,26.9,11.1c7.1,7.1,11.1,16.8,11.1,26.9c0,21,-17,38,-38,38c-21,0,-38,-17,-38,-38Z" class="g2_32" />
+<path d="M567.8,522.6l0,0c0,-21,17,-38,38,-38c10.1,0,19.7,4,26.9,11.1c7.1,7.1,11.1,16.8,11.1,26.9c0,21,-17,38,-38,38c-21,0,-38,-17,-38,-38Z" class="g3_32" />
+<path fill-rule="evenodd" d="M105.3,230.6l429.5,0l0,67.9l-429.5,0Z" class="g2_32" />
+<text 
+x="108" 
+y="259" 
+dx="0,0,0,0,0,0,-0.5,0,0,0,0,0,0,0,-0.5,0,0,0,0,0,0,0,0,0,-0.5,0,0,-0.5,0,0,-0.5,0,0,0,0,-0.5,0,0,0,0,0,0" 
+class="s2_32"
+>°opup windows re²ommend to ³e full s²reen,</text>
+
+<text 
+x="108" 
+y="284" 
+dx="0,0,0,0,0,0,-0.5,0,0,0,0,0,0,-0.5,0,0,-0.5,0,0,0,-0.5,0,0,0,0,0,-0.5,0,0,-0.5,0,0,0,0,0" 
+class="s2_32"
+>µlose ³utton is too small to ²li²k.</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: Calibri_64;
+	src: url("fonts/Calibri_64.woff") format("woff");
+}
+
+@font-face {
+	font-family: Calibri-Bold_6g;
+	src: url("fonts/Calibri-Bold_6g.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

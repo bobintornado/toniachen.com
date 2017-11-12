@@ -1,0 +1,712 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 20 -->
+<svg x="0" y="0" width="1466" height="825" viewBox="0 0 1466 825" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c0_20"><path d="M0,821.4L0,0L1460.3,0l0,821.4Z" /></clipPath>
+
+<style type="text/css"><![CDATA[
+
+.g1_20{
+fill: #FFFFFF;
+}
+.g2_20{
+fill: #C7E4F6;
+}
+.g3_20{
+fill: none;
+stroke: #CCCCCC;
+stroke-width: 1.5211779;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 11;
+}
+.g4_20{
+fill-opacity: 0;
+}
+
+.s1_20{
+font-size: 22.82px;
+font-family: Calibri-Bold_6g;
+fill: #0C0C0C;
+}
+.s2_20{
+font-size: 22.82px;
+font-family: Calibri_64;
+fill: #0C0C0C;
+}
+.s3_20{
+font-size: 22.82px;
+font-family: Calibri-Bold_6g;
+fill: #F46524;
+}
+.s4_20{
+font-size: 66.93px;
+font-family: Calibri_64;
+fill: #F46524;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,825
+L1466,825
+L1466,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<g clip-path="url(#c0_20)">
+<path fill-rule="evenodd" d="M0,0L1460.3,0l0,821.4L0,821.4Z" class="g1_20" />
+</g>
+<path d="M57.7,161.7l346.8,0l0,85.8l-346.8,0l0,-85.8Z" class="g2_20" />
+<path d="M404.5,161.7l179.3,0l0,85.8l-179.3,0l0,-85.8Z" class="g2_20" />
+<path d="M583.8,161.7l197.2,0l0,85.8l-197.2,0l0,-85.8Z" class="g2_20" />
+<path d="M781,161.7l176.4,0l0,85.8l-176.4,0l0,-85.8Z" class="g2_20" />
+<path d="M957.4,161.7l140.7,0l0,85.8l-140.7,0l0,-85.8Z" class="g2_20" />
+<path d="M1098.1,161.7l158.5,0l0,85.8l-158.5,0l0,-85.8Z" class="g2_20" />
+<path d="M1256.6,161.7l158.6,0l0,85.8l-158.6,0l0,-85.8Z" class="g2_20" />
+<path d="M57.7,161l0,639.2" class="g3_20" />
+<path d="M404.5,161l0,639.2" class="g3_20" />
+<path d="M583.8,161l0,639.2" class="g3_20" />
+<path d="M781,161l0,639.2" class="g3_20" />
+<path d="M957.4,161l0,639.2" class="g3_20" />
+<path d="M1098.1,161l0,639.2" class="g3_20" />
+<path d="M1256.6,161l0,639.2" class="g3_20" />
+<path d="M1415.2,161l0,639.2" class="g3_20" />
+<path d="M56.9,161.7l1359,0" class="g3_20" />
+<path d="M56.9,247.5l1359,0" class="g3_20" />
+<path d="M56.9,292.2l1359,0" class="g3_20" />
+<path d="M56.9,336.9l1359,0" class="g3_20" />
+<path d="M56.9,381.7l1359,0" class="g3_20" />
+<path d="M56.9,426.4l1359,0" class="g3_20" />
+<path d="M56.9,471.1l1359,0" class="g3_20" />
+<path d="M56.9,515.8l1359,0" class="g3_20" />
+<path d="M56.9,560.5l1359,0" class="g3_20" />
+<path d="M56.9,605.3l1359,0" class="g3_20" />
+<path d="M56.9,691l1359,0" class="g3_20" />
+<path d="M56.9,735.8l1359,0" class="g3_20" />
+<path d="M56.9,799.5l1359,0" class="g3_20" />
+<text 
+x="59" 
+y="205" 
+dx="0,0,0,0" 
+class="s1_20"
+>°age</text>
+
+<text 
+x="406" 
+y="205" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s1_20"
+>°ageviews</text>
+
+<text 
+x="586" 
+y="205" 
+dx="0,0,0,0,0,0,0,-0.5,0,0,0,0,0,0,0,0" 
+class="s1_20"
+>Ânique °ageviews</text>
+
+<text 
+x="783" 
+y="185" 
+dx="0,0,0,0,0,-0.5,0,0,0,0,-0.5,0" 
+class="s1_20"
+>»vg. Àime on</text>
+
+<text 
+x="783" 
+y="226" 
+dx="0,0,0,0" 
+class="s1_20"
+>°age</text>
+
+<text 
+x="959" 
+y="205" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s1_20"
+>´ntran²es</text>
+
+<text 
+x="1100" 
+y="205" 
+dx="0,0,0,0,0,0,0,-0.5,0,0,0" 
+class="s1_20"
+>¾oun²e ·ate</text>
+
+<text 
+x="1258" 
+y="205" 
+dx="0,0,-0.5,0,0,0" 
+class="s1_20"
+>% ´xit</text>
+
+<text 
+x="59" 
+y="271" 
+dx="0,0,0,0,0" 
+class="s2_20"
+>/»ome</text>
+
+<text 
+x="406" 
+y="271" 
+dx="0,0,0,0,0,0" 
+class="s2_20"
+>16,176</text>
+
+<text 
+x="586" 
+y="271" 
+dx="0,0,0,0,0,0" 
+class="s2_20"
+>11,512</text>
+
+<text 
+x="783" 
+y="271" 
+dx="0,0,0,0,0,0,0" 
+class="s2_20"
+>0:02:09</text>
+
+<text 
+x="959" 
+y="271" 
+dx="0,0,0,0,0,0" 
+class="s2_20"
+>10,789</text>
+
+<text 
+x="1100" 
+y="271" 
+dx="0,0,0,0,0,0" 
+class="s2_20"
+>52.33%</text>
+
+<text 
+x="1258" 
+y="271" 
+dx="0,0,0,0,0,0" 
+class="s2_20"
+>46.92%</text>
+
+<text 
+x="59" 
+y="315" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s2_20"
+>/a³out-us/</text>
+
+<text 
+x="406" 
+y="315" 
+dx="0,0,0,0,0" 
+class="s2_20"
+>3,930</text>
+
+<text 
+x="586" 
+y="315" 
+dx="0,0,0,0,0" 
+class="s2_20"
+>3,236</text>
+
+<text 
+x="783" 
+y="315" 
+dx="0,0,0,0,0,0,0" 
+class="s2_20"
+>0:02:30</text>
+
+<text 
+x="959" 
+y="315" 
+dx="0,0,0,0,0" 
+class="s2_20"
+>1,051</text>
+
+<text 
+x="1100" 
+y="315" 
+dx="0,0,0,0,0,0" 
+class="s1_20"
+>64.99%</text>
+
+<text 
+x="1258" 
+y="315" 
+dx="0,0,0,0,0,0" 
+class="s2_20"
+>50.38%</text>
+
+<text 
+x="59" 
+y="360" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_20"
+>/what-we-do/</text>
+
+<text 
+x="406" 
+y="360" 
+dx="0,0,0,0,0" 
+class="s2_20"
+>2,394</text>
+
+<text 
+x="586" 
+y="360" 
+dx="0,0,0,0,0" 
+class="s2_20"
+>2,110</text>
+
+<text 
+x="783" 
+y="360" 
+dx="0,0,0,0,0,0,0" 
+class="s2_20"
+>0:02:00</text>
+
+<text 
+x="959" 
+y="360" 
+dx="0,0,0" 
+class="s2_20"
+>679</text>
+
+<text 
+x="1100" 
+y="360" 
+dx="0,0,0,0,0,0" 
+class="s1_20"
+>73.78%</text>
+
+<text 
+x="1258" 
+y="360" 
+dx="0,0,0,0,0,0" 
+class="s1_20"
+>63.12%</text>
+
+<text 
+x="59" 
+y="405" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_20"
+>/´onta´t-us/</text>
+
+<text 
+x="406" 
+y="405" 
+dx="0,0,0,0,0" 
+class="s2_20"
+>2,013</text>
+
+<text 
+x="586" 
+y="405" 
+dx="0,0,0,0,0" 
+class="s2_20"
+>1,841</text>
+
+<text 
+x="783" 
+y="405" 
+dx="0,0,0,0,0,0,0" 
+class="s2_20"
+>0:03:07</text>
+
+<text 
+x="959" 
+y="405" 
+dx="0,0,0,0,0" 
+class="s2_20"
+>1,136</text>
+
+<text 
+x="1100" 
+y="405" 
+dx="0,0,0,0,0,0" 
+class="s1_20"
+>85.65%</text>
+
+<text 
+x="1258" 
+y="405" 
+dx="0,0,0,0,0,0" 
+class="s1_20"
+>77.74%</text>
+
+<text 
+x="59" 
+y="450" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_20"
+>/news-and-insights/</text>
+
+<text 
+x="406" 
+y="450" 
+dx="0,0,0,0,0" 
+class="s2_20"
+>1,035</text>
+
+<text 
+x="586" 
+y="450" 
+dx="0,0,0" 
+class="s2_20"
+>792</text>
+
+<text 
+x="783" 
+y="450" 
+dx="0,0,0,0,0,0,0" 
+class="s2_20"
+>0:04:15</text>
+
+<text 
+x="959" 
+y="450" 
+dx="0,0,0" 
+class="s2_20"
+>171</text>
+
+<text 
+x="1100" 
+y="450" 
+dx="0,0,0,0,0,0" 
+class="s2_20"
+>39.77%</text>
+
+<text 
+x="1258" 
+y="450" 
+dx="0,0,0,0,0,0" 
+class="s2_20"
+>44.25%</text>
+
+<text 
+x="59" 
+y="494" 
+dx="0,0,0,0,0,0" 
+class="s2_20"
+>/we³fm</text>
+
+<text 
+x="406" 
+y="494" 
+dx="0,0,0" 
+class="s2_20"
+>770</text>
+
+<text 
+x="586" 
+y="494" 
+dx="0,0,0" 
+class="s2_20"
+>665</text>
+
+<text 
+x="783" 
+y="494" 
+dx="0,0,0,0,0,0,0" 
+class="s2_20"
+>0:00:41</text>
+
+<text 
+x="959" 
+y="494" 
+dx="0,0,0" 
+class="s2_20"
+>594</text>
+
+<text 
+x="1100" 
+y="494" 
+dx="0,0,0,0,0,0" 
+class="s2_20"
+>11.45%</text>
+
+<text 
+x="1258" 
+y="494" 
+dx="0,0,0,0,0" 
+class="s2_20"
+>9.22%</text>
+
+<text 
+x="59" 
+y="539" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s2_20"
+>/´areers/</text>
+
+<text 
+x="406" 
+y="539" 
+dx="0,0,0" 
+class="s2_20"
+>713</text>
+
+<text 
+x="586" 
+y="539" 
+dx="0,0,0" 
+class="s2_20"
+>626</text>
+
+<text 
+x="783" 
+y="539" 
+dx="0,0,0,0,0,0,0" 
+class="s2_20"
+>0:02:25</text>
+
+<text 
+x="959" 
+y="539" 
+dx="0,0,0" 
+class="s2_20"
+>101</text>
+
+<text 
+x="1100" 
+y="539" 
+dx="0,0,0,0,0,0" 
+class="s2_20"
+>58.42%</text>
+
+<text 
+x="1258" 
+y="539" 
+dx="0,0,0,0,0,0" 
+class="s2_20"
+>32.40%</text>
+
+<text 
+x="59" 
+y="584" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_20"
+>/digitaladvisory/</text>
+
+<text 
+x="406" 
+y="584" 
+dx="0,0,0" 
+class="s2_20"
+>619</text>
+
+<text 
+x="586" 
+y="584" 
+dx="0,0,0" 
+class="s2_20"
+>552</text>
+
+<text 
+x="783" 
+y="584" 
+dx="0,0,0,0,0,0,0" 
+class="s2_20"
+>0:02:04</text>
+
+<text 
+x="959" 
+y="584" 
+dx="0,0" 
+class="s2_20"
+>81</text>
+
+<text 
+x="1100" 
+y="584" 
+dx="0,0,0,0,0,0" 
+class="s2_20"
+>45.68%</text>
+
+<text 
+x="1258" 
+y="584" 
+dx="0,0,0,0,0,0" 
+class="s2_20"
+>27.46%</text>
+
+<text 
+x="59" 
+y="628" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_20"
+>/awards/agdelta-re´eives-sme100-2</text>
+
+<text 
+x="59" 
+y="670" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_20"
+>017-awards/</text>
+
+<text 
+x="406" 
+y="649" 
+dx="0,0,0" 
+class="s2_20"
+>584</text>
+
+<text 
+x="586" 
+y="649" 
+dx="0,0,0" 
+class="s2_20"
+>528</text>
+
+<text 
+x="783" 
+y="649" 
+dx="0,0,0,0,0,0,0" 
+class="s2_20"
+>0:01:54</text>
+
+<text 
+x="959" 
+y="649" 
+dx="0,0,0" 
+class="s2_20"
+>101</text>
+
+<text 
+x="1100" 
+y="649" 
+dx="0,0,0,0,0,0" 
+class="s2_20"
+>55.45%</text>
+
+<text 
+x="1258" 
+y="649" 
+dx="0,0,0,0,0,0" 
+class="s2_20"
+>35.45%</text>
+
+<text 
+x="59" 
+y="714" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_20"
+>/enterprise-wealth-´omplian´e/</text>
+
+<text 
+x="406" 
+y="714" 
+dx="0,0,0" 
+class="s2_20"
+>567</text>
+
+<text 
+x="586" 
+y="714" 
+dx="0,0,0" 
+class="s2_20"
+>502</text>
+
+<text 
+x="783" 
+y="714" 
+dx="0,0,0,0,0,0,0" 
+class="s2_20"
+>0:02:19</text>
+
+<text 
+x="959" 
+y="714" 
+dx="0,0" 
+class="s2_20"
+>58</text>
+
+<text 
+x="1100" 
+y="714" 
+dx="0,0,0,0,0,0" 
+class="s1_20"
+>65.52%</text>
+
+<text 
+x="1258" 
+y="714" 
+dx="0,0,0,0,0,0" 
+class="s2_20"
+>33.86%</text>
+
+<text 
+x="406" 
+y="768" 
+dx="0,0,0,0,0,0" 
+class="s3_20"
+>39,017</text>
+
+<text 
+x="586" 
+y="768" 
+dx="0,0,0,0,0,0" 
+class="s3_20"
+>28,514</text>
+
+<text 
+x="783" 
+y="768" 
+dx="0,0,0,0,0,0,0" 
+class="s3_20"
+>0:02:07</text>
+
+<text 
+x="959" 
+y="768" 
+dx="0,0,0,0,0,0" 
+class="s3_20"
+>16,774</text>
+
+<text 
+x="1100" 
+y="768" 
+dx="0,0,0,0,0,0" 
+class="s3_20"
+>55.23%</text>
+
+<text 
+x="1258" 
+y="768" 
+dx="0,0,0,0,0,0" 
+class="s3_20"
+>42.99%</text>
+
+<path fill-rule="evenodd" d="M57.7,9.2l1259.5,0l0,158.8L57.7,168Z" class="g4_20" />
+<text 
+x="71" 
+y="116" 
+dx="0,0,0,-1.6,0,0,0,0,0,0,0,-1.6,0,0,0,0,0,0,0,0,0,0,-1.6,0,0,0,0,0,-1.6,0" 
+class="s4_20"
+>2. µe³site ·tatisti´s (part 1)</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: Calibri_64;
+	src: url("fonts/Calibri_64.woff") format("woff");
+}
+
+@font-face {
+	font-family: Calibri-Bold_6g;
+	src: url("fonts/Calibri-Bold_6g.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

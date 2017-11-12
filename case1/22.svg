@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 22 -->
+<svg x="0" y="0" width="1466" height="825" viewBox="0 0 1466 825" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c0_22"><path d="M0,821.4L0,0L1460.3,0l0,821.4Z" /></clipPath>
+
+<style type="text/css"><![CDATA[
+
+.g1_22{
+fill: #FFFFFF;
+}
+.g2_22{
+fill-opacity: 0;
+}
+.g3_22{
+fill: none;
+stroke: #FF0000;
+stroke-width: 1.5211779;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 1;
+}
+.g4_22{
+fill: none;
+stroke: #FF0000;
+stroke-width: 4.5635333;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 1;
+}
+.g5_22{
+fill: #FF0000;
+stroke: #FF0000;
+stroke-width: 4.5635333;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 11;
+}
+
+.s1_22{
+font-size: 21.30px;
+font-family: Calibri_64;
+fill: #000000;
+}
+.s2_22{
+font-size: 66.93px;
+font-family: Calibri_64;
+fill: #F46524;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,825
+L1466,825
+L1466,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<g clip-path="url(#c0_22)">
+<path fill-rule="evenodd" d="M0,0L1460.3,0l0,821.4L0,821.4Z" class="g1_22" />
+</g>
+<path fill-rule="evenodd" d="M811.2,258.5l593.3,0l0,530.9l-593.3,0Z" class="g2_22" />
+<image preserveAspectRatio="none" x="811" y="258" width="593" height="531" xlink:href="22/img/1.png" />
+<path fill-rule="evenodd" d="M119.1,362.2l627,0l0,267l-627,0Z" class="g2_22" />
+<image preserveAspectRatio="none" x="119" y="362" width="627" height="267" xlink:href="22/img/2.png" />
+<path fill-rule="evenodd" d="M57.7,176.3l1354.1,0l0,122.5l-1354.1,0Z" class="g2_22" />
+<text 
+x="57" 
+y="196" 
+dx="0,0,0,0,0,-0.5,0,0,-0.5,0,0,0,-0.5,0,0,0,0,0,0,0,-0.5,0,0,0,-0.5,0,0,0,0,0,0,0,0,-0.5,0,0,0,0,0,-0.5,0,-0.5,0,0,0,0,-0.5,0,0,0,-0.5,0,0,0,0,0,0" 
+class="s1_22"
+>°his is our ´urrent ·¸² ¶nalysis using a free ·¸² ¾lugin.</text>
+
+<text 
+x="57" 
+y="229" 
+dx="0,0,0,0,0,0,-0.5,0,0,0,0,0,0,0,0,-0.5,0,0,0,0,-0.5,0,0,0,-0.5,0,0,0,0,0,0,-0.5,0,0,-0.5,0,0,0,0,0,-0.5,0,-0.5,0,0,0,0,0,0,0,0,0,-0.5,0,0,-0.5,0,0,0,0,-0.5,0,0,0,-0.5,0,0,0,0,0,0,0,0,-0.5,0,0,0,-0.5,0,0,0,0,0,0,0,0,-0.5,0,0,0,-0.5,0,0,0,0,-0.5,0,0,0,-0.5,0,0,0,-0.5,0,0,0,0,0,-0.5,0,0,0,0,0,0,0,-0.5,0,0,0,-0.5,0,0,0,0,0,0,0,0,-0.5,0,0,0,0,0,0,0,-0.5,0,0,0,0,-0.5,0,0,0,-0.5,0,0,0,0,0,0,-0.5,0" 
+class="s1_22"
+>°hese settings need the inputs of ·ales &amp; ¼arketing to edit the keywords and snippets per page and per post. ¸diting the settings require time and effort in</text>
+
+<text 
+x="57" 
+y="257" 
+dx="0,0,0,0,0,0,0,0,-0.5,0,0,0,0,0,0,0,-0.5,0,0,-0.5,0,0,0,0,-0.5,0,0,0,-0.5,0,0,0,-0.5,0,0,0,0,0,0,0,0,-0.5,0,0,0,0,0,0" 
+class="s1_22"
+>´ontent writing to pass the ·¸² analysis ´he´ks.</text>
+
+<path fill-rule="evenodd" d="M1347.8,293.6l74.3,0l0,500.3l-74.3,0Z" class="g2_22" />
+<path d="M1347.8,293.6l74.3,0l0,500.3l-74.3,0Z" class="g3_22" />
+<path fill-rule="evenodd" d="M119.1,481.9l353.6,0l0,126.4l-353.6,0Z" class="g2_22" />
+<path d="M119.1,481.9l353.6,0l0,126.4l-353.6,0Z" class="g3_22" />
+<path fill-rule="evenodd" d="M459.3,493.5L1267,387.8Z" class="g2_22" />
+<path d="M459.3,493.5L1239.9,391.3" class="g4_22" />
+<path fill-rule="evenodd" d="M1240.8,398.8l19.6,-10.2l-21.5,-4.7Z" class="g5_22" />
+<path fill-rule="evenodd" d="M44.9,9.3l1259.6,0l0,158.8l-1259.6,0Z" class="g2_22" />
+<text 
+x="58" 
+y="117" 
+dx="0,0,0,0,0,0,0,0,0,0,-1.6,0,0,0,-1.6,0,0,0,0,0,0,0" 
+class="s2_22"
+>3.±urrent ·¸² ²verview</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: Calibri_64;
+	src: url("fonts/Calibri_64.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

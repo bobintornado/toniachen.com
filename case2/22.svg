@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 22 -->
+<svg x="0" y="0" width="1100" height="618" viewBox="0 0 1100 618" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_22{
+fill: #FFFFFF;
+}
+.g2_22{
+fill-opacity: 0;
+}
+.g3_22{
+fill: none;
+stroke: #000000;
+stroke-width: 1.1408833;
+stroke-linecap: butt;
+stroke-linejoin: round;
+stroke-miterlimit: 14;
+}
+.g4_22{
+stroke: #000000;
+stroke-width: 1.1408833;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 11;
+}
+
+.s1_22{
+font-size: 21.30px;
+font-family: ArialMT_5f;
+fill: #000000;
+}
+.s2_22{
+font-size: 21.30px;
+font-family: ArialMT_5f;
+fill: #F46524;
+}
+.s3_22{
+font-size: 21.30px;
+font-family: Arial-BoldMT_5r;
+fill: #F46524;
+}
+.s4_22{
+font-size: 45.64px;
+font-family: Raleway-Bold_5j;
+fill: #F46524;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,618
+L1100,618
+L1100,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path fill-rule="evenodd" d="M0,0L1095.2,0l0,616.1L0,616.1Z" class="g1_22" />
+<path fill-rule="evenodd" d="M37.3,150.6l1020.6,0l0,303l-1020.6,0Z" class="g2_22" />
+<text 
+x="57" 
+y="181" 
+dx="0,0" 
+class="s1_22"
+>³¶</text>
+
+<text 
+x="102" 
+y="181" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s1_22"
+>8toryboard</text>
+
+<text 
+x="57" 
+y="206" 
+dx="0,0" 
+class="s1_22"
+>±¶</text>
+
+<text 
+x="102" 
+y="206" 
+dx="0,0,0,0,0,0,0,0,0,0.6,0,0,0,0.6,0,0,0,0,0,0,0,0,0.6,0,0,0,0,0,0.6,0,0,0.6,0,0,0,0,0,0,0,0,0,0" 
+class="s1_22"
+>7esearch and analysis based on requirement</text>
+
+<text 
+x="57" 
+y="231" 
+dx="0,0" 
+class="s1_22"
+>·¶</text>
+
+<text 
+x="102" 
+y="231" 
+dx="0,0,0,0,0,0,0,0,0.6,0,0,0,0,0" 
+class="s1_22"
+>(oncept define</text>
+
+<text 
+x="57" 
+y="256" 
+dx="0,0" 
+class="s1_22"
+>¾¶</text>
+
+<text 
+x="102" 
+y="256" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0.6,0,0,0,0,0,0,0,0,0,0,0,0,0.6,0,0,0,0,0" 
+class="s1_22"
+>.nformation &amp;rchitecture define</text>
+
+<text 
+x="57" 
+y="281" 
+dx="0,0" 
+class="s1_22"
+>¼¶</text>
+
+<text 
+x="102" 
+y="281" 
+dx="0,0,0,0,0,0,0,0.6,0,0,0,0,0" 
+class="s1_22"
+>1ow´fi mockup</text>
+
+<text 
+x="57" 
+y="306" 
+dx="0,0" 
+class="s1_22"
+>½¶</text>
+
+<text 
+x="102" 
+y="306" 
+dx="0,0,0,0,0.6,0,0,0.6,0,0,0,0" 
+class="s1_22"
+>0ey :. pages</text>
+
+<text 
+x="57" 
+y="331" 
+dx="0,0" 
+class="s1_22"
+>°¶</text>
+
+<text 
+x="102" 
+y="331" 
+dx="0,0,0,0,0,0,0,0,0,0.6,0,0,0.6,0,0,0,0,0,0,0,0" 
+class="s1_22"
+>)etailed :. component</text>
+
+<path fill-rule="evenodd" d="M64.7,453.6l119.5,0l0,100.4L64.7,554Z" class="g2_22" />
+<text 
+x="75" 
+y="484" 
+dx="0,0,0,0,0,0,0" 
+class="s2_22"
+>(oncept</text>
+
+<path fill-rule="evenodd" d="M204.5,453.6l153.8,0l0,100.4l-153.8,0Z" class="g2_22" />
+<text 
+x="214" 
+y="484" 
+dx="0,0,0,0,0.6,0,0,0.6,0,0,0,0" 
+class="s2_22"
+>0ey :. pages</text>
+
+<path fill-rule="evenodd" d="M395.8,453.6l130.2,0L526,554l-130.2,0Z" class="g2_22" />
+<text 
+x="406" 
+y="484" 
+dx="0,0,0,0,0,0,0,0,0,0.6,0" 
+class="s2_22"
+>)etailed :.</text>
+
+<path fill-rule="evenodd" d="M56,401.9l203.7,0l0,35.7L56,437.6Z" class="g2_22" />
+<text 
+x="66" 
+y="432" 
+dx="0,0,0,0.6,0,0,0,0,0,0,0.6,0,0.6,0,0,0,0,0" 
+class="s1_22"
+>.n simple · steps#</text>
+
+<path fill-rule="evenodd" d="M154.2,484.1l56.7,0Z" class="g2_22" />
+<path d="M154.2,484.1l48.2,0" class="g3_22" />
+<path fill-rule="evenodd" d="M202.4,486.6l6.9,-2.5l-6.9,-2.5Z" class="g4_22" />
+<path fill-rule="evenodd" d="M344.8,482.7l53.8,0Z" class="g2_22" />
+<path d="M344.8,482.7l45.3,0" class="g3_22" />
+<path fill-rule="evenodd" d="M390.1,485.2l6.8,-2.5l-6.8,-2.5Z" class="g4_22" />
+<path fill-rule="evenodd" d="M526,482.7l53.8,0Z" class="g2_22" />
+<path d="M526,482.7l45.2,0" class="g3_22" />
+<path fill-rule="evenodd" d="M571.2,485.2l6.9,-2.5l-6.9,-2.5Z" class="g4_22" />
+<path fill-rule="evenodd" d="M585,453.6l219,0L804,554l-219,0Z" class="g1_22" />
+<text 
+x="595" 
+y="484" 
+dx="0,0,0,0,0,0.6,0,0" 
+class="s3_22"
+>8LJQ RII</text>
+
+<path fill-rule="evenodd" d="M36.3,49.3l712.6,0l0,76.6l-712.6,0Z" class="g2_22" />
+<text 
+x="46" 
+y="103" 
+dx="0,0,0,-0.5,0,0,0,0,0,0,-0.5,0,0,0,0,0,0,0,-0.5,0,0,0,0,0,0,0,0,0,0" 
+class="s4_22"
+>UI Design process standarlize</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: ArialMT_5f;
+	src: url("fonts/ArialMT_5f.woff") format("woff");
+}
+
+@font-face {
+	font-family: Arial-BoldMT_5r;
+	src: url("fonts/Arial-BoldMT_5r.woff") format("woff");
+}
+
+@font-face {
+	font-family: Raleway-Bold_5j;
+	src: url("fonts/Raleway-Bold_5j.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

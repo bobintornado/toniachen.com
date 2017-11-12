@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 32 -->
+<svg x="0" y="0" width="1100" height="618" viewBox="0 0 1100 618" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_32{
+fill: #FFFFFF;
+}
+.g2_32{
+fill-opacity: 0;
+}
+
+.s1_32{
+font-size: 21.30px;
+font-family: ArialMT_5f;
+fill: #000000;
+}
+.s2_32{
+font-size: 13.69px;
+font-family: ArialMT_5f;
+fill: #000000;
+}
+.s3_32{
+font-size: 45.64px;
+font-family: Raleway-Bold_5j;
+fill: #F46524;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,618
+L1100,618
+L1100,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path fill-rule="evenodd" d="M0,0L1095.2,0l0,616.1L0,616.1Z" class="g1_32" />
+<path fill-rule="evenodd" d="M44.3,125.9l550.6,0l0,52.6l-550.6,0Z" class="g2_32" />
+<text 
+x="54" 
+y="156" 
+dx="0,0,0,0.6,0,0,0,0,0,0,0,0.6,0,0,0.6,0,0,0,0.6,0,0,0,0,0,0,0,0,0.6,0,0,0,0.6,0,0,0,0.6,0,0,0,0,0.6,0,0,0,0,0,0" 
+class="s1_32"
+>.t matters of the mindsetµ not the tool itself¶</text>
+
+<path fill-rule="evenodd" d="M37.3,245.6l526.6,0l0,343.7l-526.6,0Z" class="g2_32" />
+<image preserveAspectRatio="none" x="37" y="246" width="527" height="343" xlink:href="32/img/1.png" />
+<path fill-rule="evenodd" d="M711,61.7l245.2,0l0,116.8l-245.2,0Z" class="g2_32" />
+<image preserveAspectRatio="none" x="711" y="62" width="245" height="117" xlink:href="32/img/2.png" />
+<path fill-rule="evenodd" d="M563.9,263.1l492.8,0l0,285.4l-492.8,0Z" class="g2_32" />
+<image preserveAspectRatio="none" x="564" y="263" width="493" height="286" xlink:href="32/img/3.png" />
+<path fill-rule="evenodd" d="M58.9,207.8l372.4,0l0,33.6l-372.4,0Z" class="g2_32" />
+<text 
+x="69" 
+y="238" 
+dx="0,0,0,0,0,0,0,0,0,0,0.6,0,0,0,0,0,0,0,0,0" 
+class="s1_32"
+>&amp;nimation supported#</text>
+
+<path fill-rule="evenodd" d="M563.9,207.8l477.7,0l0,55.3l-477.7,0Z" class="g2_32" />
+<text 
+x="574" 
+y="238" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0.6,0,0,0,0,0,0,0.6,0,0,0,0,0.6,0,0,0,0,0" 
+class="s1_32"
+>.nteraction sitmap very clearµ</text>
+
+<text 
+x="574" 
+y="256" 
+dx="0,0,0,0,0,0,0.4,0,0,0,0,0,0,0,0.4,0,0,0,0,0.4,0,0,0,0,0,0.4,0,0,0,0.4,0,0,0,0,0,0.4,0,0,0,0,0,0.4,0,0,0,0.4,0,0,0" 
+class="s2_32"
+>&amp;xure doesn’t show where can click where can not#</text>
+
+<path fill-rule="evenodd" d="M36.3,49.3l627.8,0l0,76.6l-627.8,0Z" class="g2_32" />
+<text 
+x="46" 
+y="103" 
+dx="0,0,0,0,-0.5,0,0,0,0,0,-0.5,0,0,0,0,0,0,0,-0.5,0,0,0,0,0" 
+class="s3_32"
+>New tool: Origami ±tudio</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: ArialMT_5f;
+	src: url("fonts/ArialMT_5f.woff") format("woff");
+}
+
+@font-face {
+	font-family: Raleway-Bold_5j;
+	src: url("fonts/Raleway-Bold_5j.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

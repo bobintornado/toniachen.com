@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 10 -->
+<svg x="0" y="0" width="1100" height="618" viewBox="0 0 1100 618" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_10{
+fill: #FFFFFF;
+}
+.g2_10{
+fill: #D9EAD3;
+}
+.g3_10{
+fill: #FFF2CC;
+}
+.g4_10{
+fill: none;
+stroke: #000000;
+stroke-width: 1.1408833;
+stroke-linecap: butt;
+stroke-linejoin: round;
+stroke-miterlimit: 14;
+stroke-dasharray: 5,4;
+}
+.g5_10{
+fill: none;
+stroke: #000000;
+stroke-width: 1.1408833;
+stroke-linecap: butt;
+stroke-linejoin: round;
+stroke-miterlimit: 14;
+}
+.g6_10{
+fill-opacity: 0;
+}
+.g7_10{
+stroke: #000000;
+stroke-width: 1.1408833;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 11;
+}
+.g8_10{
+fill: none;
+stroke: #FF0000;
+stroke-width: 1.1408833;
+stroke-linecap: butt;
+stroke-linejoin: round;
+stroke-miterlimit: 14;
+stroke-dasharray: 5,4;
+}
+.g9_10{
+fill: #FF0000;
+stroke: #FF0000;
+stroke-width: 1.1408833;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 11;
+}
+.g10_10{
+fill: none;
+stroke: #FF0000;
+stroke-width: 1.1408833;
+stroke-linecap: butt;
+stroke-linejoin: round;
+stroke-miterlimit: 14;
+}
+
+.s1_10{
+font-size: 15.21px;
+font-family: ArialMT_5f;
+fill: #000000;
+}
+.s2_10{
+font-size: 13.69px;
+font-family: ArialMT_5f;
+fill: #000000;
+}
+.s3_10{
+font-size: 21.30px;
+font-family: Arial-BoldMT_5r;
+fill: #F46524;
+}
+.s4_10{
+font-size: 45.64px;
+font-family: Raleway-Bold_5j;
+fill: #F46524;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,618
+L1100,618
+L1100,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path fill-rule="evenodd" d="M0,0L1095.2,0l0,616.1L0,616.1Z" class="g1_10" />
+<path fill-rule="evenodd" d="M447.2,140.4l643.1,0l0,440.5l-643.1,0Z" class="g2_10" />
+<path fill-rule="evenodd" d="M22.7,140.4l495.3,0l0,440.5l-495.3,0Z" class="g3_10" />
+<path fill-rule="evenodd" d="M27.6,224.5l115.7,0l0,57.6l-115.7,0Z" class="g1_10" />
+<path d="M27.6,224.5l115.7,0l0,57.6l-115.7,0Z" class="g4_10" />
+<text 
+x="59" 
+y="249" 
+dx="0,0,0,0,0,0,0" 
+class="s1_10"
+>5roduct</text>
+
+<text 
+x="55" 
+y="267" 
+dx="0,0,0,0,0,0,0" 
+class="s1_10"
+>2anager</text>
+
+<path fill-rule="evenodd" d="M227.7,359.6l115.6,0l0,57.6l-115.6,0Z" class="g1_10" />
+<path d="M227.7,359.6l115.6,0l0,57.6l-115.6,0Z" class="g5_10" />
+<text 
+x="261" 
+y="375" 
+dx="0,0,0,0,0,0" 
+class="s1_10"
+>)esign</text>
+
+<text 
+x="251" 
+y="393" 
+dx="0,0,0,0,0,0.4,0,0,0,0" 
+class="s1_10"
+>¸2eµ &amp;lexµ</text>
+
+<text 
+x="263" 
+y="412" 
+dx="0,0,0,0,0,0" 
+class="s1_10"
+>/essa¹</text>
+
+<path fill-rule="evenodd" d="M448.8,159.7l138.4,0l0,68.9l-138.4,0Z" class="g1_10" />
+<path d="M448.8,159.7l138.4,0l0,68.9l-138.4,0Z" class="g5_10" />
+<text 
+x="507" 
+y="199" 
+dx="0,0" 
+class="s1_10"
+>'&amp;</text>
+
+<path fill-rule="evenodd" d="M85.5,282.1l0,106.3l142.2,0Z" class="g6_10" />
+<path d="M85.5,290.6l0,97.8l133.6,0" class="g5_10" />
+<path fill-rule="evenodd" d="M88,290.6l-2.5,-6.9L83,290.6Z" class="g7_10" />
+<path fill-rule="evenodd" d="M219.1,390.9l6.9,-2.5l-6.9,-2.5Z" class="g7_10" />
+<path fill-rule="evenodd" d="M85.5,224.5l0,-30.3l363.3,0Z" class="g6_10" />
+<path d="M85.5,224.5l0,-30.3l359.2,0" class="g5_10" />
+<path fill-rule="evenodd" d="M444.7,194.2l-1.4,1.4l3.8,-1.4l-3.8,-1.4Z" class="g7_10" />
+<path fill-rule="evenodd" d="M143.3,396.2l72.9,0l0,39.2l-72.9,0Z" class="g6_10" />
+<text 
+x="153" 
+y="419" 
+dx="0,0,0,0,0,0,0" 
+class="s2_10"
+>2ockupµ</text>
+
+<text 
+x="153" 
+y="435" 
+dx="0,0,0,0,0,0,0" 
+class="s2_10"
+>scratch</text>
+
+<path fill-rule="evenodd" d="M90.3,291.3l112.7,0l0,39.2l-112.7,0Z" class="g6_10" />
+<text 
+x="100" 
+y="314" 
+dx="0,0,0,0,0" 
+class="s2_10"
+>&amp;xure</text>
+
+<path fill-rule="evenodd" d="M361.3,159.7l80.9,0l0,26.2l-80.9,0Z" class="g6_10" />
+<text 
+x="371" 
+y="183" 
+dx="0,0,0,0,0" 
+class="s2_10"
+>&amp;xure</text>
+
+<path fill-rule="evenodd" d="M518,228.6l-232.5,131Z" class="g6_10" />
+<path d="M510.5,232.8L292.9,355.4" class="g4_10" />
+<path fill-rule="evenodd" d="M511.8,235l4.7,-5.5l-7.2,1.2Z" class="g7_10" />
+<path fill-rule="evenodd" d="M291.7,353.2l-4.8,5.6l7.3,-1.2Z" class="g7_10" />
+<path fill-rule="evenodd" d="M265.2,324.3l0,0c0,-3,2.4,-5.4,5.4,-5.4l78.2,0c1.4,0,2.8,0.6,3.8,1.6c1.1,1,1.6,2.4,1.6,3.8l0,21.9c0,3,-2.4,5.4,-5.4,5.4l-78.2,0c-3,0,-5.4,-2.4,-5.4,-5.4Z" class="g1_10" />
+<path d="M265.2,324.3l0,0c0,-3,2.4,-5.4,5.4,-5.4l78.2,0c1.4,0,2.8,0.6,3.8,1.6c1.1,1,1.6,2.4,1.6,3.8l0,21.9c0,3,-2.4,5.4,-5.4,5.4l-78.2,0c-3,0,-5.4,-2.4,-5.4,-5.4Z" class="g4_10" />
+<text 
+x="277" 
+y="340" 
+dx="0,0,0,0.4,0,0,0" 
+class="s2_10"
+>3o .dea</text>
+
+<path fill-rule="evenodd" d="M106.9,102.4l262.6,0l0,32.7l-262.6,0Z" class="g6_10" />
+<text 
+x="147" 
+y="133" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0.6,0,0,0,0,0" 
+class="s3_10"
+>·QQRYFWLRQ iHVLJQ</text>
+
+<path fill-rule="evenodd" d="M851.3,159.7l138.3,0l0,68.9l-138.3,0Z" class="g1_10" />
+<path d="M851.3,159.7l138.3,0l0,68.9l-138.3,0Z" class="g5_10" />
+<text 
+x="894" 
+y="190" 
+dx="0,0,0,0,0,0,0" 
+class="s1_10"
+>5roduct</text>
+
+<text 
+x="883" 
+y="208" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s1_10"
+>(ommittee</text>
+
+<path fill-rule="evenodd" d="M859.3,388.4l138.4,0l0,68.9l-138.4,0Z" class="g1_10" />
+<path d="M859.3,388.4l138.4,0l0,68.9l-138.4,0Z" class="g5_10" />
+<text 
+x="883" 
+y="419" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_10"
+>)evelopment</text>
+
+<text 
+x="895" 
+y="437" 
+dx="0,0,0,0,0,0,0,0" 
+class="s1_10"
+>,rooming</text>
+
+<path fill-rule="evenodd" d="M859.3,489.3l138.4,0l0,68.9l-138.4,0Z" class="g1_10" />
+<path d="M859.3,489.3l138.4,0l0,68.9l-138.4,0Z" class="g5_10" />
+<text 
+x="892" 
+y="529" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s1_10"
+>5roduction</text>
+
+<path fill-rule="evenodd" d="M587.2,194.2l264.1,0Z" class="g6_10" />
+<path d="M595.7,194.2l247,0" class="g5_10" />
+<path fill-rule="evenodd" d="M595.7,191.7l-6.9,2.5l6.9,2.5Z" class="g7_10" />
+<path fill-rule="evenodd" d="M842.7,196.7l6.9,-2.5l-6.9,-2.5Z" class="g7_10" />
+<path fill-rule="evenodd" d="M928.5,457.3l0,32Z" class="g6_10" />
+<path d="M928.5,465.9l0,14.8" class="g5_10" />
+<path fill-rule="evenodd" d="M931,465.9L928.5,459l-2.5,6.9Z" class="g7_10" />
+<path fill-rule="evenodd" d="M926,480.7l2.5,6.9l2.5,-6.9Z" class="g7_10" />
+<path fill-rule="evenodd" d="M819.1,264.4l105.1,0l0,68.9l-105.1,0Z" class="g1_10" />
+<path d="M819.1,264.4l105.1,0l0,68.9l-105.1,0Z" class="g5_10" />
+<text 
+x="829" 
+y="304" 
+dx="0,0,0,0.4,0,0,0,0,0,0,0,0,0" 
+class="s1_10"
+>:. validation</text>
+
+<path fill-rule="evenodd" d="M924.2,264.4l105,0l0,68.9l-105,0Z" class="g1_10" />
+<path d="M924.2,264.4l105,0l0,68.9l-105,0Z" class="g5_10" />
+<text 
+x="947" 
+y="295" 
+dx="0,0,0,0,0,0,0,0" 
+class="s1_10"
+>+unction</text>
+
+<text 
+x="944" 
+y="313" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s1_10"
+>validation</text>
+
+<path fill-rule="evenodd" d="M819.1,298.9L587.2,194.2Z" class="g6_10" />
+<path d="M819.1,298.9L595,197.7" class="g5_10" />
+<path fill-rule="evenodd" d="M596,195.4l-7.3,-0.5L594,200Z" class="g7_10" />
+<path fill-rule="evenodd" d="M143.3,253.3L707,252.1Z" class="g6_10" />
+<path d="M143.3,253.3l555.1,-1.2" class="g8_10" />
+<path fill-rule="evenodd" d="M698.5,254.6l6.8,-2.5l-6.9,-2.5Z" class="g9_10" />
+<path fill-rule="evenodd" d="M920.5,228.6l0,17.9l-48.9,0l0,17.9Z" class="g6_10" />
+<path d="M920.5,228.6l0,17.9l-48.9,0l0,17.9" class="g5_10" />
+<path fill-rule="evenodd" d="M920.5,228.6l0,17.9l56.2,0l0,17.9Z" class="g6_10" />
+<path d="M920.5,228.6l0,17.9l56.2,0l0,17.9" class="g5_10" />
+<path fill-rule="evenodd" d="M871.6,333.3l0,27.6l56.9,0l0,27.5Z" class="g6_10" />
+<path d="M871.6,333.3l0,27.6l56.9,0l0,19" class="g5_10" />
+<path fill-rule="evenodd" d="M926,379.9l2.5,6.9l2.5,-6.9Z" class="g7_10" />
+<path fill-rule="evenodd" d="M976.7,333.3l0,27.6l-48.2,0l0,27.5Z" class="g6_10" />
+<path d="M976.7,333.3l0,27.6l-48.2,0l0,27.5" class="g5_10" />
+<path fill-rule="evenodd" d="M652.7,200.7l112.7,0l0,44.9l-112.7,0Z" class="g1_10" />
+<text 
+x="662" 
+y="224" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_10"
+>7eject»backlog</text>
+
+<text 
+x="662" 
+y="240" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_10"
+>(ommunicate</text>
+
+<path fill-rule="evenodd" d="M819.1,298.9L343.3,388.4Z" class="g6_10" />
+<path d="M819.1,298.9L351.7,386.8" class="g4_10" />
+<path fill-rule="evenodd" d="M351.2,384.4l-6.3,3.7l7.3,1.2Z" class="g7_10" />
+<path fill-rule="evenodd" d="M587.2,322.1l150.7,0l0,26.2l-150.7,0Z" class="g1_10" />
+<path d="M587.2,322.1l150.7,0l0,26.2l-150.7,0Z" class="g4_10" />
+<text 
+x="597" 
+y="345" 
+dx="0,0,0,0,0.4,0,0,0.4,0,0,0,0,0,0,0,0,0,0" 
+class="s2_10"
+>9ry to communicate</text>
+
+<path fill-rule="evenodd" d="M143.3,253.2l443.9,82Z" class="g6_10" />
+<path d="M143.3,253.2l435.5,80.5" class="g8_10" />
+<path fill-rule="evenodd" d="M578.3,336.2l7.2,-1.3l-6.3,-3.7Z" class="g9_10" />
+<path fill-rule="evenodd" d="M165.5,241.5l160.6,0l0,32.8l-160.6,0Z" class="g1_10" />
+<path d="M165.5,241.5l160.6,0l0,32.8l-160.6,0Z" class="g10_10" />
+<text 
+x="175" 
+y="264" 
+dx="0,0,0,0,0.4,0,0,0,0,0,0.4,0,0,0,0,0.4,0,0" 
+class="s2_10"
+>3ot clear sign off</text>
+
+<path fill-rule="evenodd" d="M720.2,102.4l262.5,0l0,32.7l-262.5,0Z" class="g6_10" />
+<text 
+x="773" 
+y="133" 
+dx="0,0,0,0,0,0,0,0,0.6,0,0,0,0,0" 
+class="s3_10"
+>5URiXhW iHVLJQ</text>
+
+<path fill-rule="evenodd" d="M22.7,20.6l1020.6,0l0,76.6L22.7,97.2Z" class="g6_10" />
+<text 
+x="32" 
+y="74" 
+dx="0,0,0,0,0,0,0,0,-0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.5,0,0,0,0,0,0" 
+class="s4_10"
+>Current collaboration process</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: ArialMT_5f;
+	src: url("fonts/ArialMT_5f.woff") format("woff");
+}
+
+@font-face {
+	font-family: Arial-BoldMT_5r;
+	src: url("fonts/Arial-BoldMT_5r.woff") format("woff");
+}
+
+@font-face {
+	font-family: Raleway-Bold_5j;
+	src: url("fonts/Raleway-Bold_5j.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 23 -->
+<svg x="0" y="0" width="1100" height="618" viewBox="0 0 1100 618" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_23{
+fill: #FFFFFF;
+}
+.g2_23{
+fill-opacity: 0;
+}
+.g3_23{
+fill: none;
+stroke: #000000;
+stroke-width: 1.1408833;
+stroke-linecap: butt;
+stroke-linejoin: round;
+stroke-miterlimit: 14;
+stroke-dasharray: 5,4;
+}
+.g4_23{
+stroke: #000000;
+stroke-width: 1.1408833;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 11;
+}
+
+.s1_23{
+font-size: 15.21px;
+font-family: ArialMT_5f;
+fill: #000000;
+}
+.s2_23{
+font-size: 45.64px;
+font-family: Raleway-Bold_5j;
+fill: #F46524;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,618
+L1100,618
+L1100,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path fill-rule="evenodd" d="M0,0L1095.2,0l0,616.1L0,616.1Z" class="g1_23" />
+<path fill-rule="evenodd" d="M21.1,149.2l402.9,0l0,48.3l-402.9,0Z" class="g2_23" />
+<text 
+x="31" 
+y="174" 
+dx="0,0,0,0,0,0.4,0,0,0.4,0,0,0,0.4,0,0,0,0.4,0,0,0,0,0.4,0,0,0.4,0,0,0,0,0,0,0.4,0,0,0.4,0,0,0,0,0,0,0,0,0.4,0,0,0,0,0,0,0" 
+class="s1_23"
+>&lt;hat we see and need to design as standard software</text>
+
+<text 
+x="31" 
+y="192" 
+dx="0,0,0,0.4,0,0,0,0,0,0,0.4,0,0.4" 
+class="s1_23"
+>:. layers # ¼</text>
+
+<path fill-rule="evenodd" d="M14.6,271.7l523.6,0l0,216.8l-523.6,0Z" class="g2_23" />
+<image preserveAspectRatio="none" x="15" y="272" width="523" height="217" xlink:href="23/img/1.png" />
+<path fill-rule="evenodd" d="M571.4,197.5l508.8,0l0,309.9l-508.8,0Z" class="g2_23" />
+<image preserveAspectRatio="none" x="571" y="198" width="509" height="309" xlink:href="23/img/2.png" />
+<path fill-rule="evenodd" d="M571.4,149.2l402.9,0l0,48.3l-402.9,0Z" class="g2_23" />
+<text 
+x="581" 
+y="174" 
+dx="0,0,0,0,0,0.4,0,0,0.4,0,0,0,0,0,0,0,0,0.4,0,0" 
+class="s1_23"
+>&lt;hat it actually is#</text>
+
+<path fill-rule="evenodd" d="M424,173.4l147.4,0Z" class="g2_23" />
+<path d="M432.5,173.4l130.4,0" class="g3_23" />
+<path fill-rule="evenodd" d="M432.5,170.9l-6.9,2.5l6.9,2.5Z" class="g4_23" />
+<path fill-rule="evenodd" d="M562.9,175.9l6.8,-2.5l-6.8,-2.5Z" class="g4_23" />
+<path fill-rule="evenodd" d="M28.5,47.1l1020.6,0l0,76.6l-1020.6,0Z" class="g2_23" />
+<text 
+x="38" 
+y="101" 
+dx="0,0,0,0,0,0,0,0,-0.5,0,0,-0.5,0,0,0,0,0,0,0,0,0,0,0,0,-0.5,0,0,0,0,0,0,0,0,0,0" 
+class="s2_23"
+>Product UI architecture standardize</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: ArialMT_5f;
+	src: url("fonts/ArialMT_5f.woff") format("woff");
+}
+
+@font-face {
+	font-family: Raleway-Bold_5j;
+	src: url("fonts/Raleway-Bold_5j.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

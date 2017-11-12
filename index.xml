@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tonia Chen</title>
+    <link>https://toniachen.com/</link>
+    <description>Recent content on Tonia Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Tonia Chen</copyright>
+    
+	<atom:link href="https://toniachen.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Case Study: AG Delta Website Revamp</title>
+      <link>https://toniachen.com/uxs/case-study-ag-delta-website-revamp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://toniachen.com/uxs/case-study-ag-delta-website-revamp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Case Study: Design Process and collaboration solution</title>
+      <link>https://toniachen.com/uxs/case-study-design-process-and-collaboration-solution/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://toniachen.com/uxs/case-study-design-process-and-collaboration-solution/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 21 -->
+<svg x="0" y="0" width="1100" height="618" viewBox="0 0 1100 618" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_21{
+fill: #FFFFFF;
+}
+.g2_21{
+fill-opacity: 0;
+}
+
+.s1_21{
+font-size: 45.64px;
+font-family: Raleway-Bold_5j;
+fill: #F46524;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,618
+L1100,618
+L1100,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path fill-rule="evenodd" d="M0,0L1095.2,0l0,616.1L0,616.1Z" class="g1_21" />
+<path fill-rule="evenodd" d="M37.3,176.7l1029.2,0l0,389l-1029.2,0Z" class="g2_21" />
+<image preserveAspectRatio="none" x="37" y="127" width="1030" height="439" xlink:href="21/img/1.png" />
+<path fill-rule="evenodd" d="M32.9,22.5l1020.5,0l0,123.3l-1020.5,0Z" class="g2_21" />
+<text 
+x="43" 
+y="76" 
+dx="0,0,0,0,0,0,0,0,0,0,-0.5,0,0,0,0,0,0,0,-0.5,0,0,-0.5,0,0,0,-0.5,0,0,0,0,0,0,0,-0.5,0,0,0,0,0,0,0" 
+class="s1_21"
+>±ummarize current UI and product roadmap²</text>
+
+<text 
+x="43" 
+y="131" 
+dx="0,0,0,0,0,0,0,0,0,-0.5,0,0,0,-0.5,0,0,0,0,0,0,0,0,0,0" 
+class="s1_21"
+>planning and scheduling³</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: Raleway-Bold_5j;
+	src: url("fonts/Raleway-Bold_5j.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

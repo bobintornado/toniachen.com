@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 2 -->
+<svg x="0" y="0" width="1100" height="618" viewBox="0 0 1100 618" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_2{
+fill: #F46524;
+}
+.g2_2{
+fill-opacity: 0;
+}
+.g3_2{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 4.5635333;
+stroke-linecap: butt;
+stroke-linejoin: round;
+stroke-miterlimit: 14;
+}
+.g4_2{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 2.2817667;
+stroke-linecap: butt;
+stroke-linejoin: round;
+stroke-miterlimit: 14;
+}
+
+.s1_2{
+font-size: 16.73px;
+font-family: ArialMT_5f;
+fill: #FFFFFF;
+}
+.s2_2{
+font-size: 73.02px;
+font-family: Raleway-Bold_5j;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,618
+L1100,618
+L1100,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path fill-rule="evenodd" d="M0,0L1095.2,0l0,616.1L0,616.1Z" class="g1_2" />
+<path fill-rule="evenodd" d="M50.9,49.8l993.8,0Z" class="g2_2" />
+<path d="M50.9,49.8l993.8,0" class="g3_2" />
+<path fill-rule="evenodd" d="M50.9,567.7l993.8,0Z" class="g2_2" />
+<path d="M50.9,567.7l993.8,0" class="g4_2" />
+<path fill-rule="evenodd" d="M37.3,276.9l1020.6,0l0,62.3l-1020.6,0Z" class="g2_2" />
+<text 
+x="47" 
+y="303" 
+dx="0,0,0,0.5,0,0,0,0,0,0,0.5,0,0,0,0,0.5,0,0,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.5,0,0,0,0,0,0,0,0,0,0,0.5,0,0.5,0,0,0,0,0.5,0,0,0,0,0,0,0,0.5,0,0,0,0.5,0,0,0,0,0,0,0,0,0,0,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0.5,0,0,0,0,0,0,0,0,0,0,0,0.5,0,0,0.5,0,0,0,0,0.5,0,0,0,0,0.5,0,0,0,0,0,0,0.5,0,0,0,0.5,0,0,0,0,0,0,0,0,0,0" 
+class="s1_2"
+>9o comply with my non´disclosure agreementµ . have omitted and obfuscated confidential information in this case study¶ &amp;ll information</text>
+
+<text 
+x="47" 
+y="326" 
+dx="0,0,0,0.5,0,0,0,0,0.5,0,0,0,0,0.5,0,0,0,0,0,0.5,0,0,0.5,0,0,0.5,0,0,0,0.5,0,0,0,0.5,0,0,0,0,0.5,0,0,0,0.5,0,0,0,0,0,0,0,0,0,0,0,0.5,0,0,0,0,0,0,0,0.5,0,0,0,0.5,0,0,0,0,0,0.5,0,0,0.5,0,0,0.5,0,0,0,0,0,0,0" 
+class="s1_2"
+>in this case study is my own and does not necessarily reflect the views of my company¶</text>
+
+<path fill-rule="evenodd" d="M48.7,67.9l993.8,0l0,184.7l-993.8,0Z" class="g2_2" />
+<text 
+x="58" 
+y="186" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s2_2"
+>Disclaimer</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: ArialMT_5f;
+	src: url("fonts/ArialMT_5f.woff") format("woff");
+}
+
+@font-face {
+	font-family: Raleway-Bold_5j;
+	src: url("fonts/Raleway-Bold_5j.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

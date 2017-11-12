@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 33 -->
+<svg x="0" y="0" width="1466" height="825" viewBox="0 0 1466 825" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c0_33"><path d="M0,821.4L0,0L1460.3,0l0,821.4Z" /></clipPath>
+
+<style type="text/css"><![CDATA[
+
+.g1_33{
+fill: #FFFFFF;
+}
+.g2_33{
+fill-opacity: 0;
+}
+.g3_33{
+fill: none;
+stroke: #DB7B67;
+stroke-width: 3.0423558;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 1;
+}
+.g4_33{
+fill: none;
+stroke: #DB7B67;
+stroke-width: 3.0423558;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 1;
+stroke-dasharray: 13,10,4,10;
+}
+
+.s1_33{
+font-size: 24.34px;
+font-family: Calibri_64;
+fill: #F46524;
+}
+.s2_33{
+font-size: 21.30px;
+font-family: Calibri_64;
+fill: #C00000;
+}
+.s3_33{
+font-size: 66.93px;
+font-family: Calibri_64;
+fill: #F46524;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,825
+L1466,825
+L1466,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<g clip-path="url(#c0_33)">
+<path fill-rule="evenodd" d="M0,0L1460.3,0l0,821.4L0,821.4Z" class="g1_33" />
+</g>
+<path fill-rule="evenodd" d="M1386.8,287l34.2,0l0,374.7l-34.2,0Z" class="g2_33" />
+<image preserveAspectRatio="none" x="1387" y="-147" width="34" height="809" xlink:href="33/img/1.png" />
+<path fill-rule="evenodd" d="M363.1,96.5l206.9,0l0,657.3l-206.9,0Z" class="g2_33" />
+<image preserveAspectRatio="none" x="363" y="97" width="207" height="657" xlink:href="33/img/2.png" />
+<path fill-rule="evenodd" d="M421.6,39.3l118.7,0l0,38.2l-118.7,0Z" class="g2_33" />
+<text 
+x="425" 
+y="66" 
+dx="0,0,0,0,0,0,0" 
+class="s1_33"
+>Áesktop</text>
+
+<path fill-rule="evenodd" d="M762.7,45.1l98.4,0l0,38.1l-98.4,0Z" class="g2_33" />
+<text 
+x="766" 
+y="72" 
+dx="0,0,0,0,0,0" 
+class="s1_33"
+>°a³let</text>
+
+<path fill-rule="evenodd" d="M742.3,90.3l118.7,0l0,605.8l-118.7,0Z" class="g2_33" />
+<image preserveAspectRatio="none" x="742" y="90" width="119" height="809" xlink:href="33/img/3.png" />
+<path fill-rule="evenodd" d="M1142.2,90.3l44.9,0l0,712.3l-44.9,0Z" class="g2_33" />
+<image preserveAspectRatio="none" x="1142" y="90" width="45" height="1066" xlink:href="33/img/4.png" />
+<path fill-rule="evenodd" d="M1159.3,39.3l118.7,0l0,38.2l-118.7,0Z" class="g2_33" />
+<text 
+x="1162" 
+y="66" 
+dx="0,0,0,0,0,0" 
+class="s1_33"
+>¼o³ile</text>
+
+<path fill-rule="evenodd" d="M1141.8,111.6l64.9,0l0,75.7l-64.9,0Z" class="g2_33" />
+<path d="M1141.8,111.6l64.9,0l0,75.7l-64.9,0Z" class="g3_33" />
+<path fill-rule="evenodd" d="M1223.3,114l161.4,0l0,60.3l-161.4,0Z" class="g2_33" />
+<text 
+x="1226" 
+y="139" 
+dx="0,0,0,0,0,0,0,-0.5,0,0,0,0,0" 
+class="s2_33"
+>Âanner layout</text>
+
+<text 
+x="1226" 
+y="164" 
+dx="0,0,0,0,0,0,-0.5,0,0,-0.5,0,0,0,0,0,0" 
+class="s2_33"
+>¿eeds to improve</text>
+
+<path fill-rule="evenodd" d="M1353.2,398.3l64.8,0l0,197.2l-64.8,0Z" class="g2_33" />
+<path d="M1353.2,398.3l64.8,0l0,197.2l-64.8,0Z" class="g3_33" />
+<path fill-rule="evenodd" d="M1217.9,325.1l130.9,0l0,34.4l-130.9,0Z" class="g2_33" />
+<text 
+x="1221" 
+y="337" 
+dx="0,0,0,0,-0.5,0,0,0" 
+class="s2_33"
+>°oo mu´h</text>
+
+<text 
+x="1221" 
+y="362" 
+dx="0,0,0,0" 
+class="s2_33"
+>text</text>
+
+<path fill-rule="evenodd" d="M1141.8,677.9l64.9,0l0,103l-64.9,0Z" class="g2_33" />
+<path d="M1141.8,677.9l64.9,0l0,103l-64.9,0Z" class="g3_33" />
+<path fill-rule="evenodd" d="M1221.1,712.2l89.2,0l0,34.4l-89.2,0Z" class="g2_33" />
+<text 
+x="1224" 
+y="724" 
+dx="0,0,0" 
+class="s2_33"
+>°oo</text>
+
+<text 
+x="1224" 
+y="749" 
+dx="0,0,0,0,0" 
+class="s2_33"
+>small</text>
+
+<path fill-rule="evenodd" d="M878.5,493.8l118.7,0l0,280l-118.7,0Z" class="g2_33" />
+<image preserveAspectRatio="none" x="878" y="-34" width="119" height="808" xlink:href="33/img/5.png" />
+<path fill-rule="evenodd" d="M1141.8,278.4l64.9,0l0,179.2l-64.9,0Z" class="g2_33" />
+<path d="M1141.8,278.4l64.9,0l0,179.2l-64.9,0Z" class="g3_33" />
+<path fill-rule="evenodd" d="M1255.8,477.1l85.6,0l0,34.4l-85.6,0Z" class="g2_33" />
+<text 
+x="1259" 
+y="489" 
+dx="0,0,0" 
+class="s2_33"
+>°oo</text>
+
+<text 
+x="1259" 
+y="514" 
+dx="0,0,0,0" 
+class="s2_33"
+>Æong</text>
+
+<path fill-rule="evenodd" d="M742,105.2l137.5,0l0,157.9l-137.5,0Z" class="g2_33" />
+<path d="M742,105.2l137.5,0l0,157.9l-137.5,0Z" class="g3_33" />
+<path fill-rule="evenodd" d="M897.7,131.5l158.9,0l0,60.2l-158.9,0Z" class="g2_33" />
+<text 
+x="901" 
+y="156" 
+dx="0,0,0,0,0,0,0,-0.5,0,0,0,0,0" 
+class="s2_33"
+>Âanner layout</text>
+
+<text 
+x="901" 
+y="182" 
+dx="0,0,0,0,0,0,-0.5,0,0,-0.5,0,0,0,0,0,0" 
+class="s2_33"
+>needs to improve</text>
+
+<path fill-rule="evenodd" d="M607.3,329.1l98.4,0l0,137.7l-98.4,0Z" class="g2_33" />
+<text 
+x="610" 
+y="355" 
+dx="0,0,0,0,0,0" 
+class="s2_33"
+>Æayout</text>
+
+<text 
+x="610" 
+y="380" 
+dx="0,0,0,0,0,0,0" 
+class="s2_33"
+>¾attern</text>
+
+<text 
+x="610" 
+y="405" 
+dx="0,0,0,0,0,0" 
+class="s2_33"
+>should</text>
+
+<text 
+x="610" 
+y="430" 
+dx="0,0,0,0" 
+class="s2_33"
+>keep</text>
+
+<text 
+x="610" 
+y="456" 
+dx="0,0,0,0,-0.5,0,0,0" 
+class="s2_33"
+>the same</text>
+
+<path fill-rule="evenodd" d="M1138.4,285.1L698,375Z" class="g2_33" />
+<path d="M1138.4,285.1L698,375" class="g4_33" />
+<path fill-rule="evenodd" d="M598,394.5l-34.1,0Z" class="g2_33" />
+<path d="M598,394.5l-34.1,0" class="g4_33" />
+<path fill-rule="evenodd" d="M763.7,394.5l-65.7,0Z" class="g2_33" />
+<path d="M763.7,394.5l-65.7,0" class="g4_33" />
+<path fill-rule="evenodd" d="M14.4,20.7l391.2,0l0,75.8l-391.2,0Z" class="g2_33" />
+<text 
+x="28" 
+y="86" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_33"
+>5.¹esponsive</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: Calibri_64;
+	src: url("fonts/Calibri_64.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

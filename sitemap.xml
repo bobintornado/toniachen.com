@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://toniachen.com/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://toniachen.com/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://toniachen.com/uis/</loc>
+  </url>
+  
+  <url>
+    <loc>https://toniachen.com/writings/</loc>
+  </url>
+  
+  <url>
+    <loc>https://toniachen.com/uxs/case-study-ag-delta-website-revamp/</loc>
+  </url>
+  
+  <url>
+    <loc>https://toniachen.com/uxs/case-study-design-process-and-collaboration-solution/</loc>
+  </url>
+  
+  <url>
+    <loc>https://toniachen.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://toniachen.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://toniachen.com/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://toniachen.com/uxs/</loc>
+  </url>
+  
+</urlset>

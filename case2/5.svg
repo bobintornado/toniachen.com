@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 5 -->
+<svg x="0" y="0" width="1100" height="618" viewBox="0 0 1100 618" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c0_5"><path d="M0,616.1L0,0L1095.2,0l0,616.1Z" /></clipPath>
+
+<style type="text/css"><![CDATA[
+
+.g1_5{
+fill: #FFFFFF;
+}
+.g2_5{
+fill: #F46524;
+}
+.g3_5{
+fill-opacity: 0;
+}
+.g4_5{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 2.2817667;
+stroke-linecap: butt;
+stroke-linejoin: round;
+stroke-miterlimit: 14;
+}
+
+.s1_5{
+font-size: 79.10px;
+font-family: ArialMT_5f;
+fill: #F46524;
+}
+.s2_5{
+font-size: 27.38px;
+font-family: ArialMT_5f;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,618
+L1100,618
+L1100,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path fill-rule="evenodd" d="M0,0L1095.2,0l0,616.1L0,616.1Z" class="g1_5" />
+<g clip-path="url(#c0_5)">
+<path fill-rule="evenodd" d="M547.6,0l547.6,0l0,616.1l-547.6,0Z" class="g2_5" />
+</g>
+<path fill-rule="evenodd" d="M602.4,538.5l56.1,0Z" class="g3_5" />
+<path d="M602.4,538.5l56.1,0" class="g4_5" />
+<path fill-rule="evenodd" d="M31.8,172.7l484.5,0l0,209.6l-484.5,0Z" class="g3_5" />
+<text 
+x="126" 
+y="258" 
+dx="0,0,0,0,0,0,0" 
+class="s1_5"
+>5roblem</text>
+
+<text 
+x="100" 
+y="353" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s1_5"
+>statement</text>
+
+<path fill-rule="evenodd" d="M591.6,86.7l459.6,0l0,442.6l-459.6,0Z" class="g3_5" />
+<text 
+x="601" 
+y="147" 
+dx="0,0,0,0.7,0,0,0,0,0.7,0,0.7,0,0,0,0,0,0,0.7,0,0,0,0,0,0.7,0,0,0" 
+class="s2_5"
+>&lt;e have ± design teams nowµ</text>
+
+<text 
+x="601" 
+y="209" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0.7,0,0,0,0,0,0,0.7,0,0.7,0,0,0,0,0,0,0,0.7,0,0,0,0,0,0" 
+class="s2_5"
+>.nnovation design º 5roduct design¶</text>
+
+<text 
+x="601" 
+y="271" 
+dx="0,0,0,0,0,0,0.7,0,0,0.7,0,0,0,0,0,0,0,0,0,0.7,0,0,0.7,0,0,0,0,0,0,0,0.7,0,0,0,0" 
+class="s2_5"
+>9here is confusion of unclear roles</text>
+
+<text 
+x="601" 
+y="308" 
+dx="0,0,0,0,0.7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.7,0,0,0,0,0,0,0.7,0,0,0,0,0.7,0,0" 
+class="s2_5"
+>and responsibilities during sign off</text>
+
+<text 
+x="601" 
+y="346" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s2_5"
+>progress¶</text>
+
+<text 
+x="601" 
+y="407" 
+dx="0,0,0,0,0.7,0,0,0.7,0,0,0,0,0,0.7,0,0,0,0,0.7,0,0,0,0.7,0,0,0,0,0.7,0,0,0.7,0,0" 
+class="s2_5"
+>1et me share with you some of the</text>
+
+<text 
+x="601" 
+y="445" 
+dx="0,0,0,0,0,0,0,0,0.7,0,0,0,0,0,0,0.7,0,0,0,0,0,0,0,0,0,0,0,0,0,0.7,0,0,0" 
+class="s2_5"
+>current design deliverablesµ pros</text>
+
+<text 
+x="601" 
+y="483" 
+dx="0,0,0,0,0.7,0,0,0,0,0.7,0,0,0.7,0,0,0,0.7,0,0,0,0,0,0,0,0,0,0.7,0,0,0,0,0,0" 
+class="s2_5"
+>and cons in the following slides¶</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: ArialMT_5f;
+	src: url("fonts/ArialMT_5f.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

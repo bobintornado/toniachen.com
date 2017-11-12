@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 31 -->
+<svg x="0" y="0" width="1466" height="825" viewBox="0 0 1466 825" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c0_31"><path d="M0,821.4L0,0L1460.3,0l0,821.4Z" /></clipPath>
+
+<style type="text/css"><![CDATA[
+
+.g1_31{
+fill: #FFFFFF;
+}
+.g2_31{
+fill-opacity: 0;
+}
+.g3_31{
+fill: none;
+stroke: #DB7B67;
+stroke-width: 3.0423558;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 1;
+stroke-dasharray: 13,10,4,10;
+}
+.g4_31{
+fill: none;
+stroke: #DB7B67;
+stroke-width: 1.5211779;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 1;
+stroke-dasharray: 7,5,2,5;
+}
+.g5_31{
+fill: #DB7B67;
+fill-opacity: 0.368627;
+}
+
+.s1_31{
+font-size: 21.30px;
+font-family: Calibri-Bold_6g;
+fill: #C00000;
+}
+.s2_31{
+font-size: 21.30px;
+font-family: Calibri_64;
+fill: #C00000;
+}
+.s3_31{
+font-size: 66.93px;
+font-family: Calibri_64;
+fill: #F46524;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,825
+L1466,825
+L1466,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<g clip-path="url(#c0_31)">
+<path fill-rule="evenodd" d="M0,0L1460.3,0l0,821.4L0,821.4Z" class="g1_31" />
+</g>
+<path fill-rule="evenodd" d="M891,80.3l206.9,0l0,657.3l-206.9,0Z" class="g2_31" />
+<image preserveAspectRatio="none" x="891" y="80" width="207" height="658" xlink:href="31/img/1.png" />
+<path fill-rule="evenodd" d="M920.9,775.7l0,-697.6Z" class="g2_31" />
+<path d="M920.9,775.7l0,-697.6" class="g3_31" />
+<path fill-rule="evenodd" d="M1066.2,775.7l0,-697.6Z" class="g2_31" />
+<path d="M1066.2,775.7l0,-697.6" class="g3_31" />
+<path fill-rule="evenodd" d="M1194.3,79.9l207.5,0l0,661.5l-207.5,0Z" class="g2_31" />
+<image preserveAspectRatio="none" x="1194" y="80" width="208" height="661" xlink:href="31/img/2.png" />
+<path fill-rule="evenodd" d="M1227.6,59.7l141.1,0Z" class="g2_31" />
+<path d="M1227.6,59.7l141.1,0" class="g4_31" />
+<path fill-rule="evenodd" d="M1227.7,81.5l0,-28.8Z" class="g2_31" />
+<path d="M1227.7,81.5l0,-28.8" class="g4_31" />
+<path fill-rule="evenodd" d="M1366.2,81.5l0,-28.8Z" class="g2_31" />
+<path d="M1366.2,81.5l0,-28.8" class="g4_31" />
+<path fill-rule="evenodd" d="M1158.6,4.1l279.1,0l0,60.3l-279.1,0Z" class="g2_31" />
+<text 
+x="1162" 
+y="29" 
+dx="0,0,0,0,0" 
+class="s1_31"
+>Ärid:</text>
+
+<text 
+x="1162" 
+y="54" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,-0.5,0,0,0,0,0,-0.5,0,0,0,-0.5,0,0,0,0,0" 
+class="s1_31"
+>·e²ommended »rea, 5-9 grids.</text>
+
+<path fill-rule="evenodd" d="M881.9,6.4l247.5,0l0,60.2l-247.5,0Z" class="g2_31" />
+<text 
+x="885" 
+y="19" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s1_31"
+>»lignment:</text>
+
+<text 
+x="885" 
+y="44" 
+dx="0,0,0,0,0,0,-0.5,0,0,0,0,-0.5,0,0,0" 
+class="s1_31"
+>½eeds more well</text>
+
+<text 
+x="885" 
+y="69" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s1_31"
+>organised.</text>
+
+<path fill-rule="evenodd" d="M933.2,192.4l123.1,0l0,71.1l-123.1,0Z" class="g5_31" />
+<path fill-rule="evenodd" d="M899.9,275.1l189.7,0l0,104.1l-189.7,0Z" class="g5_31" />
+<path fill-rule="evenodd" d="M899.9,390.8l189.7,0l0,83.3l-189.7,0Z" class="g5_31" />
+<path fill-rule="evenodd" d="M910.5,476.1l174.2,0l0,61.8l-174.2,0Z" class="g5_31" />
+<path fill-rule="evenodd" d="M900.6,547.1l188.3,0l0,88.8l-188.3,0Z" class="g5_31" />
+<path fill-rule="evenodd" d="M942.4,659.1l104.7,0l0,61.8l-104.7,0Z" class="g5_31" />
+<path fill-rule="evenodd" d="M930,730.1l129.5,0l0,44.5l-129.5,0Z" class="g5_31" />
+<path fill-rule="evenodd" d="M499.9,262.5l279.6,0l0,445.6l-279.6,0Z" class="g2_31" />
+<image preserveAspectRatio="none" x="500" y="262" width="279" height="446" xlink:href="31/img/3.png" />
+<path fill-rule="evenodd" d="M53.2,540.3l385.8,0L439,730L53.2,730Z" class="g2_31" />
+<image preserveAspectRatio="none" x="53" y="540" width="386" height="190" xlink:href="31/img/4.png" />
+<path fill-rule="evenodd" d="M83.9,527l330,0l0,207.8l-330,0Z" class="g2_31" />
+<image preserveAspectRatio="none" x="84" y="527" width="330" height="208" xlink:href="31/img/5.png" />
+<path fill-rule="evenodd" d="M533.2,302.9l228.8,0l0,371.4l-228.8,0Z" class="g2_31" />
+<image preserveAspectRatio="none" x="533" y="303" width="229" height="371" xlink:href="31/img/6.png" />
+<path fill-rule="evenodd" d="M264.7,172.4l617.1,0l0,53.2l-617.1,0Z" class="g2_31" />
+<text 
+x="322" 
+y="206" 
+dx="0,0,0,0,0,0,0,0,-0.5,0,0,0,0,0,-0.5,0,0,0,0,-0.5,0" 
+class="s2_31"
+>*Åolden ¹atio must ³e</text>
+
+<text 
+x="525" 
+y="206" 
+dx="0,0,0,0,0,0,0,0,0,-0.5,0,0,0,0,0,0" 
+class="s1_31"
+>¸À·ºµÀ¶Y »°°¶º´Å</text>
+
+<text 
+x="689" 
+y="206" 
+dx="0,0,0,-0.5,0,0,0,0,0,0,0,-0.5,0,0,0,0,0,0,0" 
+class="s2_31"
+>in further designs.</text>
+
+<path fill-rule="evenodd" d="M53.4,268l385.1,0l0,186.1l-385.1,0Z" class="g2_31" />
+<image preserveAspectRatio="none" x="53" y="268" width="385" height="186" xlink:href="31/img/7.png" />
+<path fill-rule="evenodd" d="M91.5,256.8l330,0l0,207.8l-330,0Z" class="g2_31" />
+<image preserveAspectRatio="none" x="91" y="257" width="331" height="208" xlink:href="31/img/8.png" />
+<path fill-rule="evenodd" d="M546,527.2l77.7,0l0,128.6l-77.7,0Z" class="g5_31" />
+<path fill-rule="evenodd" d="M55.6,191l229.2,0l0,60.2l-229.2,0Z" class="g2_31" />
+<text 
+x="59" 
+y="203" 
+dx="0,0,0,0,0,0,0" 
+class="s1_31"
+>¶ayout:</text>
+
+<text 
+x="59" 
+y="228" 
+dx="0,0,0,0,0,0,-0.5,0,0,0,0" 
+class="s1_31"
+>½eeds small</text>
+
+<text 
+x="59" 
+y="254" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_31"
+>adjustments.</text>
+
+<path fill-rule="evenodd" d="M550,744.2l171.5,0l0,34.4l-171.5,0Z" class="g2_31" />
+<text 
+x="553" 
+y="769" 
+dx="0,0,0,0,-0.5,0,0,0,0,-0.5,0,0,0,0,0,0,0,0" 
+class="s1_31"
+>not well organised</text>
+
+<path fill-rule="evenodd" d="M553.3,745.1l0,-88.8Z" class="g2_31" />
+<path d="M553.3,745.1l0,-88.8" class="g3_31" />
+<path fill-rule="evenodd" d="M44.3,43.7l876.6,0l0,88.8l-876.6,0Z" class="g2_31" />
+<text 
+x="57" 
+y="116" 
+dx="0,0,0,0,0,0,0,0,0,0,-1.6,0,0,0,0,-1.6,0,0,0,-1.6,0,0,0,0,0,0,0,0" 
+class="s3_31"
+>3.Æayout, grid and alignment</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: Calibri_64;
+	src: url("fonts/Calibri_64.woff") format("woff");
+}
+
+@font-face {
+	font-family: Calibri-Bold_6g;
+	src: url("fonts/Calibri-Bold_6g.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

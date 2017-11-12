@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 13 -->
+<svg x="0" y="0" width="1466" height="825" viewBox="0 0 1466 825" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c0_13"><path d="M0,821.4L0,0L1460.3,0l0,821.4Z" /></clipPath>
+
+<style type="text/css"><![CDATA[
+
+.g1_13{
+fill: #FFFFFF;
+}
+.g2_13{
+fill-opacity: 0;
+}
+
+.s1_13{
+font-size: 66.93px;
+font-family: Calibri_64;
+fill: #F46524;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,825
+L1466,825
+L1466,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<g clip-path="url(#c0_13)">
+<path fill-rule="evenodd" d="M0,0L1460.3,0l0,821.4L0,821.4Z" class="g1_13" />
+</g>
+<path fill-rule="evenodd" d="M57.7,217.2l1392,0l0,522.7l-1392,0Z" class="g2_13" />
+<image preserveAspectRatio="none" x="58" y="217" width="1392" height="523" xlink:href="13/img/1.png" />
+<path fill-rule="evenodd" d="M100.4,7.4l922.9,0l0,158.7l-922.9,0Z" class="g2_13" />
+<text 
+x="114" 
+y="115" 
+dx="0,0,0,0,0,0,0,0,0,0,-1.6,0,0,0,0,0,0,0,0" 
+class="s1_13"
+>·uggested ·tru´ture</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: Calibri_64;
+	src: url("fonts/Calibri_64.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

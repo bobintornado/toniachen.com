@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 14 -->
+<svg x="0" y="0" width="1466" height="825" viewBox="0 0 1466 825" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c0_14"><path d="M0,821.4L0,0L1460.3,0l0,821.4Z" /></clipPath>
+
+<style type="text/css"><![CDATA[
+
+.g1_14{
+fill: #FFFFFF;
+}
+.g2_14{
+fill-opacity: 0;
+}
+
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,825
+L1466,825
+L1466,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<g clip-path="url(#c0_14)">
+<path fill-rule="evenodd" d="M0,0L1460.3,0l0,821.4L0,821.4Z" class="g1_14" />
+</g>
+<path fill-rule="evenodd" d="M57.7,176l606.9,0l0,154.6l-606.9,0Z" class="g2_14" />
+<image preserveAspectRatio="none" x="58" y="148" width="607" height="183" xlink:href="14/img/1.png" />
+<path fill-rule="evenodd" d="M705.3,176l734.2,0l0,396.2l-734.2,0Z" class="g2_14" />
+<image preserveAspectRatio="none" x="705" y="176" width="735" height="396" xlink:href="14/img/2.png" />
+<g clip-path="url(#c0_14)">
+<path fill-rule="evenodd" d="M0,127.3l496.4,0l0,40.4L0,167.7Z" class="g2_14" />
+</g>
+
+</svg>

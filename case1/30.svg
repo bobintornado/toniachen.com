@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 30 -->
+<svg x="0" y="0" width="1466" height="825" viewBox="0 0 1466 825" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c0_30"><path d="M0,821.4L0,0L1460.3,0l0,821.4Z" /></clipPath>
+
+<style type="text/css"><![CDATA[
+
+.g1_30{
+fill: #FFFFFF;
+}
+.g2_30{
+fill-opacity: 0;
+}
+.g3_30{
+fill: none;
+stroke: #DB7B67;
+stroke-width: 1.5211779;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 1;
+}
+.g4_30{
+fill: #DB7B67;
+stroke: #DB7B67;
+stroke-width: 1.5211779;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 11;
+}
+
+.s1_30{
+font-size: 21.30px;
+font-family: Calibri_64;
+fill: #C00000;
+}
+.s2_30{
+font-size: 66.93px;
+font-family: Calibri_64;
+fill: #F46524;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,825
+L1466,825
+L1466,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<g clip-path="url(#c0_30)">
+<path fill-rule="evenodd" d="M0,0L1460.3,0l0,821.4L0,821.4Z" class="g1_30" />
+</g>
+<path fill-rule="evenodd" d="M933.2,27.7l483.1,0l0,770.1l-483.1,0Z" class="g2_30" />
+<image preserveAspectRatio="none" x="933" y="28" width="483" height="770" xlink:href="30/img/1.png" />
+<path fill-rule="evenodd" d="M740.1,482.1l162.6,0l0,86.1l-162.6,0Z" class="g2_30" />
+<text 
+x="753" 
+y="507" 
+dx="0,0,0,0,0,0,-0.5,0,0,0,-0.5,0,0,0,0,0,0,0" 
+class="s1_30"
+>°itle and su³title</text>
+
+<text 
+x="789" 
+y="533" 
+dx="0,0,0,0,-0.5,0,0,0,-0.5,0,0,0,0" 
+class="s1_30"
+>are not ´lear</text>
+
+<text 
+x="833" 
+y="558" 
+dx="0,0,0,0,0,0" 
+class="s1_30"
+>enough</text>
+
+<path fill-rule="evenodd" d="M911.8,519.9l51.8,-16.1Z" class="g2_30" />
+<path d="M911.8,519.9l43.1,-13.4" class="g3_30" />
+<path fill-rule="evenodd" d="M955.7,508.9l5.8,-4.5l-7.3,-0.3Z" class="g4_30" />
+<path fill-rule="evenodd" d="M911.7,525.1l51.9,0Z" class="g2_30" />
+<path d="M911.7,525.1l42.8,0" class="g3_30" />
+<path fill-rule="evenodd" d="M954.5,527.7l6.9,-2.6l-6.9,-2.5Z" class="g4_30" />
+<path fill-rule="evenodd" d="M740.1,285.5l162.6,0l0,86.1l-162.6,0Z" class="g2_30" />
+<text 
+x="788" 
+y="311" 
+dx="0,0,0,0,0,0,0,0,-0.5,0,0,0" 
+class="s1_30"
+>±ontent font</text>
+
+<text 
+x="752" 
+y="336" 
+dx="0,0,0,0,-0.5,0,0,0,0,0,-0.5,0,0,-0.5,0,0,0" 
+class="s1_30"
+>too small to read</text>
+
+<text 
+x="842" 
+y="361" 
+dx="0,0,0,0,0,0,0" 
+class="s1_30"
+>´learly</text>
+
+<path fill-rule="evenodd" d="M911.7,328.6l51.9,0Z" class="g2_30" />
+<path d="M911.7,328.6l42.8,0" class="g3_30" />
+<path fill-rule="evenodd" d="M954.5,331.1l6.9,-2.5l-6.9,-2.5Z" class="g4_30" />
+<path fill-rule="evenodd" d="M103.6,588.8l590.7,0l0,182.6l-590.7,0Z" class="g2_30" />
+<image preserveAspectRatio="none" x="104" y="589" width="590" height="182" xlink:href="30/img/2.png" />
+<path fill-rule="evenodd" d="M128,491.9l119.8,0l0,60.2l-119.8,0Z" class="g2_30" />
+<text 
+x="131" 
+y="517" 
+dx="0,0,0,0,0,0,-0.5,0,0,0,0,0" 
+class="s1_30"
+>½´on, sym³ol</text>
+
+<text 
+x="131" 
+y="542" 
+dx="0,0,0,0,-0.5,0,0,0,-0.5,0,0,0,0" 
+class="s1_30"
+>are too small</text>
+
+<path fill-rule="evenodd" d="M161.7,548l0,135.4Z" class="g2_30" />
+<path d="M161.7,548l0,126.2" class="g3_30" />
+<path fill-rule="evenodd" d="M159.2,674.2l2.5,6.9l2.5,-6.9Z" class="g4_30" />
+<path fill-rule="evenodd" d="M285.1,479l208.8,0l0,86l-208.8,0Z" class="g2_30" />
+<text 
+x="288" 
+y="504" 
+dx="0,0,0,0,0,0,-0.5,0,0,0,0,0,0,0,0,-0.5,0,0,0,-0.5,0,0" 
+class="s1_30"
+>±olor ´ontrast are not</text>
+
+<text 
+x="288" 
+y="529" 
+dx="0,0,0,0,0,-0.5,0,0,0,0,0,0,0,0" 
+class="s1_30"
+>well designed,</text>
+
+<text 
+x="288" 
+y="554" 
+dx="0,0,0,0,0,0,0,0,0,0,-0.5,0,0,-0.5,0,0,0,-0.5,0,0,0,0" 
+class="s1_30"
+>red/³la´k is too ³lur.</text>
+
+<path fill-rule="evenodd" d="M315.4,568.2l0,129.4Z" class="g2_30" />
+<path d="M315.4,568.2l0,120.2" class="g3_30" />
+<path fill-rule="evenodd" d="M312.9,688.4l2.5,6.9l2.5,-6.9Z" class="g4_30" />
+<path fill-rule="evenodd" d="M382.9,181.3l288.9,0l0,265.9l-288.9,0Z" class="g2_30" />
+<image preserveAspectRatio="none" x="383" y="181" width="289" height="266" xlink:href="30/img/3.png" />
+<path fill-rule="evenodd" d="M57.7,275l206.4,0l0,60.2l-206.4,0Z" class="g2_30" />
+<text 
+x="61" 
+y="300" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,-0.5,0,0,0,0" 
+class="s1_30"
+>Ãnne´essary lines</text>
+
+<text 
+x="61" 
+y="325" 
+dx="0,0,0,0,0,0,-0.5,0,0,0,0,-0.5,0,-0.5,0,0,0,0,0,0,0,0" 
+class="s1_30"
+>here. ²ver - designed.</text>
+
+<path fill-rule="evenodd" d="M264.1,326.6l126.9,0Z" class="g2_30" />
+<path d="M264.1,326.6l117.8,0" class="g3_30" />
+<path fill-rule="evenodd" d="M381.9,329.1l6.9,-2.5l-6.9,-2.5Z" class="g4_30" />
+<path fill-rule="evenodd" d="M911.8,530.4l51.8,11.1Z" class="g2_30" />
+<path d="M911.8,530.4l42.9,9.2" class="g3_30" />
+<path fill-rule="evenodd" d="M954.2,542.1l7.3,-1l-6.3,-3.9Z" class="g4_30" />
+<path fill-rule="evenodd" d="M63.2,16.2l735.3,0l0,118.5l-735.3,0Z" class="g2_30" />
+<text 
+x="76" 
+y="103" 
+dx="0,0,0,0,0,0,-1.6,0,0,0,0,0,0,0,0,0,0,-1.6,0,0,0,0,0" 
+class="s2_30"
+>2.Ã½, °ypography issues</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: Calibri_64;
+	src: url("fonts/Calibri_64.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

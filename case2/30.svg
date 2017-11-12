@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 30 -->
+<svg x="0" y="0" width="1100" height="618" viewBox="0 0 1100 618" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_30{
+fill: #FFFFFF;
+}
+.g2_30{
+fill: #51B9A3;
+}
+.g3_30{
+fill-opacity: 0;
+}
+.g4_30{
+fill: none;
+stroke: #000000;
+stroke-width: 1.1408833;
+stroke-linecap: butt;
+stroke-linejoin: round;
+stroke-miterlimit: 14;
+}
+.g5_30{
+stroke: #000000;
+stroke-width: 1.1408833;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 11;
+}
+.g6_30{
+fill: #FFAE88;
+}
+
+.s1_30{
+font-size: 13.69px;
+font-family: ArialMT_5f;
+fill: #FFFFFF;
+}
+.s2_30{
+font-size: 15.21px;
+font-family: ArialMT_5f;
+fill: #000000;
+}
+.s3_30{
+font-size: 21.30px;
+font-family: ArialMT_5f;
+fill: #000000;
+}
+.s4_30{
+font-size: 45.64px;
+font-family: Raleway-Bold_5j;
+fill: #000000;
+}
+.s5_30{
+font-size: 21.30px;
+font-family: ArialMT_5f;
+fill: #F46524;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,618
+L1100,618
+L1100,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path fill-rule="evenodd" d="M0,0L1095.2,0l0,616.1L0,616.1Z" class="g1_30" />
+<path fill-rule="evenodd" d="M396.4,210.5l147,0l0,82.2l-147,0Z" class="g2_30" />
+<text 
+x="406" 
+y="256" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0.4,0,0,0,0,0,0" 
+class="s1_30"
+>5re´launch testing</text>
+
+<path fill-rule="evenodd" d="M603.8,210.5l180,0l0,82.2l-180,0Z" class="g2_30" />
+<text 
+x="620" 
+y="248" 
+dx="0,0,0,0,0,0.4,0,0,0,0,0,0,0,0,0,0,0.4,0,0,0,0,0,0" 
+class="s1_30"
+>:ser acceptance testing</text>
+
+<text 
+x="651" 
+y="264" 
+dx="0,0,0,0,0,0,0.4,0,0,0,0,0,0,0,0" 
+class="s1_30"
+>¸user training¹</text>
+
+<path fill-rule="evenodd" d="M850.9,210.5l169.4,0l0,82.2l-169.4,0Z" class="g2_30" />
+<text 
+x="866" 
+y="248" 
+dx="0,0,0,0,0,0,0,0.4,0,0,0,0,0,0,0,0,0.4,0,0,0,0,0" 
+class="s1_30"
+>(lient feedback review</text>
+
+<text 
+x="895" 
+y="264" 
+dx="0,0,0,0,0,0,0.4,0,0,0,0,0,0" 
+class="s1_30"
+>every quarter</text>
+
+<path fill-rule="evenodd" d="M396.4,191.7l381.2,0Z" class="g3_30" />
+<path d="M396.4,191.7l372.6,0" class="g4_30" />
+<path fill-rule="evenodd" d="M769,194.3l6.9,-2.6L769,189.2Z" class="g5_30" />
+<path fill-rule="evenodd" d="M396.4,369.7l617.6,0l0,184l-617.6,0Z" class="g3_30" />
+<text 
+x="420" 
+y="394" 
+dx="0,0" 
+class="s2_30"
+>³¶</text>
+
+<text 
+x="461" 
+y="394" 
+dx="0,0,0,0,0,0.4,0,0,0.4,0,0,0,0,0,0.4,0,0,0.4,0,0,0,0.4,0,0,0,0,0,0,0,0,0,0,0,0.4,0,0,0.4,0,0,0,0,0,0,0,0.4,0,0,0,0,0.4,0,0,0,0,0,0,0,0,0.4,0,0,0.4,0,0,0,0.4,0,0,0,0,0,0,0.4,0,0,0,0,0,0,0,0,0" 
+class="s2_30"
+>-elp to check if the end´product is aligned with designed in the client requirment</text>
+
+<text 
+x="461" 
+y="412" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0.4,0,0,0,0,0,0.4,0,0,0,0,0" 
+class="s2_30"
+>eye´checking :=»:. issues</text>
+
+<text 
+x="420" 
+y="449" 
+dx="0,0" 
+class="s2_30"
+>³¶</text>
+
+<text 
+x="461" 
+y="449" 
+dx="0,0,0,0,0,0.4,0,0,0,0,0.4,0,0,0.4,0,0,0,0.4,0,0,0,0,0,0,0,0,0.4,0,0,0,0,0.4,0,0,0,0.4,0,0,0,0,0,0,0,0.4,0,0,0,0,0,0,0,0.4,0,0,0,0,0,0,0,0,0.4,0,0,0,0,0,0,0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0.4,0,0" 
+class="s2_30"
+>-elp user to get familiar with the current systemµ discover user’s satisfactionµ get</text>
+
+<text 
+x="461" 
+y="467" 
+dx="0,0,0,0,0,0,0,0.4,0,0,0,0.4,0,0,0,0,0,0,0,0,0,0.4,0,0,0,0,0,0" 
+class="s2_30"
+>review and feedbacks ¸:.»:=¹</text>
+
+<text 
+x="420" 
+y="504" 
+dx="0,0" 
+class="s2_30"
+>±¶</text>
+
+<text 
+x="461" 
+y="504" 
+dx="0,0,0,0,0.4,0,0,0,0,0,0.4,0,0,0,0,0,0,0,0,0,0,0.4,0,0,0,0,0,0,0,0,0,0.4,0,0,0,0.4,0,0,0,0.4,0,0,0,0,0,0,0,0.4,0,0,0,0,0,0,0,0,0,0,0,0.4,0,0,0,0,0,0,0,0,0,0" 
+class="s2_30"
+>3ew issue discoveryµ followups and new feature enhancement requirement</text>
+
+<text 
+x="461" 
+y="522" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s2_30"
+>gathering¶</text>
+
+<path fill-rule="evenodd" d="M505.5,220.2l0,0c0,-10.5,8.5,-19,18.9,-19c5.1,0,9.9,2,13.4,5.6c3.6,3.5,5.6,8.3,5.6,13.4c0,10.4,-8.5,18.9,-19,18.9c-10.4,0,-18.9,-8.5,-18.9,-18.9Z" class="g6_30" />
+<text 
+x="521" 
+y="228" 
+dx="0" 
+class="s3_30"
+>³</text>
+
+<path fill-rule="evenodd" d="M761.6,220.2l0,0c0,-10.5,8.5,-19,18.9,-19c5.1,0,9.9,2,13.4,5.6c3.6,3.5,5.6,8.3,5.6,13.4c0,10.4,-8.5,18.9,-19,18.9c-10.4,0,-18.9,-8.5,-18.9,-18.9Z" class="g6_30" />
+<text 
+x="777" 
+y="228" 
+dx="0" 
+class="s3_30"
+>±</text>
+
+<path fill-rule="evenodd" d="M47.6,164.7l312.5,0l0,234.4l-312.5,0Z" class="g3_30" />
+<image preserveAspectRatio="none" x="48" y="165" width="312" height="234" xlink:href="30/img/1.png" />
+<path fill-rule="evenodd" d="M993.6,220.2l0,0c0,-10.5,8.5,-19,18.9,-19c5,0,9.9,2,13.4,5.6c3.6,3.5,5.5,8.3,5.5,13.4c0,10.4,-8.4,18.9,-18.9,18.9c-10.4,0,-18.9,-8.5,-18.9,-18.9Z" class="g6_30" />
+<text 
+x="1009" 
+y="228" 
+dx="0" 
+class="s3_30"
+>·</text>
+
+<path fill-rule="evenodd" d="M850.9,191.7l167.4,0Z" class="g3_30" />
+<path d="M850.9,191.7l158.9,0" class="g4_30" />
+<path fill-rule="evenodd" d="M1009.8,194.3l6.8,-2.6l-6.8,-2.5Z" class="g5_30" />
+<path fill-rule="evenodd" d="M395.1,146.6l208.7,0l0,37.8l-208.7,0Z" class="g3_30" />
+<text 
+x="405" 
+y="177" 
+dx="0,0,0,0.6,0,0,0,0.6,0,0,0,0,0,0,0" 
+class="s3_30"
+>6&amp; and delivery</text>
+
+<path fill-rule="evenodd" d="M840.7,146.6l208.7,0l0,37.8l-208.7,0Z" class="g3_30" />
+<text 
+x="850" 
+y="177" 
+dx="0,0,0,0,0,0,0,0.6,0,0,0,0,0,0,0.6,0" 
+class="s3_30"
+>(lient follow up</text>
+
+<path fill-rule="evenodd" d="M36.3,49.3l758.4,0l0,76.6l-758.4,0Z" class="g3_30" />
+<text 
+x="46" 
+y="103" 
+dx="0,0,0,0,0,0,0,0,0,0,-0.5,0,0,0,0,-0.5,0,0,0,0,0,0,0,0,0,0,-0.5,0,0,0" 
+class="s4_30"
+>Interview with QA°Deliver team</text>
+
+<path fill-rule="evenodd" d="M395.1,318.7l359.3,0l0,53.1l-359.3,0Z" class="g3_30" />
+<text 
+x="405" 
+y="353" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_30"
+>*ngagements#</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: ArialMT_5f;
+	src: url("fonts/ArialMT_5f.woff") format("woff");
+}
+
+@font-face {
+	font-family: Raleway-Bold_5j;
+	src: url("fonts/Raleway-Bold_5j.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 9 -->
+<svg x="0" y="0" width="1466" height="825" viewBox="0 0 1466 825" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c0_9"><path d="M0,821.4L0,0L1460.3,0l0,821.4Z" /></clipPath>
+
+<style type="text/css"><![CDATA[
+
+.g1_9{
+fill: #FFFFFF;
+}
+.g2_9{
+fill-opacity: 0;
+}
+.g3_9{
+fill: #0277BD;
+}
+
+.s1_9{
+font-size: 21.30px;
+font-family: Calibri-Bold_6g;
+fill: #000000;
+}
+.s2_9{
+font-size: 21.30px;
+font-family: Calibri_64;
+fill: #454545;
+}
+.s3_9{
+font-size: 21.30px;
+font-family: Calibri_64;
+fill: #0277BD;
+}
+.s4_9{
+font-size: 21.30px;
+font-family: Calibri_64;
+fill: #FB8C00;
+}
+.s5_9{
+font-size: 54.76px;
+font-family: Calibri_64;
+fill: #F46524;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,825
+L1466,825
+L1466,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<g clip-path="url(#c0_9)">
+<path fill-rule="evenodd" d="M0,0L1460.3,0l0,821.4L0,821.4Z" class="g1_9" />
+</g>
+<path fill-rule="evenodd" d="M100.4,159.8l1259.5,0l0,628.4l-1259.5,0Z" class="g2_9" />
+<text 
+x="110" 
+y="184" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,-0.5,0,0,0,0,0,0" 
+class="s1_9"
+>·eada³ility ·esults</text>
+
+<text 
+x="110" 
+y="213" 
+dx="0,0,0,0,-0.5,0,0,0,0,0,0,0,0,0,-0.5,0,0,0,0,0,-0.5,0,0,0,0,0,0,0,0,-0.5,0,0,0,-0.5,0,0,0,0,0,0,0,0,0,0,0,-0.5,0,0,0,0,0,0,0,-0.5,0,0" 
+class="s2_9"
+>°he following ta³le ´ontains the reada³ility results for</text>
+
+<text 
+x="582" 
+y="213" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_9"
+>http://agdelta.´om/</text>
+
+<text 
+x="756" 
+y="213" 
+dx="0" 
+class="s2_9"
+>.</text>
+
+<path d="M582.5,215l173.8,0l0,1.3l-173.8,0l0,-1.3Z" class="g3_9" />
+<text 
+x="110" 
+y="241" 
+dx="0,0,0,0,0,0,0,0,-0.5,0,0,0,0,0,-0.5,0,0,0,0,0,0,0" 
+class="s2_9"
+>¹eading Æevel ¹esults:</text>
+
+<text 
+x="110" 
+y="298" 
+dx="0,0,0,0,0,0,0,0,-0.5,0,0,0,0" 
+class="s1_9"
+>¸ummary ¹alue</text>
+
+<text 
+x="110" 
+y="327" 
+dx="0,0,0,0,0,0,-0.5,0,0,0,0,0,0,0,0" 
+class="s2_9"
+>°otal senten´es</text>
+
+<text 
+x="578" 
+y="327" 
+dx="0,0,0" 
+class="s2_9"
+>227</text>
+
+<text 
+x="110" 
+y="355" 
+dx="0,0,0,0,0,0,-0.5,0,0,0,0" 
+class="s2_9"
+>°otal words</text>
+
+<text 
+x="576" 
+y="355" 
+dx="0,0,0,0" 
+class="s2_9"
+>2428</text>
+
+<text 
+x="110" 
+y="384" 
+dx="0,0,0,0,0,0,0,0,-0.5,0,0,0,0,0,-0.5,0,0,0,-0.5,0,0,0,0,0,0,0" 
+class="s2_9"
+>¶verage words per ·enten´e</text>
+
+<text 
+x="572" 
+y="384" 
+dx="0,0,0,0,0" 
+class="s2_9"
+>10.70</text>
+
+<text 
+x="110" 
+y="412" 
+dx="0,0,0,0,0,0,-0.5,0,0,0,0,-0.5,0,-0.5,0,0,0,0,0,0,0" 
+class="s2_9"
+>µords with 1 ·ylla³le</text>
+
+<text 
+x="575" 
+y="412" 
+dx="0,0,0,0" 
+class="s2_9"
+>1145</text>
+
+<text 
+x="110" 
+y="441" 
+dx="0,0,0,0,0,0,-0.5,0,0,0,0,-0.5,0,-0.5,0,0,0,0,0,0,0,0" 
+class="s2_9"
+>µords with 2 ·ylla³les</text>
+
+<text 
+x="575" 
+y="441" 
+dx="0,0,0" 
+class="s2_9"
+>569</text>
+
+<text 
+x="110" 
+y="470" 
+dx="0,0,0,0,0,0,-0.5,0,0,0,0,-0.5,0,-0.5,0,0,0,0,0,0,0,0" 
+class="s2_9"
+>µords with 3 ·ylla³les</text>
+
+<text 
+x="575" 
+y="470" 
+dx="0,0,0" 
+class="s2_9"
+>424</text>
+
+<text 
+x="110" 
+y="498" 
+dx="0,0,0,0,0,0,-0.5,0,0,0,0,-0.5,0,-0.5,0,0,-0.5,0,0,0,0,-0.5,0,0,0,0,0,0,0,0" 
+class="s2_9"
+>µords with 4 or more ·ylla³les</text>
+
+<text 
+x="572" 
+y="498" 
+dx="0,0,0" 
+class="s2_9"
+>290</text>
+
+<text 
+x="110" 
+y="527" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-0.5,0,0,-0.5,0,0,0,0,-0.5,0,0,0,0,-0.5,0,0,0,0,0,-0.5,0,0,-0.5,0,0,0,0,-0.5,0,0,0,0,0,0,0,0" 
+class="s2_9"
+>¾er´entage of word with three or more sylla³les</text>
+
+<text 
+x="572" 
+y="527" 
+dx="0,0,0,0,0,0" 
+class="s2_9"
+>29.41%</text>
+
+<text 
+x="110" 
+y="555" 
+dx="0,0,0,0,0,0,0,0,-0.5,0,0,0,0,0,0,0,0,0,-0.5,0,0,0,-0.5,0,0,0" 
+class="s2_9"
+>¶verage ·ylla³les per µord</text>
+
+<text 
+x="576" 
+y="555" 
+dx="0,0,0,0" 
+class="s2_9"
+>1.94</text>
+
+<text 
+x="110" 
+y="584" 
+dx="0,0,0,0,0,0,0,0,-0.5,0,0,0,-0.5,0,0,0,0" 
+class="s4_9"
+>Åunning Äog ½ndex</text>
+
+<text 
+x="578" 
+y="584" 
+dx="0,0,0,0,0" 
+class="s4_9"
+>16.04</text>
+
+<text 
+x="110" 
+y="612" 
+dx="0,0,0,0,0,0,0,-0.5,0,0,0,0,0,0,0,-0.5,0,0,0" 
+class="s2_9"
+>Äles´h ¹eading ¸ase</text>
+
+<text 
+x="579" 
+y="612" 
+dx="0,0,0,0,0" 
+class="s2_9"
+>31.69</text>
+
+<text 
+x="110" 
+y="641" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.5,0,0,0,0" 
+class="s2_9"
+>Äles´h-Çin´aid Årade</text>
+
+<text 
+x="579" 
+y="641" 
+dx="0,0,0,0,0" 
+class="s2_9"
+>11.50</text>
+
+<text 
+x="110" 
+y="698" 
+dx="0,0,0,0,0,0,0,0,0,-0.5,0,0,0,0,0,0,-0.5,0,0,0,0" 
+class="s2_9"
+>(°esting online tool)</text>
+
+<text 
+x="115" 
+y="726" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_9"
+>http://jui´ystudio.´om/servi´es/reada³ility.php#readingresults</text>
+
+<path d="M115.5,728.4l545.3,0l0,1.3l-545.3,0l0,-1.3Z" class="g3_9" />
+<path fill-rule="evenodd" d="M758.4,265.5l652.1,0l0,417l-652.1,0Z" class="g2_9" />
+<image preserveAspectRatio="none" x="758" y="266" width="653" height="416" xlink:href="9/img/1.png" />
+<path fill-rule="evenodd" d="M100.4,735.6l857.6,0l0,60.3l-857.6,0Z" class="g2_9" />
+<text 
+x="103" 
+y="786" 
+dx="0,0,0,-0.5,0,0,0,0,-0.5,0,0,0,0,0,0,-0.5,0,0,0,0,0,0,0,-0.5,0,0,0,0,0,0,0,-0.5,0,0,0,0,-0.5,0,0,0,0,0,0,0,0,0,-0.5,0,0,0,0,0,-0.5,0,0,-0.5,0,0,0,0,0,0,-0.5,0,0,-0.5,0,0,0,0,-0.5,0,0,0,0,-0.5,0,-0.5,0,0,0,0,0,0,0,0,-0.5,0,0,0,0,0" 
+class="s4_9"
+>µe need ³etter ´ontent stories from marketing team. µe should ³e more than a a´ademi´ paper.</text>
+
+<path fill-rule="evenodd" d="M100.4,24.5l1259.5,0l0,158.8l-1259.5,0Z" class="g2_9" />
+<text 
+x="110" 
+y="126" 
+dx="0,0,0,-1.3,0,0,0,0,0,0,0,0,0,0,0,-1.3,0,0,0,0,0,-1.3,0" 
+class="s5_9"
+>3. ¹eada³ility (part 2)</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: Calibri_64;
+	src: url("fonts/Calibri_64.woff") format("woff");
+}
+
+@font-face {
+	font-family: Calibri-Bold_6g;
+	src: url("fonts/Calibri-Bold_6g.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

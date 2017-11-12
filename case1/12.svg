@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 12 -->
+<svg x="0" y="0" width="1466" height="825" viewBox="0 0 1466 825" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c0_12"><path d="M0,821.4L0,0L1460.3,0l0,821.4Z" /></clipPath>
+
+<style type="text/css"><![CDATA[
+
+.g1_12{
+fill: #FFFFFF;
+}
+.g2_12{
+fill-opacity: 0;
+}
+.g3_12{
+fill: none;
+stroke: #000000;
+stroke-width: 1.5211779;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 1;
+stroke-dasharray: 7,5,2,5;
+}
+.g4_12{
+fill: #FB8C00;
+}
+.g5_12{
+fill: none;
+stroke: #DB7B67;
+stroke-width: 1.5211779;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 1;
+}
+.g6_12{
+fill: #DB7B67;
+stroke: #DB7B67;
+stroke-width: 1.5211779;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 11;
+}
+.g7_12{
+fill: #DB7B67;
+}
+
+.s1_12{
+font-size: 13.69px;
+font-family: Calibri_64;
+fill: #F46524;
+}
+.s2_12{
+font-size: 13.69px;
+font-family: Calibri_64;
+fill: #FB8C00;
+}
+.s3_12{
+font-size: 13.69px;
+font-family: Calibri_64;
+fill: #FFFFFF;
+}
+.s4_12{
+font-size: 54.76px;
+font-family: Calibri_64;
+fill: #F46524;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,825
+L1466,825
+L1466,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<g clip-path="url(#c0_12)">
+<path fill-rule="evenodd" d="M0,0L1460.3,0l0,821.4L0,821.4Z" class="g1_12" />
+</g>
+<path fill-rule="evenodd" d="M57.4,160.9l1336,0l0,398.1l-1336,0Z" class="g2_12" />
+<image preserveAspectRatio="none" x="57" y="161" width="1403" height="479" xlink:href="12/img/1.png" />
+<path fill-rule="evenodd" d="M51.5,598.1l174,0l0,141.4l-174,0Z" class="g2_12" />
+<text 
+x="54" 
+y="618" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,-0.3,0,0,0,0,0" 
+class="s1_12"
+>Áupli´ation, suggest remove</text>
+
+<text 
+x="54" 
+y="634" 
+dx="0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,-0.3,0,0,0,0,0" 
+class="s1_12"
+>»ome. Âe´ause Ãser’s</text>
+
+<text 
+x="54" 
+y="649" 
+dx="0,0,0,0,0,0,0,0,0,0,-0.3,0,0,-0.3,0,0,-0.3,0,0,0,0,0,-0.3,0,0,0,0,-0.3,0" 
+class="s1_12"
+>³ehaviour is to ´li´k Æogo to</text>
+
+<text 
+x="54" 
+y="665" 
+dx="0,0,0,-0.3,0,0,0,0,-0.3,0,0,-0.3,0,0,0,0,-0.3,0,0,0,0" 
+class="s1_12"
+>go ³a´k to home page.</text>
+
+<text 
+x="54" 
+y="697" 
+dx="0,0,0,0,0,0,0,0,0,0,-0.3,0,0,-0.3,0,0,0,-0.3,0,0,0" 
+class="s2_12"
+>¹e´ommend to add °eam</text>
+
+<text 
+x="54" 
+y="713" 
+dx="0,0,0,0,0,0,-0.3,0,0,0,0,-0.3,0,0,0,0,-0.3,0,0,0,0,-0.3,0,0,0" 
+class="s2_12"
+>here, only show main team</text>
+
+<text 
+x="54" 
+y="729" 
+dx="0,0,0,0,0,0,0,0,-0.3,0,0,0,0" 
+class="s2_12"
+>mem³ers here.</text>
+
+<path fill-rule="evenodd" d="M288.9,593.8l0,-406.7Z" class="g2_12" />
+<path d="M288.9,593.8l0,-406.7" class="g3_12" />
+<path fill-rule="evenodd" d="M608.7,593.8l0,-406.7Z" class="g2_12" />
+<path d="M608.7,593.8l0,-406.7" class="g3_12" />
+<path fill-rule="evenodd" d="M1026.2,593.8l0,-406.7Z" class="g2_12" />
+<path d="M1026.2,593.8l0,-406.7" class="g3_12" />
+<path fill-rule="evenodd" d="M426.1,754.7l174,0l0,25.2l-174,0Z" class="g4_12" />
+<text 
+x="429" 
+y="772" 
+dx="0,0,0,0,0,-0.3,0,0,0,-0.3,0,0,-0.3,0,0,0,0,0,0" 
+class="s3_12"
+>‘µhy us” is missing</text>
+
+<path fill-rule="evenodd" d="M329.7,589.1l210.7,0l0,141.4l-210.7,0Z" class="g2_12" />
+<text 
+x="333" 
+y="609" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0" 
+class="s1_12"
+>¼isleading, unne´essary su³page</text>
+
+<text 
+x="333" 
+y="625" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,-0.3,0,0,-0.3,0,0" 
+class="s1_12"
+>stru´ture, suggest to put</text>
+
+<text 
+x="333" 
+y="640" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,-0.3,0,0,0,-0.3,0,0,-0.3,0,0,0,0,0,0,0" 
+class="s1_12"
+>±omplian´e, Â¸ and Á¶ straight</text>
+
+<text 
+x="333" 
+y="656" 
+dx="0,0,0,0,0,0,0,0,-0.3,0,0,-0.3,0,0,0,-0.3,0,0,0,0" 
+class="s1_12"
+>forward in the page.</text>
+
+<text 
+x="333" 
+y="688" 
+dx="0,0,0,0,0,-0.3,0,0,0,-0.3,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0" 
+class="s1_12"
+>²pen and s´ala³le ar´hite´ture is</text>
+
+<text 
+x="333" 
+y="704" 
+dx="0,0,0,0,-0.3,0,0,0,0,0,0,0,-0.3,0,0,-0.3,0,-0.3,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,-0.3,0" 
+class="s1_12"
+>not related to 3 topi´s, should ³e</text>
+
+<text 
+x="333" 
+y="720" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0" 
+class="s1_12"
+>inside“why us”.</text>
+
+<path fill-rule="evenodd" d="M393.4,590l0,-135.4Z" class="g2_12" />
+<path d="M393.4,587.3l0,-129.4" class="g5_12" />
+<path d="M393.4,455.4c0.7,0,1.2,0.6,1.2,1.3c0,0.6,-0.5,1.2,-1.2,1.2c-0.7,0,-1.3,-0.6,-1.3,-1.2c0,-0.7,0.6,-1.3,1.3,-1.3Z" class="g6_12" />
+<path fill-rule="evenodd" d="M475.5,590.1l0,-230.1Z" class="g2_12" />
+<path d="M475.5,587.3l0,-224" class="g5_12" />
+<path d="M475.5,360.8c0.7,0,1.3,0.5,1.3,1.2c0,0.7,-0.6,1.3,-1.3,1.3c-0.7,0,-1.2,-0.6,-1.2,-1.3c0,-0.7,0.5,-1.2,1.2,-1.2Z" class="g6_12" />
+<path fill-rule="evenodd" d="M687.5,702L959,702l0,74.9l-271.5,0Z" class="g2_12" />
+<text 
+x="690" 
+y="720" 
+dx="0,0,0,0,0,0,0,-0.3,0,0,0,0,-0.3,0,0,0,0,0,0,0,-0.3,0,-0.3,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,-0.3,0" 
+class="s2_12"
+>±lient ±ase ·tudies - ¹e´ommends ¹emove or</text>
+
+<text 
+x="690" 
+y="736" 
+dx="0,0,0,0,0,0,-0.3,0,0,0,0,-0.3,0,0,0,0,0,-0.3,0,0,0,0,0" 
+class="s2_12"
+>merge into µhite ¾apers</text>
+
+<text 
+x="690" 
+y="768" 
+dx="0,0,0,0,-0.3,0,0,0,0,-0.3,0,0,-0.3,0,0,0,0,0,0,0,-0.3,0,0,-0.3,0,0,0,0,0,-0.3,0,0,0,0,0,0" 
+class="s2_12"
+>·¸² will ³e present in later slides.</text>
+
+<path fill-rule="evenodd" d="M691.1,593.8l271.4,0l0,108.2l-271.4,0Z" class="g2_12" />
+<text 
+x="694" 
+y="613" 
+dx="0,0,0,0,-0.3,0,0,-0.3,0,0,0,0,0" 
+class="s1_12"
+>¿o. of posts:</text>
+
+<text 
+x="694" 
+y="645" 
+dx="0,0,0,0,0,0,0,-0.3,0,0,0,0,-0.3,0,0,0,0,0,0,0,-0.3,0,-0.3" 
+class="s1_12"
+>±lient ±ase ·tudies - 2</text>
+
+<text 
+x="694" 
+y="661" 
+dx="0,0,0,0,0,0,0,-0.3,0,-0.3,0" 
+class="s1_12"
+>¸vents - 18</text>
+
+<text 
+x="694" 
+y="676" 
+dx="0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,-0.3,0,-0.3,0" 
+class="s1_12"
+>¾ress release - 11</text>
+
+<text 
+x="694" 
+y="692" 
+dx="0,0,0,0,0,0,-0.3,0,0,0,0,0,0,-0.3,0" 
+class="s1_12"
+>µhite ¾apers 11</text>
+
+<path fill-rule="evenodd" d="M621.3,396.2l53.2,0l0,58.4l-53.2,0Z" class="g2_12" />
+<text 
+x="624" 
+y="414" 
+dx="0,0,0,0,-0.3,0" 
+class="s2_12"
+>¼ix of</text>
+
+<text 
+x="624" 
+y="430" 
+dx="0,0,0,0" 
+class="s2_12"
+>post</text>
+
+<text 
+x="624" 
+y="446" 
+dx="0,0,0,0" 
+class="s2_12"
+>wall</text>
+
+<path fill-rule="evenodd" d="M39,572.1l0,0c0,-9.6,7.8,-17.3,17.3,-17.3c4.6,0,9,1.8,12.2,5c3.3,3.3,5.1,7.7,5.1,12.3c0,9.5,-7.8,17.2,-17.3,17.2C46.8,589.3,39,581.6,39,572.1Z" class="g7_12" />
+<text 
+x="52" 
+y="577" 
+dx="0" 
+class="s3_12"
+>1</text>
+
+<path fill-rule="evenodd" d="M323.5,572.1l0,0c0,-9.6,7.7,-17.3,17.3,-17.3c4.6,0,9,1.8,12.2,5c3.2,3.3,5.1,7.7,5.1,12.3c0,9.5,-7.8,17.2,-17.3,17.2c-9.6,0,-17.3,-7.7,-17.3,-17.2Z" class="g7_12" />
+<text 
+x="337" 
+y="577" 
+dx="0" 
+class="s3_12"
+>2</text>
+
+<path fill-rule="evenodd" d="M684.2,572.1l0,0c0,-9.6,7.8,-17.3,17.3,-17.3c4.6,0,9,1.8,12.2,5c3.3,3.3,5.1,7.7,5.1,12.3c0,9.5,-7.8,17.2,-17.3,17.2c-9.5,0,-17.3,-7.7,-17.3,-17.2Z" class="g7_12" />
+<text 
+x="698" 
+y="577" 
+dx="0" 
+class="s3_12"
+>3</text>
+
+<path fill-rule="evenodd" d="M1044.9,572.1l0,0c0,-9.6,7.8,-17.3,17.3,-17.3c4.6,0,9,1.8,12.2,5c3.3,3.3,5.1,7.7,5.1,12.3c0,9.5,-7.7,17.2,-17.3,17.2c-9.5,0,-17.3,-7.7,-17.3,-17.2Z" class="g7_12" />
+<text 
+x="1058" 
+y="577" 
+dx="0" 
+class="s3_12"
+>4</text>
+
+<path fill-rule="evenodd" d="M1062.2,598.1l284.3,0l0,174.5l-284.3,0Z" class="g2_12" />
+<text 
+x="1065" 
+y="626" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0" 
+class="s1_12"
+>¼isleading, unne´essary su³page stru´ture,</text>
+
+<text 
+x="1065" 
+y="642" 
+dx="0,0,0,0,0,0,0,0,-0.3,0,0,-0.3,0,0,0,0,0,0,-0.3,0,0,0,-0.3,0,0,0,0,0,0,0,-0.3,0,0,0,0,-0.3,0,0,0,0,-0.3,0,0,0,-0.3,0,0" 
+class="s1_12"
+>suggest on “a³out us” landing page only put the</text>
+
+<text 
+x="1065" 
+y="658" 
+dx="0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,-0.3,0,0,0,0,-0.3,0,0,0,0,0,0,-0.3,0,0,-0.3,0,0,0,0,0,0,-0.3,0" 
+class="s1_12"
+>most important pages. ²nly ´areer is needed to</text>
+
+<text 
+x="1065" 
+y="674" 
+dx="0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0" 
+class="s1_12"
+>³e´ome su³page.</text>
+
+<text 
+x="1065" 
+y="706" 
+dx="0,0,0,0,-0.3,0,0,0,0,-0.3,0,0,0,0,0,-0.3,0,0,0,0,0,0,-0.3,0,0,-0.3,0,0,0,0,-0.3,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_12"
+>°oo many extra ´li´ks to find ´onta´t information.</text>
+
+<text 
+x="1065" 
+y="722" 
+dx="0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,-0.3,0,0,0,-0.3,0,0,-0.3,0,0,0,-0.3,0,0,0,0,-0.3,0,0,0,0,0,0,-0.3,0,0,0,0,0" 
+class="s1_12"
+>¶´tually that’s one of the most viewed pages.</text>
+
+<path fill-rule="evenodd" d="M586.7,768.3l0,0c0,-10.1,8.8,-18.3,19.6,-18.3c10.8,0,19.5,8.2,19.5,18.3c0,10.2,-8.7,18.4,-19.5,18.4c-10.8,0,-19.6,-8.2,-19.6,-18.4Z" class="g7_12" />
+<text 
+x="595" 
+y="773" 
+dx="0,0,0" 
+class="s3_12"
+>2.5</text>
+
+<path fill-rule="evenodd" d="M608.7,754.7l0,-196.9Z" class="g2_12" />
+<path d="M608.7,751.9l0,-190.9" class="g5_12" />
+<path d="M608.7,558.5c0.7,0,1.3,0.6,1.3,1.3c0,0.7,-0.6,1.2,-1.3,1.2c-0.6,0,-1.2,-0.5,-1.2,-1.2c0,-0.7,0.6,-1.3,1.2,-1.3Z" class="g6_12" />
+<path fill-rule="evenodd" d="M73.6,41.5l980,0l0,89.3l-980,0Z" class="g2_12" />
+<text 
+x="73" 
+y="94" 
+dx="0,0,0,-1.3,0,0,0,0,0,0,0,-1.3,0,0,0,0,0,0,0,0" 
+class="s4_12"
+>6. ±urrent ·tru´ture</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: Calibri_64;
+	src: url("fonts/Calibri_64.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

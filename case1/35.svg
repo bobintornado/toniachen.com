@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 35 -->
+<svg x="0" y="0" width="1466" height="825" viewBox="0 0 1466 825" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c0_35"><path d="M0,821.4L0,0L1460.3,0l0,821.4Z" /></clipPath>
+
+<style type="text/css"><![CDATA[
+
+.g1_35{
+fill: #F46524;
+}
+.g2_35{
+fill-opacity: 0;
+}
+.g3_35{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 4.5635333;
+stroke-linecap: butt;
+stroke-linejoin: round;
+stroke-miterlimit: 14;
+}
+.g4_35{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 2.2817667;
+stroke-linecap: butt;
+stroke-linejoin: round;
+stroke-miterlimit: 14;
+}
+
+.s1_35{
+font-size: 97.36px;
+font-family: Raleway-Bold_60;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,825
+L1466,825
+L1466,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<g clip-path="url(#c0_35)">
+<path fill-rule="evenodd" d="M0,0L1460.3,0l0,821.4L0,821.4Z" class="g1_35" />
+</g>
+<path fill-rule="evenodd" d="M67.9,66.4l1325,0Z" class="g2_35" />
+<path d="M67.9,66.4l1325,0" class="g3_35" />
+<path fill-rule="evenodd" d="M67.9,757l1325,0Z" class="g2_35" />
+<path d="M67.9,757l1325,0" class="g4_35" />
+<path fill-rule="evenodd" d="M64.9,288.6l1325,0l0,246.2l-1325,0Z" class="g2_35" />
+<text 
+x="480" 
+y="446" 
+dx="0,0,0,0,0,0,-1,0,0" 
+class="s1_35"
+>Thank You</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: Raleway-Bold_60;
+	src: url("fonts/Raleway-Bold_60.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

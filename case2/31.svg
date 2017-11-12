@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 31 -->
+<svg x="0" y="0" width="1100" height="618" viewBox="0 0 1100 618" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c0_31"><path d="M0,616.1L0,0L1095.2,0l0,616.1Z" /></clipPath>
+
+<style type="text/css"><![CDATA[
+
+.g1_31{
+fill: #FFFFFF;
+}
+.g2_31{
+fill: #F46524;
+}
+.g3_31{
+fill-opacity: 0;
+}
+.g4_31{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 2.2817667;
+stroke-linecap: butt;
+stroke-linejoin: round;
+stroke-miterlimit: 14;
+}
+
+.s1_31{
+font-size: 79.10px;
+font-family: ArialMT_5f;
+fill: #F46524;
+}
+.s2_31{
+font-size: 27.38px;
+font-family: Lato-Regular_5n;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,618
+L1100,618
+L1100,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path fill-rule="evenodd" d="M0,0L1095.2,0l0,616.1L0,616.1Z" class="g1_31" />
+<g clip-path="url(#c0_31)">
+<path fill-rule="evenodd" d="M547.6,0l547.6,0l0,616.1l-547.6,0Z" class="g2_31" />
+</g>
+<path fill-rule="evenodd" d="M602.4,538.5l56.1,0Z" class="g3_31" />
+<path d="M602.4,538.5l56.1,0" class="g4_31" />
+<path fill-rule="evenodd" d="M31.8,220.9l484.5,0l0,157.9l-484.5,0Z" class="g3_31" />
+<text 
+x="175" 
+y="255" 
+dx="0,0,0,0,0" 
+class="s1_31"
+>4ther</text>
+
+<text 
+x="104" 
+y="349" 
+dx="0,0,0,0,0,0,0,0" 
+class="s1_31"
+>7esearch</text>
+
+<path fill-rule="evenodd" d="M591.6,86.7l459.6,0l0,442.6l-459.6,0Z" class="g3_31" />
+<text 
+x="601" 
+y="303" 
+dx="0,0,0,0,-1.6,0,0,0,0,0,0,0,0,0,-1.6,0,0,0,0,0,0" 
+class="s2_31"
+>3Jw 5rototypJ 0NnIsJt</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: ArialMT_5f;
+	src: url("fonts/ArialMT_5f.woff") format("woff");
+}
+
+@font-face {
+	font-family: Lato-Regular_5n;
+	src: url("fonts/Lato-Regular_5n.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

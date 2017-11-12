@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 24 -->
+<svg x="0" y="0" width="1466" height="825" viewBox="0 0 1466 825" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c0_24"><path d="M0,821.4L0,0L1460.3,0l0,821.4Z" /></clipPath>
+
+<style type="text/css"><![CDATA[
+
+.g1_24{
+fill: #FFFFFF;
+}
+.g2_24{
+fill-opacity: 0;
+}
+
+.s1_24{
+font-size: 30.42px;
+font-family: Calibri_64;
+fill: #000000;
+}
+.s2_24{
+font-size: 66.93px;
+font-family: Calibri_64;
+fill: #F46524;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,825
+L1466,825
+L1466,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<g clip-path="url(#c0_24)">
+<path fill-rule="evenodd" d="M0,0L1460.3,0l0,821.4L0,821.4Z" class="g1_24" />
+</g>
+<path fill-rule="evenodd" d="M57.7,167.2l1192.1,0l0,49.6l-1192.1,0Z" class="g2_24" />
+<text 
+x="57" 
+y="196" 
+dx="0,0,0,0,0,-0.7,0,0,0,0,0,0,0,-0.7,0,0,0,0,0,0,0,0,0,0,-0.7,0,0,0,-0.7,0,0,0,0,-0.7,0,0,-0.7,0,0,0,0,0" 
+class="s1_24"
+>¼ain we³site statisti´s for last 12 months</text>
+
+<path fill-rule="evenodd" d="M57.7,263.2l712.4,0l0,484.2l-712.4,0Z" class="g2_24" />
+<image preserveAspectRatio="none" x="58" y="263" width="712" height="484" xlink:href="24/img/1.png" />
+<path fill-rule="evenodd" d="M943.1,203.7l383,0l0,543.5l-383,0Z" class="g2_24" />
+<image preserveAspectRatio="none" x="943" y="204" width="383" height="543" xlink:href="24/img/2.png" />
+<path fill-rule="evenodd" d="M57.7,24.6l1259.5,0l0,158.8l-1259.5,0Z" class="g2_24" />
+<text 
+x="71" 
+y="132" 
+dx="0,0,0,0,0,0,0,0,0,-1.6,0,0,0,0,0,0,0,0" 
+class="s2_24"
+>5.Åoogle ¶nalyti´s</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: Calibri_64;
+	src: url("fonts/Calibri_64.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

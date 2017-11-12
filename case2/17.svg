@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 17 -->
+<svg x="0" y="0" width="1100" height="618" viewBox="0 0 1100 618" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_17{
+fill: #FFFFFF;
+}
+.g2_17{
+fill: #FFAE88;
+}
+.g3_17{
+fill: none;
+stroke: #FB8C00;
+stroke-width: 1.1408833;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 11;
+}
+.g4_17{
+fill-opacity: 0;
+}
+.g5_17{
+fill: none;
+stroke: #757575;
+stroke-width: 4.5635333;
+stroke-linecap: butt;
+stroke-linejoin: round;
+stroke-miterlimit: 14;
+}
+.g6_17{
+fill: #757575;
+stroke: #757575;
+stroke-width: 4.5635333;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 11;
+}
+
+.s1_17{
+font-size: 13.69px;
+font-family: ArialMT_5f;
+fill: #000000;
+}
+.s2_17{
+font-size: 45.64px;
+font-family: Raleway-Bold_5j;
+fill: #F46524;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,618
+L1100,618
+L1100,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path fill-rule="evenodd" d="M0,0L1095.2,0l0,616.1L0,616.1Z" class="g1_17" />
+<path d="M114.8,125.4l289,0l0,53.8l-289,0l0,-53.8Z" class="g2_17" />
+<path d="M403.8,125.4l289.1,0l0,53.8l-289.1,0l0,-53.8Z" class="g2_17" />
+<path d="M692.9,125.4l289,0l0,53.8l-289,0l0,-53.8Z" class="g2_17" />
+<path d="M403.8,179.2l289.1,0l0,45.6l-289.1,0l0,-45.6Z" class="g2_17" />
+<path d="M403.8,224.8l289.1,0l0,45.7l-289.1,0l0,-45.7Z" class="g2_17" />
+<path d="M403.8,270.5l289.1,0l0,45.6l-289.1,0l0,-45.6Z" class="g2_17" />
+<path d="M403.8,316.1l289.1,0l0,45.7l-289.1,0l0,-45.7Z" class="g2_17" />
+<path d="M403.8,361.8l289.1,0l0,45.6l-289.1,0l0,-45.6Z" class="g2_17" />
+<path d="M403.8,407.4l289.1,0l0,45.6l-289.1,0l0,-45.6Z" class="g2_17" />
+<path d="M403.8,453l289.1,0l0,45.7l-289.1,0l0,-45.7Z" class="g2_17" />
+<path d="M114.8,124.8l0,374.4" class="g3_17" />
+<path d="M403.8,124.8l0,374.4" class="g3_17" />
+<path d="M692.9,124.8l0,374.4" class="g3_17" />
+<path d="M981.9,124.8l0,374.4" class="g3_17" />
+<path d="M114.2,125.4l868.3,0" class="g3_17" />
+<path d="M114.2,179.2l868.3,0" class="g3_17" />
+<path d="M114.2,224.8l868.3,0" class="g3_17" />
+<path d="M114.2,270.5l868.3,0" class="g3_17" />
+<path d="M114.2,316.1l868.3,0" class="g3_17" />
+<path d="M114.2,361.8l868.3,0" class="g3_17" />
+<path d="M114.2,407.4l868.3,0" class="g3_17" />
+<path d="M114.2,453l868.3,0" class="g3_17" />
+<path d="M114.2,498.7l868.3,0" class="g3_17" />
+<text 
+x="204" 
+y="148" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0.4,0,0,0,0,0" 
+class="s1_17"
+>.nnovation )esign</text>
+
+<text 
+x="216" 
+y="164" 
+dx="0,0,0,0,0,0,0,0.4,0,0,0.4,0,0" 
+class="s1_17"
+>7eport to 7ob</text>
+
+<text 
+x="508" 
+y="148" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_17"
+>(ollaboration</text>
+
+<text 
+x="790" 
+y="148" 
+dx="0,0,0,0,0,0,0,0,0.4,0,0,0,0,0" 
+class="s1_17"
+>5roduct )esign</text>
+
+<text 
+x="794" 
+y="164" 
+dx="0,0,0,0,0,0,0,0.4,0,0,0.4,0,0" 
+class="s1_17"
+>7eport to 2ok</text>
+
+<text 
+x="221" 
+y="202" 
+dx="0,0,0,0,0.4,0,0,0,0,0,0,0" 
+class="s1_17"
+>3ot required</text>
+
+<text 
+x="504" 
+y="202" 
+dx="0,0,0,0,0,0.4,0,0,0,0,0,0,0,0" 
+class="s1_17"
+>:ser interview</text>
+
+<text 
+x="800" 
+y="202" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s1_17"
+>(ompulsory</text>
+
+<text 
+x="239" 
+y="248" 
+dx="0,0,0,0,0,0" 
+class="s1_17"
+>&amp;ttend</text>
+
+<text 
+x="495" 
+y="248" 
+dx="0,0,0,0,0,0,0,0.4,0,0,0,0,0,0,0" 
+class="s1_17"
+>)esign ,rooming</text>
+
+<text 
+x="800" 
+y="248" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s1_17"
+>(ompulsory</text>
+
+<text 
+x="219" 
+y="293" 
+dx="0,0,0,0,0,0,0,0.4,0,0,0,0,0" 
+class="s1_17"
+>)etail design</text>
+
+<text 
+x="507" 
+y="293" 
+dx="0,0,0,0,0,0,0,0.4,0,0,0,0,0" 
+class="s1_17"
+>)esign 8print</text>
+
+<text 
+x="754" 
+y="293" 
+dx="0,0,0,0,0,0.4,0,0,0,0,0,0.4,0,0,0,0,0,0,0,4.2,0,0,0,0,0.4,0,0" 
+class="s1_17"
+>-igh level designµ 8ign 4ff</text>
+
+<text 
+x="221" 
+y="339" 
+dx="0,0,0,0,0.4,0,0,0,0,0,0,0" 
+class="s1_17"
+>3ot required</text>
+
+<text 
+x="508" 
+y="339" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_17"
+>)evelopment</text>
+
+<text 
+x="800" 
+y="339" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s1_17"
+>(ompulsory</text>
+
+<text 
+x="221" 
+y="385" 
+dx="0,0,0,0,0.4,0,0,0,0,0,0,0" 
+class="s1_17"
+>3ot required</text>
+
+<text 
+x="521" 
+y="385" 
+dx="0,0,0,0,0,0,0,0" 
+class="s1_17"
+>8hipping</text>
+
+<text 
+x="800" 
+y="385" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s1_17"
+>(ompulsory</text>
+
+<text 
+x="221" 
+y="430" 
+dx="0,0,0,0,0.4,0,0,0,0,0,0,0" 
+class="s1_17"
+>3ot required</text>
+
+<text 
+x="525" 
+y="430" 
+dx="0,0,0,0,0,0,0" 
+class="s1_17"
+>9esting</text>
+
+<text 
+x="800" 
+y="430" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s1_17"
+>(ompulsory</text>
+
+<text 
+x="221" 
+y="476" 
+dx="0,0,0,0,0.4,0,0,0,0,0,0,0" 
+class="s1_17"
+>3ot required</text>
+
+<text 
+x="493" 
+y="476" 
+dx="0,0,0,0,0,0,0,0,0,0.4,0,0,0,0,0" 
+class="s1_17"
+>&lt;orkshop 7eview</text>
+
+<text 
+x="800" 
+y="476" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s1_17"
+>(ompulsory</text>
+
+<path fill-rule="evenodd" d="M58.9,184.9l0,315.2Z" class="g4_17" />
+<path d="M58.9,184.9l0,281" class="g5_17" />
+<path fill-rule="evenodd" d="M48.9,465.9l10,27.6L69,465.9Z" class="g6_17" />
+<path fill-rule="evenodd" d="M1050.4,179.2l0,315.3Z" class="g4_17" />
+<path d="M1050.4,179.2l0,281" class="g5_17" />
+<path fill-rule="evenodd" d="M1040.4,460.2l10,27.6l10,-27.6Z" class="g6_17" />
+<path fill-rule="evenodd" d="M114.8,526.3l245.9,0l0,56l-245.9,0Z" class="g4_17" />
+<text 
+x="164" 
+y="549" 
+dx="0,0,0,0.4,0,0,0,0,0,0,0.4,0,0,0,0,0,0.4,0,0,0.4,0,0" 
+class="s1_17"
+>.) should focus on 54(</text>
+
+<path fill-rule="evenodd" d="M36.3,24.8l1020.6,0l0,76.6l-1020.6,0Z" class="g4_17" />
+<text 
+x="46" 
+y="78" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.5,0,0,0,0,0,0" 
+class="s2_17"
+>Collaboration process</text>
+
+<path fill-rule="evenodd" d="M714.9,526.3l245.8,0l0,56l-245.8,0Z" class="g4_17" />
+<text 
+x="731" 
+y="549" 
+dx="0,0,0,0.4,0,0,0,0,0,0,0.4,0,0,0,0,0,0.4,0,0,0.4,0,0,0,0,0,0,0.4,0,0,0,0,0,0" 
+class="s1_17"
+>5) should focus on market release</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: ArialMT_5f;
+	src: url("fonts/ArialMT_5f.woff") format("woff");
+}
+
+@font-face {
+	font-family: Raleway-Bold_5j;
+	src: url("fonts/Raleway-Bold_5j.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

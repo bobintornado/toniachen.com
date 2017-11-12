@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 7 -->
+<svg x="0" y="0" width="1100" height="618" viewBox="0 0 1100 618" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_7{
+fill: #FFFFFF;
+}
+.g2_7{
+fill: #FFAE88;
+}
+.g3_7{
+fill: none;
+stroke: #FB8C00;
+stroke-width: 1.1408833;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 11;
+}
+
+.s1_7{
+font-size: 18.25px;
+font-family: ArialMT_5f;
+fill: #000000;
+}
+.s2_7{
+font-size: 15.21px;
+font-family: ArialMT_5f;
+fill: #000000;
+}
+.s3_7{
+font-size: 15.21px;
+font-family: ArialMT_5f;
+fill: #222222;
+}
+.s4_7{
+font-size: 15.21px;
+font-family: Arial-ItalicMT_5v;
+fill: #000000;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,618
+L1100,618
+L1100,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path fill-rule="evenodd" d="M0,0L1095.2,0l0,616.1L0,616.1Z" class="g1_7" />
+<path d="M54.4,27l137.7,0l0,68.7l-137.7,0L54.4,27Z" class="g2_7" />
+<path d="M192.1,27l422,0l0,68.7l-422,0l0,-68.7Z" class="g2_7" />
+<path d="M614.1,27l431.2,0l0,68.7l-431.2,0l0,-68.7Z" class="g2_7" />
+<path d="M54.4,26.5l0,511.9" class="g3_7" />
+<path d="M192.1,26.5l0,511.9" class="g3_7" />
+<path d="M614.1,26.5l0,511.9" class="g3_7" />
+<path d="M1045.3,26.5l0,511.9" class="g3_7" />
+<path d="M53.8,27l992.1,0" class="g3_7" />
+<path d="M53.8,95.7l992.1,0" class="g3_7" />
+<path d="M53.8,209.2l992.1,0" class="g3_7" />
+<path d="M53.8,322.8l992.1,0" class="g3_7" />
+<path d="M53.8,381.3l992.1,0" class="g3_7" />
+<path d="M53.8,537.8l992.1,0" class="g3_7" />
+<text 
+x="64" 
+y="54" 
+dx="0,0,0,0,0" 
+class="s1_7"
+>9eams</text>
+
+<text 
+x="202" 
+y="54" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0.5,0,0,0,0,0" 
+class="s1_7"
+>.nnovation )esign</text>
+
+<text 
+x="624" 
+y="54" 
+dx="0,0,0,0,0,0,0,0,0.5,0,0,0,0,0" 
+class="s1_7"
+>5roduct )esign</text>
+
+<text 
+x="64" 
+y="120" 
+dx="0,0,0,0" 
+class="s2_7"
+>9ime</text>
+
+<text 
+x="224" 
+y="120" 
+dx="0" 
+class="s2_7"
+>´</text>
+
+<text 
+x="257" 
+y="120" 
+dx="0,0,0,0,0,0,0,0,0,0,0.4,0,0,0,0.4,0,0,0,0,0,0,0,0.4,0,0,0.4,0,0,0,0,0,0,0,0,0,0.4,0,0,0" 
+class="s2_7"
+>9imeframe may subject to different case</text>
+
+<text 
+x="224" 
+y="138" 
+dx="0" 
+class="s2_7"
+>´</text>
+
+<text 
+x="257" 
+y="138" 
+dx="0,0,0,0,0,0,0,0,0.4,0,0,0,0,0.4,0,0,0,0,0,0,0,0.4,0,0,0,0,0.4,0,0,0,0,0,0,0" 
+class="s2_7"
+>7egular last minuteµ keep changing</text>
+
+<text 
+x="224" 
+y="157" 
+dx="0" 
+class="s2_7"
+>´</text>
+
+<text 
+x="257" 
+y="157" 
+dx="0,0,0,0.4,0,0,0,0,0,0,0.4,0,0,0,0,0,0" 
+class="s2_7"
+>3o design roadmap</text>
+
+<path d="M679.1,106l191,0l0,18.2l-191,0l0,-18.2Z" class="g1_7" />
+<text 
+x="646" 
+y="120" 
+dx="0" 
+class="s3_7"
+>´</text>
+
+<text 
+x="679" 
+y="120" 
+dx="0,0,0,0,0,0.4,0,0,0,0,0,0,0.4,0,0,0,0,0,0,0,0.4,0,0,0,0.4,0,0,0" 
+class="s3_7"
+>1ast minute project ³´± days</text>
+
+<path d="M679.1,124.2l211.3,0l0,18.3l-211.3,0l0,-18.3Z" class="g1_7" />
+<text 
+x="646" 
+y="138" 
+dx="0" 
+class="s3_7"
+>´</text>
+
+<text 
+x="679" 
+y="138" 
+dx="0,0,0,0,0,0,0.4,0,0,0,0,0,0,0,0,0,0.4,0,0.4,0,0,0,0,0,0,0.4,0,0.4,0,0,0,0" 
+class="s3_7"
+>(lear timelineµ ³ sprint ± weeks</text>
+
+<path d="M679.1,142.5l224.9,0l0,18.2l-224.9,0l0,-18.2Z" class="g1_7" />
+<text 
+x="646" 
+y="157" 
+dx="0" 
+class="s3_7"
+>´</text>
+
+<text 
+x="679" 
+y="157" 
+dx="0,0,0,0,0,0,0.4,0,0,0,0,0,0,0,0.4,0,0,0,0,0,0.4,0,0,0,0.4,0,0,0,0,0,0" 
+class="s3_7"
+>(lear project scope and roadmap</text>
+
+<text 
+x="64" 
+y="234" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_7"
+>)eliverables</text>
+
+<text 
+x="224" 
+y="234" 
+dx="0" 
+class="s2_7"
+>´</text>
+
+<text 
+x="257" 
+y="234" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0.4,0,0,0,0,0,0,0.4,0,0,0,0,0,0,0,0,0,0,0,0.4,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_7"
+>&lt;ireframesµ simple prototypesµ illustrations</text>
+
+<text 
+x="224" 
+y="252" 
+dx="0" 
+class="s2_7"
+>´</text>
+
+<text 
+x="257" 
+y="252" 
+dx="0,0,0,0,0,0.4,0,0,0,0.4,0,0,0" 
+class="s2_7"
+>1ook and feel</text>
+
+<text 
+x="224" 
+y="270" 
+dx="0" 
+class="s2_7"
+>´</text>
+
+<text 
+x="257" 
+y="270" 
+dx="0,0,0,0,0,0,0,0,0.4,0,0,0,0,0,0" 
+class="s2_7"
+>,raphic designs</text>
+
+<text 
+x="224" 
+y="288" 
+dx="0" 
+class="s2_7"
+>´</text>
+
+<text 
+x="257" 
+y="288" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0.4,0,0,0,0,0,0" 
+class="s2_7"
+>2erchandise designs</text>
+
+<path d="M679.1,219.5l354.1,0l0,18.3l-354.1,0l0,-18.3Z" class="g1_7" />
+<text 
+x="646" 
+y="234" 
+dx="0" 
+class="s3_7"
+>´</text>
+
+<text 
+x="679" 
+y="234" 
+dx="0,0,0,0,0,0.4,0,0,0,0,0,0,0,0,0.4,0,0,0,0,0,0,0,0,0,0,0.4,0,0,0,0,0,0.4,0,0,0,0,0.4,0,0,0,0,0,0,0,0,0.4,0,0,0,0,0,0,0,0" 
+class="s3_7"
+>-igh fidelity 5rototypes ¸with real )atabase structure</text>
+
+<path d="M679.1,237.8l230.8,0l0,18.2l-230.8,0l0,-18.2Z" class="g1_7" />
+<text 
+x="679" 
+y="252" 
+dx="0,0,0,0,0.4,0,0,0,0,0,0,0.4,0,0,0,0,0,0,0,0,0,0,0.4,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_7"
+>and server responding interaction¹</text>
+
+<path d="M679.1,256L936,256l0,18.3l-256.9,0l0,-18.3Z" class="g1_7" />
+<text 
+x="646" 
+y="270" 
+dx="0" 
+class="s3_7"
+>´</text>
+
+<text 
+x="679" 
+y="270" 
+dx="0,0,0,0,0.4,0,0,0,0,0.4,0,0,0,0,0,0,0,0,0,0,0.4,0,0,0,0.4,0,0,0.4,0,0,0,0,0,0" 
+class="s3_7"
+>0ey page wireframes and :. mockups</text>
+
+<path d="M679.1,274.3l164,0l0,18.2l-164,0l0,-18.2Z" class="g1_7" />
+<text 
+x="646" 
+y="288" 
+dx="0" 
+class="s3_7"
+>´</text>
+
+<text 
+x="679" 
+y="288" 
+dx="0,0,0,0,0,0.4,0,0,0,0,0,0,0,0,0,0,0,0.4,0,0,0,0,0,0" 
+class="s3_7"
+>7eal functioning product</text>
+
+<text 
+x="64" 
+y="347" 
+dx="0,0,0,0,0,0,0,0" 
+class="s2_7"
+>2anpower</text>
+
+<text 
+x="202" 
+y="347" 
+dx="0,0,0.4,0,0,0,0,0,0,0.4,0,0,0,0,0,0,0,0" 
+class="s2_7"
+>± junior designers</text>
+
+<path d="M624.4,333L741,333l0,18.3l-116.6,0l0,-18.3Z" class="g1_7" />
+<text 
+x="624" 
+y="347" 
+dx="0,0,0.4,0,0,0,0,0,0,0.4,0,0,0,0,0,0,0" 
+class="s2_7"
+>³ senior designer</text>
+
+<text 
+x="64" 
+y="406" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_7"
+>5roductivity</text>
+
+<text 
+x="202" 
+y="406" 
+dx="0,0,0,0,0,0,0.4,0,0,0.4,0,0,0.4,0,0,0,0,0,0,0,0,0,0,0.4,0,0,0.4,0" 
+class="s4_7"
+>±c°²I ³´ G² ´v²µ°²²¶· Gy ¸²</text>
+
+<text 
+x="202" 
+y="424" 
+dx="0,0,0.4,0,0,0,0.4,0,0,0,0,0.4,0,0,0,0,0,0,0,0.4,0,0,0,0,0,0,0.4,0,0.4,0,0,0,0.4,0,0,0,0,0,0,0.4,0,0,0,0,0.4,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_7"
+>³ use case designµ &amp;round ¼ key pagesµ with interactions</text>
+
+<text 
+x="224" 
+y="460" 
+dx="0" 
+class="s2_7"
+>´</text>
+
+<text 
+x="257" 
+y="460" 
+dx="0,0,0,0,0.4,0,0,0" 
+class="s2_7"
+>±´· days</text>
+
+<text 
+x="224" 
+y="504" 
+dx="0" 
+class="s2_7"
+>´</text>
+
+<text 
+x="257" 
+y="504" 
+dx="0,0,0,0,0,0,0,0.4,0,0,0,0,0,0,0,0,0" 
+class="s2_7"
+>7efine frequency#</text>
+
+<text 
+x="257" 
+y="522" 
+dx="0,0,0,0,0,0,0,0,0.4,0,0,0,0.4,0,0,0,0,0,0.4,0,0,0,0.4,0,0,0,0,0,0.4,0,0,0.4,0,0,0.4,0,0.4,0,0,0,0,0" 
+class="s2_7"
+>average ±´· times per pageµ up to ½ times¶</text>
+
+<text 
+x="624" 
+y="406" 
+dx="0,0,0.4,0,0,0,0.4,0,0,0,0,0.4,0,0,0,0,0,0,0,0.4,0,0,0,0,0,0,0.4,0,0.4,0,0,0,0.4,0,0,0,0,0,0,0.4,0,0,0,0,0.4,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_7"
+>³ use case designµ &amp;round ¼ key pagesµ with interactions</text>
+
+<text 
+x="646" 
+y="467" 
+dx="0" 
+class="s2_7"
+>´</text>
+
+<text 
+x="679" 
+y="467" 
+dx="0,0,0.4,0,0" 
+class="s2_7"
+>³ day</text>
+
+<text 
+x="646" 
+y="504" 
+dx="0" 
+class="s2_7"
+>´</text>
+
+<text 
+x="679" 
+y="504" 
+dx="0,0,0,0,0,0,0,0.4,0,0,0,0,0,0,0,0,0" 
+class="s2_7"
+>7efine frequency#</text>
+
+<text 
+x="679" 
+y="522" 
+dx="0,0,0,0,0,0,0,0,0.4,0,0,0,0.4,0,0,0,0,0,0.4,0,0,0.4,0,0,0.4,0,0.4,0,0,0,0,0" 
+class="s2_7"
+>average ²´³ timeµ :p to ± times¶</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: ArialMT_5f;
+	src: url("fonts/ArialMT_5f.woff") format("woff");
+}
+
+@font-face {
+	font-family: Arial-ItalicMT_5v;
+	src: url("fonts/Arial-ItalicMT_5v.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

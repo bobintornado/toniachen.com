@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 16 -->
+<svg x="0" y="0" width="1100" height="618" viewBox="0 0 1100 618" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_16{
+fill: #FFFFFF;
+}
+.g2_16{
+fill: #FFAE88;
+}
+.g3_16{
+fill: none;
+stroke: #FB8C00;
+stroke-width: 1.1408833;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 11;
+}
+.g4_16{
+fill-opacity: 0;
+}
+
+.s1_16{
+font-size: 15.21px;
+font-family: ArialMT_5f;
+fill: #000000;
+}
+.s2_16{
+font-size: 45.64px;
+font-family: Raleway-Bold_5j;
+fill: #F46524;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,618
+L1100,618
+L1100,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path fill-rule="evenodd" d="M0,0L1095.2,0l0,616.1L0,616.1Z" class="g1_16" />
+<path d="M47.5,144.6l96,0l0,45.6l-96,0l0,-45.6Z" class="g2_16" />
+<path d="M143.5,144.6l486.5,0l0,45.6l-486.5,0l0,-45.6Z" class="g2_16" />
+<path d="M630,144.6l197.9,0l0,45.6l-197.9,0l0,-45.6Z" class="g2_16" />
+<path d="M827.9,144.6l198,0l0,45.6l-198,0l0,-45.6Z" class="g2_16" />
+<path d="M47.5,144l0,357.5" class="g3_16" />
+<path d="M143.5,144l0,357.5" class="g3_16" />
+<path d="M630,144l0,357.5" class="g3_16" />
+<path d="M827.9,144l0,357.5" class="g3_16" />
+<path d="M1025.9,144l0,357.5" class="g3_16" />
+<path d="M47,144.6l979.5,0" class="g3_16" />
+<path d="M47,190.2l979.5,0" class="g3_16" />
+<path d="M47,235.9l979.5,0" class="g3_16" />
+<path d="M47,281.5l979.5,0" class="g3_16" />
+<path d="M47,325.4l979.5,0" class="g3_16" />
+<path d="M47,369.3l979.5,0" class="g3_16" />
+<path d="M47,413.1l979.5,0" class="g3_16" />
+<path d="M47,457l979.5,0" class="g3_16" />
+<path d="M47,500.9l979.5,0" class="g3_16" />
+<text 
+x="153" 
+y="169" 
+dx="0,0,0,0,0,0.4,0,0,0.4,0" 
+class="s1_16"
+>&lt;hat to do</text>
+
+<text 
+x="640" 
+y="169" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s1_16"
+>*ngagement</text>
+
+<text 
+x="838" 
+y="169" 
+dx="0,0,0,0,0" 
+class="s1_16"
+>3otes</text>
+
+<text 
+x="57" 
+y="215" 
+dx="0,0,0,0,0,0.4" 
+class="s1_16"
+>8tep ³</text>
+
+<text 
+x="153" 
+y="215" 
+dx="0,0,0,0,0,0.4,0,0,0,0,0,0.4,0,0,0,0,0.4,0,0,0,0,0,0,0,0" 
+class="s1_16"
+>-igh level user interview</text>
+
+<text 
+x="640" 
+y="215" 
+dx="0,0,0,0,0.4,0,0,0,0" 
+class="s1_16"
+>'&amp;µ 8ales</text>
+
+<text 
+x="57" 
+y="260" 
+dx="0,0,0,0,0,0.4" 
+class="s1_16"
+>8tep ±</text>
+
+<text 
+x="153" 
+y="260" 
+dx="0,0,0,0,0,0,0,0.4,0,0,0,0,0,0,0,0.4,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_16"
+>)etail feature requirements</text>
+
+<text 
+x="640" 
+y="260" 
+dx="0,0,0,0,0.4,0,0,0,0,0,0,0.4,0" 
+class="s1_16"
+>'&amp;µ 8alesµ 5)</text>
+
+<text 
+x="838" 
+y="260" 
+dx="0,0,0,0,0,0,0,0.4,0,0,0.4,0,0,0,0,0,0.4,0,0,0" 
+class="s1_16"
+>&amp;greed by 8ales team</text>
+
+<text 
+x="57" 
+y="306" 
+dx="0,0,0,0,0,0.4" 
+class="s1_16"
+>8tep ·</text>
+
+<text 
+x="153" 
+y="306" 
+dx="0,0,0,0,0,0,0,0.4,0,0,0,0,0,0,0" 
+class="s1_16"
+>)esign grooming</text>
+
+<text 
+x="640" 
+y="306" 
+dx="0,0,0,0,0.4,0,0,0,0.4,0" 
+class="s1_16"
+>'&amp;µ 5)µ .)</text>
+
+<text 
+x="57" 
+y="350" 
+dx="0,0,0,0,0,0.4" 
+class="s1_16"
+>8tep ¾</text>
+
+<text 
+x="153" 
+y="350" 
+dx="0,0,0,0,0,0,0,0.4,0,0,0,0,0,0,0,0.4,0,0,0,0,0,0,0,0,0,0,0.4,0" 
+class="s1_16"
+>)esign 8printµ wireframeµ :.</text>
+
+<text 
+x="640" 
+y="350" 
+dx="0,0,0,0,0.4,0" 
+class="s1_16"
+>5)µ .)</text>
+
+<text 
+x="57" 
+y="394" 
+dx="0,0,0,0,0,0.4" 
+class="s1_16"
+>8tep ¼</text>
+
+<text 
+x="153" 
+y="394" 
+dx="0,0,0,0,0,0,0,0,0.4,0,0,0,0.4,0,0,0,0,0.4,0,0,0.4,0,0,0,0,0,0,0,0,0,0,0,0.4,0,0,0.4,0,0,0,0,0,0,0,0,0,0" 
+class="s1_16"
+>5acking and ship to developersµ :. development</text>
+
+<text 
+x="640" 
+y="394" 
+dx="0,0" 
+class="s1_16"
+>5)</text>
+
+<text 
+x="57" 
+y="438" 
+dx="0,0,0,0,0,0.4" 
+class="s1_16"
+>8tep ½</text>
+
+<text 
+x="153" 
+y="438" 
+dx="0,0,0,0,0,0,0,0,0,0.4,0,0,0,0,0,0,0" 
+class="s1_16"
+>9estingµ feedback</text>
+
+<text 
+x="640" 
+y="438" 
+dx="0,0,0,0,0.4,0,0,0,0.4,0" 
+class="s1_16"
+>6&amp;µ 5)µ .)</text>
+
+<text 
+x="838" 
+y="438" 
+dx="0,0,0,0,0,0,0,0.4,0,0,0.4,0,0,0.4,0,0,0" 
+class="s1_16"
+>&amp;greed by 6&amp; team</text>
+
+<text 
+x="57" 
+y="481" 
+dx="0,0,0,0,0,0.4" 
+class="s1_16"
+>8tep °</text>
+
+<text 
+x="153" 
+y="481" 
+dx="0,0,0,0,0,0.4,0,0,0,0,0" 
+class="s1_16"
+>:ser review</text>
+
+<text 
+x="640" 
+y="481" 
+dx="0,0,0,0,0.4,0,0,0,0,0,0,0.4,0,0,0,0.4,0" 
+class="s1_16"
+>6&amp;µ 8alesµ '&amp;µ 5)</text>
+
+<text 
+x="838" 
+y="481" 
+dx="0,0,0,0,0,0,0,0.4,0,0,0.4,0,0,0,0,0,0,0,0,0.4,0,0,0" 
+class="s1_16"
+>&amp;greed by )elivery team</text>
+
+<path fill-rule="evenodd" d="M36.3,27.3l1020.6,0l0,76.6l-1020.6,0Z" class="g4_16" />
+<text 
+x="46" 
+y="81" 
+dx="0,0,0,0,0,0,0,-0.5,0,0,0,0,0,0,0,-0.5,0,0,0,0,0,0" 
+class="s2_16"
+>Design process details</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: ArialMT_5f;
+	src: url("fonts/ArialMT_5f.woff") format("woff");
+}
+
+@font-face {
+	font-family: Raleway-Bold_5j;
+	src: url("fonts/Raleway-Bold_5j.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

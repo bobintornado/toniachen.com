@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 8 -->
+<svg x="0" y="0" width="1100" height="618" viewBox="0 0 1100 618" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_8{
+fill: #FFFFFF;
+}
+.g2_8{
+fill: #FFAE88;
+}
+.g3_8{
+fill: none;
+stroke: #FB8C00;
+stroke-width: 1.1408833;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 11;
+}
+
+.s1_8{
+font-size: 18.25px;
+font-family: ArialMT_5f;
+fill: #000000;
+}
+.s2_8{
+font-size: 15.21px;
+font-family: ArialMT_5f;
+fill: #000000;
+}
+.s3_8{
+font-size: 15.21px;
+font-family: ArialMT_5f;
+fill: #F46524;
+}
+.s4_8{
+font-size: 15.21px;
+font-family: ArialMT_5f;
+fill: #222222;
+}
+.s5_8{
+font-size: 13.69px;
+font-family: ArialMT_5f;
+fill: #000000;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,618
+L1100,618
+L1100,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path fill-rule="evenodd" d="M0,0L1095.2,0l0,616.1L0,616.1Z" class="g1_8" />
+<path d="M54.4,35.1l137.7,0l0,78.7l-137.7,0l0,-78.7Z" class="g2_8" />
+<path d="M192.1,35.1l394.1,0l0,78.7l-394.1,0l0,-78.7Z" class="g2_8" />
+<path d="M586.2,35.1l459.1,0l0,78.7l-459.1,0l0,-78.7Z" class="g2_8" />
+<path d="M54.4,34.5l0,538.3" class="g3_8" />
+<path d="M192.1,34.5l0,538.3" class="g3_8" />
+<path d="M586.2,34.5l0,538.3" class="g3_8" />
+<path d="M1045.3,34.5l0,538.3" class="g3_8" />
+<path d="M53.8,35.1l992.1,0" class="g3_8" />
+<path d="M53.8,113.8l992.1,0" class="g3_8" />
+<path d="M53.8,303.9l992.1,0" class="g3_8" />
+<path d="M53.8,572.2l992.1,0" class="g3_8" />
+<text 
+x="64" 
+y="62" 
+dx="0,0,0,0,0" 
+class="s1_8"
+>9eams</text>
+
+<text 
+x="202" 
+y="62" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0.5,0,0,0,0,0" 
+class="s1_8"
+>.nnovation )esign</text>
+
+<text 
+x="596" 
+y="62" 
+dx="0,0,0,0,0,0,0,0,0.5,0,0,0,0,0" 
+class="s1_8"
+>5roduct )esign</text>
+
+<text 
+x="64" 
+y="138" 
+dx="0,0,0,0,0,0.4,0,0" 
+class="s2_8"
+>5ros and</text>
+
+<text 
+x="64" 
+y="156" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s2_8"
+>advantage</text>
+
+<text 
+x="224" 
+y="138" 
+dx="0" 
+class="s3_8"
+>´</text>
+
+<text 
+x="257" 
+y="138" 
+dx="0,0,0,0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0.4,0,0,0,0,0,0,0,0,0,0,0,0.4,0,0,0,0,0,0,0,0,0,0.4,0,0" 
+class="s2_8"
+>3o tech´thinking constraintµ designers can</text>
+
+<text 
+x="257" 
+y="156" 
+dx="0,0,0,0,0,0,0,0,0.4,0,0,0,0,0,0,0.4,0,0,0,0,0,0,0,0,0,0" 
+class="s2_8"
+>utilize design creativity¶</text>
+
+<text 
+x="224" 
+y="200" 
+dx="0" 
+class="s2_8"
+>´</text>
+
+<text 
+x="257" 
+y="200" 
+dx="0,0,0,0,0.4,0,0,0,0,0.4,0,0,0,0,0,0,0,0,0,0" 
+class="s2_8"
+>³st hand information</text>
+
+<text 
+x="224" 
+y="243" 
+dx="0" 
+class="s2_8"
+>´</text>
+
+<text 
+x="257" 
+y="243" 
+dx="0,0,0,0,0,0.4,0,0,0,0.4,0,0,0,0,0,0,0,0,0,0.4,0,0,0,0,0" 
+class="s2_8"
+>+ast and intuitive output</text>
+
+<path d="M651.2,124.1l329.7,0l0,18.2l-329.7,0l0,-18.2Z" class="g1_8" />
+<text 
+x="618" 
+y="138" 
+dx="0" 
+class="s4_8"
+>´</text>
+
+<text 
+x="651" 
+y="138" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0.4,0,0,0,0.4,0,0,0,0,0,0,0,0.4,0,0,0,0.4,0,0,0,0,0,0,0,0.4,0,0,0,0,0,0.4,0,0,0.4,0,0" 
+class="s4_8"
+>:nderstand the product and project needs in ·½²</text>
+
+<path d="M651.2,142.3l354.2,0l0,18.3l-354.2,0l0,-18.3Z" class="g1_8" />
+<text 
+x="651" 
+y="156" 
+dx="0,0,0,0,0,0,0,0,0.4,0,0,0,0,0,0,0,0,0,0.4,0,0,0,0.4,0,0,0,0,0,0,0.4,0,0,0,0,0.4,0,0,0,0,0,0,0,0,0,0.4,0,0,0,0,0" 
+class="s4_8"
+>degrees knowledge and inputs from different domain</text>
+
+<path d="M651.2,160.6l136.1,0l0,18.2l-136.1,0l0,-18.2Z" class="g1_8" />
+<text 
+x="651" 
+y="175" 
+dx="0,0,0,0,0,0,0,0,0.4,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_8"
+>experts perspective¶</text>
+
+<path d="M651.2,178.8l368.6,0l0,18.3l-368.6,0l0,-18.3Z" class="g1_8" />
+<text 
+x="618" 
+y="193" 
+dx="0" 
+class="s4_8"
+>´</text>
+
+<text 
+x="651" 
+y="193" 
+dx="0,0,0,0,0,0,0,0,0.4,0,0,0,0,0.4,0,0,0.4,0,0,0,0.4,0,0,0,0,0,0,0.4,0,0,0,0,0,0.4,0,0,0,0,0,0,0,0,0,0,0,0.4,0,0,0,0,0.4,0,0,0" 
+class="s4_8"
+>.nsight view of how design being implemented into real</text>
+
+<path d="M651.2,197.1l232.5,0l0,18.2l-232.5,0l0,-18.2Z" class="g1_8" />
+<text 
+x="651" 
+y="211" 
+dx="0,0,0,0,0,0,0,0,0,0.4,0,0,0,0,0,0,0,0,0,0,0,0,0.4,0,0,0,0.4,0,0,0,0,0,0,0,0,0" 
+class="s4_8"
+>productµ difficulties and challenges</text>
+
+<path d="M651.2,215.3l366.8,0l0,18.3l-366.8,0l0,-18.3Z" class="g1_8" />
+<text 
+x="618" 
+y="229" 
+dx="0" 
+class="s4_8"
+>´</text>
+
+<text 
+x="651" 
+y="229" 
+dx="0,0,0,0,0,0,0,0,0,0.4,0,0,0,0,0,0,0,0,0,0.4,0,0,0.4,0,0,0,0,0,0,0,0.4,0,0,0,0,0,0,0,0,0,0,0.4,0,0,0,0,0,0,0.4,0,0,0,0,0,0,0" 
+class="s4_8"
+>.n´depth discovery of product capability studyµ strategy</text>
+
+<path d="M651.2,233.6l52.4,0l0,18.2l-52.4,0l0,-18.2Z" class="g1_8" />
+<text 
+x="651" 
+y="248" 
+dx="0,0,0,0,0,0,0,0" 
+class="s4_8"
+>thinking</text>
+
+<path d="M651.2,251.8l342.3,0l0,18.3l-342.3,0l0,-18.3Z" class="g1_8" />
+<text 
+x="618" 
+y="266" 
+dx="0" 
+class="s4_8"
+>´</text>
+
+<text 
+x="651" 
+y="266" 
+dx="0,0,0,0,0,0,0,0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0.4,0,0,0,0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.4,0,0,0,0,0,0,0,0" 
+class="s4_8"
+>&amp;ctive communication and collaborationµ improving</text>
+
+<path d="M651.2,270.1l161.4,0l0,18.2l-161.4,0l0,-18.2Z" class="g1_8" />
+<text 
+x="651" 
+y="284" 
+dx="0,0,0,0,0,0,0,0.4,0,0,0,0,0,0.4,0,0,0,0,0.4,0,0,0,0,0,0" 
+class="s4_8"
+>team’s trust from inside¶</text>
+
+<text 
+x="64" 
+y="328" 
+dx="0,0,0,0,0,0.4,0,0" 
+class="s2_8"
+>(ons and</text>
+
+<text 
+x="64" 
+y="347" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s2_8"
+>challenges</text>
+
+<text 
+x="224" 
+y="353" 
+dx="0" 
+class="s2_8"
+>´</text>
+
+<text 
+x="257" 
+y="353" 
+dx="0,0,0,0,0.4,0,0,0,0,0,0,0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.4,0,0,0,0,0.4,0,0,0,0,0,0,0,0" 
+class="s2_8"
+>3ot enough communications with different</text>
+
+<text 
+x="257" 
+y="372" 
+dx="0,0,0,0,0,0,0,0.4,0,0,0,0.4,0,0,0,0,0.4,0,0,0.4,0,0,0.4,0,0,0,0,0,0,0,0,0.4,0,0,0,0,0,0" 
+class="s2_8"
+>teamsµ not able to be informed current</text>
+
+<text 
+x="257" 
+y="390" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0.4,0,0,0,0,0,0,0,0,0,0,0,0.4,0,0,0,0.4,0,0,0,0,0,0,0.4,0,0,0,0.4,0,0,0,0.4,0" 
+class="s2_8"
+>technology challengesµ the design may not be</text>
+
+<text 
+x="257" 
+y="408" 
+dx="0,0,0,0,0,0,0,0.4,0,0,0.4,0,0,0,0.4,0,0,0,0,0.4,0,0,0.4,0,0,0.4,0,0,0,0,0,0,0,0,0,0,0,0.4,0,0,0.4,0,0.4,0,0,0,0" 
+class="s2_8"
+>useful or not able to be implemented in a short</text>
+
+<text 
+x="257" 
+y="426" 
+dx="0,0,0,0,0,0,0" 
+class="s2_8"
+>period¶</text>
+
+<text 
+x="224" 
+y="470" 
+dx="0" 
+class="s2_8"
+>´</text>
+
+<text 
+x="257" 
+y="470" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0.4,0,0,0,0,0,0,0" 
+class="s5_8"
+>.nformation fragment</text>
+
+<text 
+x="618" 
+y="328" 
+dx="0" 
+class="s2_8"
+>´</text>
+
+<text 
+x="651" 
+y="328" 
+dx="0,0,0,0,0,0,0,0.4,0,0,0,0,0,0,0,0,0.4,0,0,0,0,0.4,0,0,0.4,0,0,0,0,0,0,0,0,0,0,0,0.4,0,0.4,0,0,0,0,0,0,0.4,0,0,0,0.4,0,0,0,0,0,0,0,0.4,0" 
+class="s2_8"
+>)esign thinking will be constrained a little bit because of</text>
+
+<text 
+x="651" 
+y="347" 
+dx="0,0,0,0,0.4,0,0,0,0,0,0,0,0.4,0,0,0,0,0,0,0,0,0.4,0,0,0,0,0,0,0,0" 
+class="s2_8"
+>the limited resource framework</text>
+
+<text 
+x="618" 
+y="390" 
+dx="0" 
+class="s2_8"
+>´</text>
+
+<text 
+x="651" 
+y="390" 
+dx="0,0,0,0,0.4,0,0,0,0,0,0,0.4,0,0,0,0,0,0,0,0,0,0,0,0.4,0,0,0,0,0,0,0,0,0,0,0,0.4,0,0,0,0,0.4,0,0,0,0,0,0,0,0,0,0,0.4,0,0" 
+class="s2_8"
+>±nd handed information ¸filtered¹µ late engagement may</text>
+
+<text 
+x="651" 
+y="408" 
+dx="0,0,0,0,0,0,0.4,0,0,0,0,0,0,0,0.4,0,0,0,0,0,0,0,0,0,0,0,0.4,0,0,0,0.4,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_8"
+>cause missing information and requirements¶</text>
+
+<text 
+x="618" 
+y="451" 
+dx="0" 
+class="s2_8"
+>´</text>
+
+<text 
+x="651" 
+y="451" 
+dx="0,0,0,0,0,0.4,0,0,0,0,0,0,0,0,0,0,0.4,0,0,0,0" 
+class="s2_8"
+>1ong production cycle</text>
+
+<text 
+x="618" 
+y="495" 
+dx="0" 
+class="s2_8"
+>´</text>
+
+<text 
+x="651" 
+y="495" 
+dx="0,0,0,0,0.4,0,0,0,0,0,0,0.4,0,0,0,0,0.4,0,0,0.4,0,0,0,0,0,0,0,0,0.4,0,0,0,0,0,0,0,0,0,0,0,0.4,0,0,0,0,0,0.4,0,0,0.4,0,0,0,0,0" 
+class="s2_8"
+>3ot enough time to optimize features»:. which is rarely</text>
+
+<text 
+x="651" 
+y="513" 
+dx="0,0,0,0,0" 
+class="s2_8"
+>used¶</text>
+
+<text 
+x="618" 
+y="556" 
+dx="0" 
+class="s2_8"
+>´</text>
+
+<text 
+x="651" 
+y="556" 
+dx="0,0,0,0,0,0,0,0,0.4,0,0,0,0,0,0,0" 
+class="s2_8"
+>1imited manpower</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: ArialMT_5f;
+	src: url("fonts/ArialMT_5f.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

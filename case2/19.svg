@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 19 -->
+<svg x="0" y="0" width="1100" height="618" viewBox="0 0 1100 618" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_19{
+fill: #F46524;
+}
+.g2_19{
+fill-opacity: 0;
+}
+.g3_19{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 4.5635333;
+stroke-linecap: butt;
+stroke-linejoin: round;
+stroke-miterlimit: 14;
+}
+.g4_19{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 2.2817667;
+stroke-linecap: butt;
+stroke-linejoin: round;
+stroke-miterlimit: 14;
+}
+
+.s1_19{
+font-size: 79.10px;
+font-family: ArialMT_5f;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,618
+L1100,618
+L1100,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path fill-rule="evenodd" d="M0,0L1095.2,0l0,616.1L0,616.1Z" class="g1_19" />
+<path fill-rule="evenodd" d="M50.9,49.8l993.8,0Z" class="g2_19" />
+<path d="M50.9,49.8l993.8,0" class="g3_19" />
+<path fill-rule="evenodd" d="M50.9,567.7l993.8,0Z" class="g2_19" />
+<path d="M50.9,567.7l993.8,0" class="g4_19" />
+<path fill-rule="evenodd" d="M48.7,216.4l993.8,0l0,184.7l-993.8,0Z" class="g2_19" />
+<text 
+x="343" 
+y="337" 
+dx="0,0,0,0,0,2.1,0,0,0,0,0" 
+class="s1_19"
+>3ext &amp;ction</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: ArialMT_5f;
+	src: url("fonts/ArialMT_5f.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

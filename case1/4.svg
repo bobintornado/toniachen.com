@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 4 -->
+<svg x="0" y="0" width="1466" height="825" viewBox="0 0 1466 825" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c0_4"><path d="M0,821.4L0,0L1460.3,0l0,821.4Z" /></clipPath>
+
+<style type="text/css"><![CDATA[
+
+.g1_4{
+fill: #FFFFFF;
+}
+.g2_4{
+fill: #F46524;
+}
+.g3_4{
+fill-opacity: 0;
+}
+.g4_4{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 2.2817667;
+stroke-linecap: butt;
+stroke-linejoin: round;
+stroke-miterlimit: 14;
+}
+
+.s1_4{
+font-size: 73.02px;
+font-family: Raleway-Bold_60;
+fill: #F46524;
+}
+.s2_4{
+font-size: 24.34px;
+font-family: Calibri_64;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,825
+L1466,825
+L1466,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<g clip-path="url(#c0_4)">
+<path fill-rule="evenodd" d="M0,0L1460.3,0l0,821.4L0,821.4Z" class="g1_4" />
+<path fill-rule="evenodd" d="M730.2,0l730.1,0l0,821.5l-730.1,0Z" class="g2_4" />
+</g>
+<path fill-rule="evenodd" d="M803.3,717.9l74.7,0Z" class="g3_4" />
+<path d="M803.3,717.9l74.7,0" class="g4_4" />
+<path fill-rule="evenodd" d="M42.4,223.2l646,0l0,210.5l-646,0Z" class="g3_4" />
+<text 
+x="65" 
+y="402" 
+dx="0,0,0,0,0,0,0,0,-0.7,0,0,0,0,0,0,0" 
+class="s1_4"
+>Website &amp;nalysis</text>
+
+<path fill-rule="evenodd" d="M788.9,115.7l612.7,0l0,590.1l-612.7,0Z" class="g3_4" />
+<text 
+x="796" 
+y="238" 
+dx="0,0" 
+class="s2_4"
+>1.</text>
+
+<text 
+x="843" 
+y="238" 
+dx="0,0,0,0,0,0,0,0,-0.6,0,0,0,0,0,0,0,0" 
+class="s2_4"
+>¾ro³lem ·tatement</text>
+
+<text 
+x="796" 
+y="282" 
+dx="0,0" 
+class="s2_4"
+>2.</text>
+
+<text 
+x="843" 
+y="282" 
+dx="0,0,0,0,0,0,0,0,0,0,-0.6,0,0,0,0,0,0,0,0,0,0,0,-0.6,0,0,0,0,0,0,0" 
+class="s2_4"
+>¶udien´es ¶´quisition ²verview</text>
+
+<text 
+x="796" 
+y="325" 
+dx="0,0" 
+class="s2_4"
+>3.</text>
+
+<text 
+x="843" 
+y="325" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_4"
+>¹eada³ility</text>
+
+<text 
+x="796" 
+y="369" 
+dx="0,0" 
+class="s2_4"
+>4.</text>
+
+<text 
+x="843" 
+y="369" 
+dx="0,0,0,0,0,-0.6,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_4"
+>·ite ¿aviga³ility</text>
+
+<text 
+x="796" 
+y="412" 
+dx="0,0" 
+class="s2_4"
+>5.</text>
+
+<text 
+x="843" 
+y="412" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_4"
+>¶´´essi³ility</text>
+
+<text 
+x="796" 
+y="455" 
+dx="0,0" 
+class="s2_4"
+>6.</text>
+
+<text 
+x="843" 
+y="455" 
+dx="0,0,0,0,0,0,0,0,-0.6,0,0,0,0,0,0,0,0,0,-0.6,0,0,0,0,0" 
+class="s2_4"
+>µe³site ·tru´ture ¹eview</text>
+
+<text 
+x="796" 
+y="499" 
+dx="0,0" 
+class="s2_4"
+>7.</text>
+
+<text 
+x="843" 
+y="499" 
+dx="0,0,0,0,0,0,0,0,-0.6,0,0,0,0,0,0,0,0" 
+class="s2_4"
+>±ontent ·tru´ture</text>
+
+<text 
+x="796" 
+y="542" 
+dx="0,0" 
+class="s2_4"
+>8.</text>
+
+<text 
+x="843" 
+y="542" 
+dx="0,0,0,0,0,0,0,0,-0.6,0,0,0,0" 
+class="s2_4"
+>µe³site ·peed</text>
+
+<text 
+x="796" 
+y="585" 
+dx="0,0" 
+class="s2_4"
+>9.</text>
+
+<text 
+x="843" 
+y="585" 
+dx="0,0,0,0,0,0,0,0,0,-0.6,0,0,-0.6,0,0,0,0,0,0,0,0,0,0" 
+class="s2_4"
+>¹esear´h on ±ompetitors</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: Calibri_64;
+	src: url("fonts/Calibri_64.woff") format("woff");
+}
+
+@font-face {
+	font-family: Raleway-Bold_60;
+	src: url("fonts/Raleway-Bold_60.woff") format("woff");
+}
+
+]]></style>
+
+</svg>
