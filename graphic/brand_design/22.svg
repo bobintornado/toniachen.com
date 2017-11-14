@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 22 -->
+<svg x="0" y="0" width="2933" height="1650" viewBox="0 0 2933 1650" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c0_22"><path d="M59.6,97.8l0,-55l288.7,0l0,55Z" /></clipPath>
+
+<style type="text/css"><![CDATA[
+
+.g1_22{
+fill: #FFFFFF;
+}
+.g2_22{
+fill: none;
+stroke: #A6AAA9;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+stroke-dasharray: 4,4;
+}
+.g3_22{
+fill: none;
+stroke: #DCDEE0;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g4_22{
+}
+.g5_22{
+fill: #E61E19;
+}
+.g6_22{
+fill: none;
+stroke: #000000;
+stroke-width: 1.9097222;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+
+.s1_22{
+font-size: 18.33px;
+font-family: Helvetica-Light_9;
+fill: #000000;
+}
+.s2_22{
+font-size: 27.50px;
+font-family: Helvetica-Light_9;
+fill: #53585F;
+}
+.s3_22{
+font-size: 76.39px;
+font-family: SofiaProLight_8;
+fill: #000000;
+}
+.s4_22{
+font-size: 38.19px;
+font-family: SofiaProLight_8;
+fill: #000000;
+}
+.s5_22{
+font-size: 38.19px;
+font-family: SofiaProLight_r;
+fill: #000000;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1650
+L2933,1650
+L2933,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M0,1650l2933.3,0l0,-1650L0,0L0,1650Z" class="g1_22" />
+<text 
+x="127" 
+y="123" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_22"
+>Brand Design Guide 2017 </text>
+
+<path d="M387.6,161.3l0,-137.5" class="g2_22" />
+<path d="M4.5,1564.2l2924.4,0" class="g3_22" />
+<path d="M196.2,81.3c-2.7,2.4,-5,3.8,-10.6,3.8l-11.8,0l0,-29.6l11.8,0c5.5,0,8.1,1.5,10.8,3.9c2.7,2.7,4.2,6.6,4.2,10.8c0,4.4,-1.6,8.4,-4.4,11.1M185.8,50.9l-17.2,0l0,38.7l17.2,0c7.2,0,10.9,-1.9,14.5,-5.1c3.6,-3.5,5.6,-8.6,5.6,-14.3c0,-5.5,-1.9,-10.4,-5.3,-13.9C197.1,53,193,50.9,185.8,50.9Z" class="g4_22" />
+<path d="M253.8,50.9l-5.1,0l0,38.7l29.5,0l0,-4.5l-24.4,0Z" class="g4_22" />
+<path d="M307,50.9l-35.2,0l0,4.6l15,0l0,34.1l5.2,0l0,-34.1l15,0Z" class="g4_22" />
+<g clip-path="url(#c0_22)">
+<path d="M154.1,97.8l2.7,0l0,-55l-2.7,0l0,55Z" class="g5_22" />
+</g>
+<path d="M125,70.3l0,2.3l12.5,0l0,9.7c-2.9,2.4,-7.9,3.8,-12.5,3.8c-10.2,0,-16.3,-7.5,-16.3,-15.8c0,-8.7,6.7,-15.8,15.9,-15.8c4.8,0,10.3,1.9,13.7,5.1l3.6,-3.2c-5,-4.2,-11.3,-6.5,-17.4,-6.5c-11.9,0,-21.2,9.1,-21.2,20.3c0,11.3,9.3,20.4,21.4,20.4c6.2,0,12.8,-2.2,17.5,-5.8l0,-16.8L125,68Z" class="g4_22" />
+<path d="M215.9,72.6l15.7,0l0,-2.3l0,-2.3l-15.7,0l0,-12.5l26,0l0,-4.6l-31.1,0l0,38.7l32.5,0l0,-4.5l-27.4,0Z" class="g4_22" />
+<g clip-path="url(#c0_22)">
+<path d="M81.9,50.9L59.6,89.6l5.4,0L71.7,78l11,0l0,-4.1l-8.6,0L82.7,59l17.7,30.6l5.4,0l0.1,0L83.5,50.9Z" class="g4_22" />
+<path d="M326,50.9l-1.6,0L302.1,89.6l5.4,0L325.2,59l8.6,14.9l-8.6,0l0,4.1l11,0l6.7,11.6l5.4,0Z" class="g4_22" />
+</g>
+<path d="M1.3,180.1l2924.4,0" class="g2_22" />
+<text 
+x="44" 
+y="1610" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_22"
+>Copyright © 2017 AG Delta Pte Ltd.</text>
+
+<text 
+x="2853" 
+y="1610" 
+dx="0,0" 
+class="s2_22"
+>22</text>
+
+<text 
+x="435" 
+y="120" 
+dx="0,-0.7,0,0,0,0,0,-0.4,0,0,0,0,0,0,-1.1" 
+class="s3_22"
+>Email Signature</text>
+
+<text 
+x="404" 
+y="267" 
+dx="0,0,0,0,-1.2,-0.6,0,0,0,0,0,-0.3,0,0,0,-0.3" 
+class="s4_22"
+>All AG Delta sta</text>
+
+<text 
+x="671" 
+y="267" 
+dx="0" 
+class="s5_22"
+>ﬀ</text>
+
+<text 
+x="707" 
+y="267" 
+dx="0,0,-0.5,0,0,-0.5,0,-0.6,0,0,0,0,0,0,0,0,-0.5,-0.3,0,0,0,0,0,0,0,0,-0.9,0,0,-0.3,0,0,0,0,-0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.5,0,-0.6,-0.3,0,-0.9,-1,-0.5,0,0,-0.9,0,0,0,0,0,0,0" 
+class="s4_22"
+>are recommended to use our standardised email signature for your gmail. </text>
+
+<text 
+x="404" 
+y="313" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-1,-0.5,0,0,-0.9,0,0,0,0,0,0,0,0,-0.5,0,0,0,-0.5,0,0,0,0,0,-1,0,0,-0.6,-0.6,0,-0.5,0,0,0,0,-0.5,-0.3,0,-1,-0.5,0,0,-0.9,0,0,0,-0.6,0,0,0,0,0,0" 
+class="s4_22"
+>Please use your signature properly according to your location. </text>
+
+<image preserveAspectRatio="none" x="397" y="798" width="957" height="249" xlink:href="22/img/1.png" />
+<image preserveAspectRatio="none" x="397" y="1178" width="957" height="249" xlink:href="22/img/2.png" />
+<image preserveAspectRatio="none" x="397" y="437" width="957" height="251" xlink:href="22/img/3.png" />
+<text 
+x="404" 
+y="424" 
+dx="0,-0.2,0,0,0,0,0,0,-0.5,0,0" 
+class="s4_22"
+>Singapore o</text>
+
+<text 
+x="616" 
+y="424" 
+dx="0" 
+class="s5_22"
+>ﬃ</text>
+
+<text 
+x="652" 
+y="424" 
+dx="0,-0.6,0,0,-0.3,0,0,0,0,0,-6.6,-1.6,0,0,0,0,0,-0.3,0,0,-0.6,0,0,-0.4,0,0,0,-0.6,0,0,-0.3,0,0,0,-0.8,0,0,0,0,0,0,0,0,0,0,0,-2.4,0,0,0,-1.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_22"
+>ce: http://agdelta.com/wp-content/uploads/2017/02/email_sig_04_sg.png</text>
+
+<path d="M712.7,428l1257.9,0" class="g6_22" />
+<text 
+x="404" 
+y="786" 
+dx="0,-0.4,0,0,0,0,-0.7,0,0,0,0" 
+class="s4_22"
+>Hong Kong o</text>
+
+<text 
+x="628" 
+y="786" 
+dx="0" 
+class="s5_22"
+>ﬃ</text>
+
+<text 
+x="665" 
+y="786" 
+dx="0,-0.6,0,0,-0.3,0,0,0,0,0,-6.6,-1.6,0,0,0,0,0,-0.3,0,0,-0.6,0,0,-0.4,0,0,0,-0.6,0,0,-0.3,0,0,0,-0.8,0,0,0,0,0,0,0,0,0,0,0,-2.4,0,0,0,-1.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_22"
+>ce: http://agdelta.com/wp-content/uploads/2017/02/email_sig_04_hk.png</text>
+
+<path d="M725.2,789.2l1258.2,0" class="g6_22" />
+<text 
+x="397" 
+y="1155" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_22"
+>Philippines o</text>
+
+<text 
+x="614" 
+y="1155" 
+dx="0" 
+class="s5_22"
+>ﬃ</text>
+
+<text 
+x="650" 
+y="1155" 
+dx="0,-0.6,0,0,-0.3,0,0,0,0,0,-6.6,-1.6,0,0,0,0,0,-0.3,0,0,-0.6,0,0,-0.4,0,0,0,-0.6,0,0,-0.3,0,0,0,-0.8,0,0,0,0,0,0,0,0,0,0,0,-2.4,0,0,0,-1.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_22"
+>ce: http://agdelta.com/wp-content/uploads/2017/02/email_sig_04_ph.png</text>
+
+<path d="M709.4,1158l1263,0" class="g6_22" />
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: SofiaProLight_r;
+	src: url("fonts/SofiaProLight_r.woff") format("woff");
+}
+
+@font-face {
+	font-family: Helvetica-Light_9;
+	src: url("fonts/Helvetica-Light_9.woff") format("woff");
+}
+
+@font-face {
+	font-family: SofiaProLight_8;
+	src: url("fonts/SofiaProLight_8.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

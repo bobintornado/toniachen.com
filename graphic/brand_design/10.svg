@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 10 -->
+<svg x="0" y="0" width="2933" height="1650" viewBox="0 0 2933 1650" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c0_10"><path d="M59.6,97.8l0,-55l288.7,0l0,55Z" /></clipPath>
+<clipPath id="c1_10"><path d="M666.1,922.8l0,-290.3l1527.8,0l0,290.3Z" /></clipPath>
+
+<style type="text/css"><![CDATA[
+
+.g1_10{
+fill: #FFFFFF;
+}
+.g2_10{
+fill: none;
+stroke: #A6AAA9;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+stroke-dasharray: 4,4;
+}
+.g3_10{
+fill: none;
+stroke: #DCDEE0;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g4_10{
+}
+.g5_10{
+fill: #E61E19;
+}
+.g6_10{
+fill: none;
+stroke: #EC5D57;
+stroke-width: 3.0555556;
+stroke-linecap: butt;
+stroke-linejoin: round;
+stroke-miterlimit: 4;
+stroke-dasharray: 4,7;
+}
+.g7_10{
+fill: none;
+stroke: #EC5D57;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g8_10{
+fill: none;
+stroke: #EC5D57;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g9_10{
+fill: #C82506;
+}
+.g10_10{
+fill: none;
+stroke: #85888D;
+stroke-width: 3.0555556;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_10{
+font-size: 18.33px;
+font-family: Helvetica-Light_9;
+fill: #000000;
+}
+.s2_10{
+font-size: 27.50px;
+font-family: Helvetica-Light_9;
+fill: #53585F;
+}
+.s3_10{
+font-size: 76.39px;
+font-family: SofiaProLight_8;
+fill: #000000;
+}
+.s4_10{
+font-size: 38.19px;
+font-family: SofiaProLight_8;
+fill: #53585F;
+}
+.s5_10{
+font-size: 27.50px;
+font-family: SofiaProLight_8;
+fill: #EC5D57;
+}
+.s6_10{
+font-size: 38.19px;
+font-family: SofiaProBold_q;
+fill: #53585F;
+}
+.s7_10{
+font-size: 38.19px;
+font-family: Helvetica-Light_9;
+fill: #000000;
+}
+.s8_10{
+font-size: 38.19px;
+font-family: SofiaProRegular_10;
+fill: #000000;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1650
+L2933,1650
+L2933,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M0,1650l2933.3,0l0,-1650L0,0L0,1650Z" class="g1_10" />
+<text 
+x="127" 
+y="123" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_10"
+>Brand Design Guide 2017 </text>
+
+<path d="M387.6,161.3l0,-137.5" class="g2_10" />
+<path d="M4.5,1564.2l2924.4,0" class="g3_10" />
+<path d="M196.2,81.3c-2.7,2.4,-5,3.8,-10.6,3.8l-11.8,0l0,-29.6l11.8,0c5.5,0,8.1,1.5,10.8,3.9c2.7,2.7,4.2,6.6,4.2,10.8c0,4.4,-1.6,8.4,-4.4,11.1M185.8,50.9l-17.2,0l0,38.7l17.2,0c7.2,0,10.9,-1.9,14.5,-5.1c3.6,-3.5,5.6,-8.6,5.6,-14.3c0,-5.5,-1.9,-10.4,-5.3,-13.9C197.1,53,193,50.9,185.8,50.9Z" class="g4_10" />
+<path d="M253.8,50.9l-5.1,0l0,38.7l29.5,0l0,-4.5l-24.4,0Z" class="g4_10" />
+<path d="M307,50.9l-35.2,0l0,4.6l15,0l0,34.1l5.2,0l0,-34.1l15,0Z" class="g4_10" />
+<g clip-path="url(#c0_10)">
+<path d="M154.1,97.8l2.7,0l0,-55l-2.7,0l0,55Z" class="g5_10" />
+</g>
+<path d="M125,70.3l0,2.3l12.5,0l0,9.7c-2.9,2.4,-7.9,3.8,-12.5,3.8c-10.2,0,-16.3,-7.5,-16.3,-15.8c0,-8.7,6.7,-15.8,15.9,-15.8c4.8,0,10.3,1.9,13.7,5.1l3.6,-3.2c-5,-4.2,-11.3,-6.5,-17.4,-6.5c-11.9,0,-21.2,9.1,-21.2,20.3c0,11.3,9.3,20.4,21.4,20.4c6.2,0,12.8,-2.2,17.5,-5.8l0,-16.8L125,68Z" class="g4_10" />
+<path d="M215.9,72.6l15.7,0l0,-2.3l0,-2.3l-15.7,0l0,-12.5l26,0l0,-4.6l-31.1,0l0,38.7l32.5,0l0,-4.5l-27.4,0Z" class="g4_10" />
+<g clip-path="url(#c0_10)">
+<path d="M81.9,50.9L59.6,89.6l5.4,0L71.7,78l11,0l0,-4.1l-8.6,0L82.7,59l17.7,30.6l5.4,0l0.1,0L83.5,50.9Z" class="g4_10" />
+<path d="M326,50.9l-1.6,0L302.1,89.6l5.4,0L325.2,59l8.6,14.9l-8.6,0l0,4.1l11,0l6.7,11.6l5.4,0Z" class="g4_10" />
+</g>
+<path d="M1.3,180.1l2924.4,0" class="g2_10" />
+<text 
+x="44" 
+y="1610" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_10"
+>Copyright © 2017 AG Delta Pte Ltd.</text>
+
+<path d="M567.9,540.6l1727.7,0l0,488l-1727.7,0Z" class="g1_10" />
+<path d="M567.9,540.6l1727.7,0l0,488l-1727.7,0Z" class="g6_10" />
+<text 
+x="2853" 
+y="1610" 
+dx="0,0" 
+class="s2_10"
+>10</text>
+
+<text 
+x="435" 
+y="120" 
+dx="0,-1,0,0,0,0,-1,0,0,0,0" 
+class="s3_10"
+>Logo Lookup</text>
+
+<text 
+x="406" 
+y="378" 
+dx="0,-0.7,0,0,0,-0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.9,0,0,0,0,-0.6,0,0,-1,0,0,0,0,0,0,-0.8,0,0,0,0,0,-0.8,0,0,0,0,-0.5,0,-0.6,-0.3,0,-0.9,-0.6,-0.3,0,0,-0.9,0,0,0,0,0,0,0" 
+class="s4_10"
+>Keep the logo in clear space, with at least 10 px for four sides. </text>
+
+<path d="M561.6,632.1l1740.3,0" class="g6_10" />
+<path d="M564.4,924.7l1740.4,0" class="g6_10" />
+<path d="M660,533.9l0,488.1" class="g6_10" />
+<path d="M2210.4,533.9l0,488.1" class="g6_10" />
+<path d="M1389.1,836c-14.4,12.2,-26.7,19.7,-56.1,19.7l-62.7,0l0,-156.2l62.7,0c29.1,0,42.9,7.9,57,20.7c14.1,14.4,22,34.7,22,57.3c0,23.1,-8.5,44.1,-22.9,58.5M1333.9,675.4l-90.9,0l0,204.4l90.9,0c38.3,0,57.7,-10,76.5,-26.9c19.1,-18.4,30.1,-45.7,30.1,-75.4c0,-29.1,-10.4,-55.1,-28.5,-73.6c-18.5,-17.5,-39.8,-28.5,-78.1,-28.5Z" class="g4_10" />
+<path d="M1693.7,675.4l-27.2,0l0,204.4l156.4,0l0,-24.1l-129.2,0Z" class="g4_10" />
+<path d="M1974.9,675.4l-186.2,0l0,24.1l79.6,0l0,180.3l27.3,0l0,-180.3l79.3,0Z" class="g4_10" />
+<g clip-path="url(#c1_10)">
+<path d="M1166,922.8l14.3,0l0,-290.3l-14.3,0l0,290.3Z" class="g5_10" />
+</g>
+<path d="M1012.1,777.6l0,12.1l66.4,0l0,51.3c-15.6,12.5,-42,20.1,-66.1,20.1c-53.9,0,-86.5,-39.5,-86.5,-83.3c0,-46,35.4,-83.6,84,-83.6c25.7,0,54.5,10.4,72.7,27.3l18.8,-16.9c-26.3,-22.3,-59.5,-34.5,-91.8,-34.5c-62.7,0,-112.3,47.9,-112.3,107.4c0,59.4,49.3,107.7,113.5,107.7c32.6,0,67.7,-11.9,92.5,-31l0,-88.6l-91.2,0Z" class="g4_10" />
+<path d="M1493.4,789.7l82.8,0l0,-12.1l0,-12l-82.8,0l0,-66.1l137.4,0l0,-24.1l-164.6,0l0,204.4l171.8,0l0,-24.1l-144.6,0Z" class="g4_10" />
+<g clip-path="url(#c1_10)">
+<path d="M784.3,675.4L666.1,879.8l0.2,0l28.7,0l35.5,-61.3l58,0l0,-21.9l-45.4,0l45.4,-78.5l93.6,161.7l28.6,0l0.2,0L792.7,675.4Z" class="g4_10" />
+</g>
+<path d="M2075.7,675.4l-8.4,0L1949,879.8l0.3,0l28.6,0l93.6,-161.7l45.4,78.5l-45.2,0l0,21.9l57.8,0l35.5,61.3l28.7,0l0.2,0Z" class="g4_10" />
+<path d="M2322.7,626.3l0,-0.8l0,-82.7l0,-0.8" class="g7_10" />
+<path d="M2327.2,541.5l-9.1,0" class="g8_10" />
+<path d="M2318.1,626.8l9.1,0" class="g8_10" />
+<text 
+x="2348" 
+y="592" 
+dx="0,0" 
+class="s5_10"
+>10</text>
+
+<path d="M2210.3,518.6l0.8,0l80.2,0l0.8,0" class="g7_10" />
+<path d="M2292.6,523.2l0,-9.2" class="g8_10" />
+<path d="M2209.9,514l0,9.2" class="g8_10" />
+<text 
+x="2235" 
+y="501" 
+dx="0,0" 
+class="s5_10"
+>10</text>
+
+<text 
+x="409" 
+y="308" 
+dx="0,0,0,0,0,-0.9,0,-0.2,0,0,-0.2" 
+class="s6_10"
+>Clear Space</text>
+
+<path d="M579.6,1161.9l29.8,0c3.6,0,5.5,0,7.4,0.6c2.2,0.8,3.9,2.5,4.6,4.6c0.7,2,0.7,3.8,0.7,7.5l0,29.8c0,3.6,0,5.4,-0.7,7.4c-0.7,2.1,-2.4,3.8,-4.6,4.6c-1.9,0.6,-3.8,0.6,-7.4,0.6l-29.8,0c-3.6,0,-5.5,0,-7.4,-0.6c-2.2,-0.8,-3.9,-2.5,-4.6,-4.6c-0.7,-2,-0.7,-3.8,-0.7,-7.5l0,-29.8c0,-3.6,0,-5.4,0.7,-7.4c0.7,-2.1,2.4,-3.8,4.6,-4.6c1.9,-0.6,3.8,-0.6,7.4,-0.6Z" class="g9_10" />
+<text 
+x="656" 
+y="1203" 
+dx="0,0,0,0,0,0,0" 
+class="s7_10"
+>Scarlet</text>
+
+<text 
+x="569" 
+y="1309" 
+dx="0,0,-0.5,0,-1.1" 
+class="s8_10"
+>HTML </text>
+
+<text 
+x="569" 
+y="1355" 
+dx="0,0,0,0" 
+class="s8_10"
+>PMS </text>
+
+<text 
+x="569" 
+y="1400" 
+dx="0,0,-0.8,0,-0.4" 
+class="s8_10"
+>CMYK </text>
+
+<text 
+x="569" 
+y="1446" 
+dx="0,0,0" 
+class="s8_10"
+>RGB</text>
+
+<text 
+x="731" 
+y="1309" 
+dx="0,0,0,0,0,0,0,0" 
+class="s4_10"
+>#E61E19 </text>
+
+<text 
+x="731" 
+y="1355" 
+dx="0,0,0,0,0" 
+class="s4_10"
+>199C </text>
+
+<text 
+x="731" 
+y="1400" 
+dx="0,0,0,0,0,0,0,-1.1,-1.5" 
+class="s4_10"
+>100M 90Y </text>
+
+<text 
+x="731" 
+y="1446" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s4_10"
+>230 30 25 </text>
+
+<path d="M1219.8,1161.9l29.9,0c3.6,0,5.4,0,7.4,0.6c2.1,0.8,3.8,2.5,4.6,4.6c0.6,2,0.6,3.8,0.6,7.5l0,29.8c0,3.6,0,5.4,-0.6,7.4c-0.8,2.1,-2.5,3.8,-4.6,4.6c-2,0.6,-3.8,0.6,-7.5,0.6l-29.8,0c-3.6,0,-5.4,0,-7.4,-0.6c-2.1,-0.8,-3.8,-2.5,-4.6,-4.6c-0.6,-2,-0.6,-3.8,-0.6,-7.5l0,-29.8c0,-3.6,0,-5.4,0.6,-7.4c0.8,-2.1,2.5,-3.8,4.6,-4.6c2,-0.6,3.8,-0.6,7.5,-0.6Z" class="g4_10" />
+<text 
+x="1297" 
+y="1203" 
+dx="0,0,0,0,0" 
+class="s7_10"
+>Black</text>
+
+<text 
+x="1210" 
+y="1309" 
+dx="0,0,-0.5,0,-1.1" 
+class="s8_10"
+>HTML </text>
+
+<text 
+x="1210" 
+y="1355" 
+dx="0,0,0,0" 
+class="s8_10"
+>PMS </text>
+
+<text 
+x="1210" 
+y="1400" 
+dx="0,0,-0.8,0,-0.4" 
+class="s8_10"
+>CMYK </text>
+
+<text 
+x="1210" 
+y="1446" 
+dx="0,0,0" 
+class="s8_10"
+>RGB</text>
+
+<text 
+x="1371" 
+y="1309" 
+dx="0,0,0,0,0,0,0,0" 
+class="s4_10"
+>#000000 </text>
+
+<text 
+x="1371" 
+y="1355" 
+dx="0,0,0,0,0" 
+class="s4_10"
+>199C </text>
+
+<text 
+x="1371" 
+y="1400" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_10"
+>75 68 67 90 </text>
+
+<text 
+x="1371" 
+y="1446" 
+dx="0,0,0,0,0" 
+class="s4_10"
+>0 0 0</text>
+
+<path d="M1895.6,1161.9l29.9,0c3.6,0,5.5,0,7.4,0.6c2.2,0.8,3.8,2.5,4.6,4.6c0.6,2,0.6,3.8,0.6,7.5l0,29.8c0,3.6,0,5.4,-0.6,7.4c-0.8,2.1,-2.4,3.8,-4.6,4.6c-1.9,0.6,-3.8,0.6,-7.5,0.6l-29.8,0c-3.6,0,-5.4,0,-7.4,-0.6c-2.1,-0.8,-3.8,-2.5,-4.6,-4.6c-0.6,-2,-0.6,-3.8,-0.6,-7.5l0,-29.8c0,-3.6,0,-5.4,0.6,-7.4c0.8,-2.1,2.5,-3.8,4.6,-4.6c2,-0.6,3.8,-0.6,7.5,-0.6Z" class="g10_10" />
+<text 
+x="1972" 
+y="1203" 
+dx="0,0,0,0,0" 
+class="s7_10"
+>WHITE</text>
+
+<text 
+x="1885" 
+y="1309" 
+dx="0,0,-0.5,0,-1.1" 
+class="s8_10"
+>HTML </text>
+
+<text 
+x="1885" 
+y="1355" 
+dx="0,0,0,0" 
+class="s8_10"
+>PMS </text>
+
+<text 
+x="1885" 
+y="1400" 
+dx="0,0,-0.8,0,-0.4" 
+class="s8_10"
+>CMYK </text>
+
+<text 
+x="1885" 
+y="1446" 
+dx="0,0,0" 
+class="s8_10"
+>RGB</text>
+
+<text 
+x="2047" 
+y="1309" 
+dx="0,0,0,0,0,0,0,-0.9" 
+class="s4_10"
+>#FFFFFF </text>
+
+<text 
+x="2047" 
+y="1355" 
+dx="0,0,0,0,0" 
+class="s4_10"
+>199C </text>
+
+<text 
+x="2047" 
+y="1400" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_10"
+>75 68 67 90 </text>
+
+<text 
+x="2047" 
+y="1446" 
+dx="0,0,0,0,0" 
+class="s4_10"
+>0 0 0</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: Helvetica-Light_9;
+	src: url("fonts/Helvetica-Light_9.woff") format("woff");
+}
+
+@font-face {
+	font-family: SofiaProLight_8;
+	src: url("fonts/SofiaProLight_8.woff") format("woff");
+}
+
+@font-face {
+	font-family: SofiaProRegular_10;
+	src: url("fonts/SofiaProRegular_10.woff") format("woff");
+}
+
+@font-face {
+	font-family: SofiaProBold_q;
+	src: url("fonts/SofiaProBold_q.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

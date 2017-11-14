@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 6 -->
+<svg x="0" y="0" width="2933" height="1650" viewBox="0 0 2933 1650" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c0_6"><path d="M59.6,97.8l0,-55l288.7,0l0,55Z" /></clipPath>
+<clipPath id="c1_6"><path d="M679.9,945.7l0,-299.4l1573.6,0l0,299.4Z" /></clipPath>
+
+<style type="text/css"><![CDATA[
+
+.g1_6{
+fill: #FFFFFF;
+}
+.g2_6{
+fill: none;
+stroke: #A6AAA9;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+stroke-dasharray: 4,4;
+}
+.g3_6{
+fill: none;
+stroke: #DCDEE0;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g4_6{
+}
+.g5_6{
+fill: #E61E19;
+}
+.g6_6{
+fill: none;
+stroke: #000000;
+stroke-width: 1.8333334;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+
+.s1_6{
+font-size: 18.33px;
+font-family: Helvetica-Light_9;
+fill: #000000;
+}
+.s2_6{
+font-size: 27.50px;
+font-family: Helvetica-Light_9;
+fill: #53585F;
+}
+.s3_6{
+font-size: 76.39px;
+font-family: SofiaProLight_8;
+fill: #000000;
+}
+.s4_6{
+font-size: 36.67px;
+font-family: SofiaProLight_8;
+fill: #000000;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1650
+L2933,1650
+L2933,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M0,1650l2933.3,0l0,-1650L0,0L0,1650Z" class="g1_6" />
+<text 
+x="127" 
+y="123" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_6"
+>Brand Design Guide 2017 </text>
+
+<path d="M387.6,161.3l0,-137.5" class="g2_6" />
+<path d="M4.5,1564.2l2924.4,0" class="g3_6" />
+<path d="M196.2,81.3c-2.7,2.4,-5,3.8,-10.6,3.8l-11.8,0l0,-29.6l11.8,0c5.5,0,8.1,1.5,10.8,3.9c2.7,2.7,4.2,6.6,4.2,10.8c0,4.4,-1.6,8.4,-4.4,11.1M185.8,50.9l-17.2,0l0,38.7l17.2,0c7.2,0,10.9,-1.9,14.5,-5.1c3.6,-3.5,5.6,-8.6,5.6,-14.3c0,-5.5,-1.9,-10.4,-5.3,-13.9C197.1,53,193,50.9,185.8,50.9Z" class="g4_6" />
+<path d="M253.8,50.9l-5.1,0l0,38.7l29.5,0l0,-4.5l-24.4,0Z" class="g4_6" />
+<path d="M307,50.9l-35.2,0l0,4.6l15,0l0,34.1l5.2,0l0,-34.1l15,0Z" class="g4_6" />
+<g clip-path="url(#c0_6)">
+<path d="M154.1,97.8l2.7,0l0,-55l-2.7,0l0,55Z" class="g5_6" />
+</g>
+<path d="M125,70.3l0,2.3l12.5,0l0,9.7c-2.9,2.4,-7.9,3.8,-12.5,3.8c-10.2,0,-16.3,-7.5,-16.3,-15.8c0,-8.7,6.7,-15.8,15.9,-15.8c4.8,0,10.3,1.9,13.7,5.1l3.6,-3.2c-5,-4.2,-11.3,-6.5,-17.4,-6.5c-11.9,0,-21.2,9.1,-21.2,20.3c0,11.3,9.3,20.4,21.4,20.4c6.2,0,12.8,-2.2,17.5,-5.8l0,-16.8L125,68Z" class="g4_6" />
+<path d="M215.9,72.6l15.7,0l0,-2.3l0,-2.3l-15.7,0l0,-12.5l26,0l0,-4.6l-31.1,0l0,38.7l32.5,0l0,-4.5l-27.4,0Z" class="g4_6" />
+<g clip-path="url(#c0_6)">
+<path d="M81.9,50.9L59.6,89.6l5.4,0L71.7,78l11,0l0,-4.1l-8.6,0L82.7,59l17.7,30.6l5.4,0l0.1,0L83.5,50.9Z" class="g4_6" />
+<path d="M326,50.9l-1.6,0L302.1,89.6l5.4,0L325.2,59l8.6,14.9l-8.6,0l0,4.1l11,0l6.7,11.6l5.4,0Z" class="g4_6" />
+</g>
+<path d="M1.3,180.1l2924.4,0" class="g2_6" />
+<text 
+x="44" 
+y="1610" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_6"
+>Copyright © 2017 AG Delta Pte Ltd.</text>
+
+<text 
+x="2861" 
+y="1610" 
+dx="0" 
+class="s2_6"
+>6</text>
+
+<text 
+x="435" 
+y="120" 
+dx="0,-1,0,0" 
+class="s3_6"
+>Logo</text>
+
+<path d="M1424.5,856.2c-14.8,12.6,-27.4,20.3,-57.8,20.3l-64.6,0l0,-161.1l64.6,0c30,0,44.3,8.1,58.8,21.3c14.5,14.9,22.6,35.9,22.6,59.1c0,23.9,-8.7,45.5,-23.6,60.4M1367.7,690.5l-93.7,0l0,210.9l93.7,0c39.4,0,59.4,-10.3,78.8,-27.8c19.7,-19,31,-47.1,31,-77.8c0,-30,-10.7,-56.8,-29.4,-75.9c-19,-18,-41,-29.4,-80.4,-29.4Z" class="g4_6" />
+<path d="M1738.3,690.5l-28.1,0l0,210.9l161.2,0l0,-24.9l-133.1,0Z" class="g4_6" />
+<path d="M2028,690.5l-191.9,0l0,24.9l82.1,0l0,186l28.1,0l0,-186l81.7,0Z" class="g4_6" />
+<g clip-path="url(#c1_6)">
+<path d="M1194.8,945.7l14.6,0l0,-299.5l-14.6,0l0,299.5Z" class="g5_6" />
+</g>
+<path d="M1036.2,796l0,12.4l68.5,0l0,53c-16.2,12.9,-43.3,20.6,-68.2,20.6C981,882,947.4,841.3,947.4,796.1c0,-47.4,36.5,-86.2,86.5,-86.2c26.5,0,56.2,10.7,75,28.1l19.3,-17.4c-27.1,-22.9,-61.3,-35.5,-94.6,-35.5C969,685.1,918,734.5,918,795.8c0,61.4,50.7,111.1,116.9,111.1c33.6,0,69.8,-12.3,95.3,-32l0,-91.4l-94,0Z" class="g4_6" />
+<path d="M1532,808.4l85.3,0l0,-12.4l0,-12.5l-85.3,0l0,-68.1l141.4,0l0,-24.9l-169.5,0l0,210.9l177,0l0,-24.9l-148.9,0Z" class="g4_6" />
+<g clip-path="url(#c1_6)">
+<path d="M801.6,690.5L679.9,901.4l0.2,0l29.5,0l36.5,-63.3l59.8,0l0,-22.6l-46.7,0l46.8,-81l96.3,166.9l29.5,0l0.2,0L810.3,690.5Z" class="g4_6" />
+</g>
+<path d="M2131.7,690.5l-8.7,0L2001.3,901.4l0.2,0l29.5,0l96.4,-166.9l46.7,81l-46.5,0l0,22.6l59.6,0l36.5,63.3l29.5,0l0.3,0Z" class="g4_6" />
+<text 
+x="435" 
+y="305" 
+dx="0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,-0.6,0,-0.5,0,0,0,0,0,-0.5" 
+class="s4_6"
+>Download logo from here</text>
+
+<path d="M435.1,308L864,308" class="g6_6" />
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: Helvetica-Light_9;
+	src: url("fonts/Helvetica-Light_9.woff") format("woff");
+}
+
+@font-face {
+	font-family: SofiaProLight_8;
+	src: url("fonts/SofiaProLight_8.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

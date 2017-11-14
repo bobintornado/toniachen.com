@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 23 -->
+<svg x="0" y="0" width="2933" height="1650" viewBox="0 0 2933 1650" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_23{
+fill: #F3F4F7;
+}
+.g2_23{
+fill: none;
+stroke: #E61E19;
+stroke-width: 7.638889;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_23{
+font-size: 171.11px;
+font-family: SofiaProLight_8;
+fill: #000000;
+}
+.s2_23{
+font-size: 76.39px;
+font-family: SofiaProLight_8;
+fill: #53585F;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1650
+L2933,1650
+L2933,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M0,1650l2933.3,0l0,-1650L0,0L0,1650Z" class="g1_23" />
+<text 
+x="175" 
+y="239" 
+dx="0,-3.3,0,0,0,-4.1,0,0,0,0,0,0,0,0,0,0,0,0,-2.9,-1.5,0,-0.9,-1.5,0,0" 
+class="s1_23"
+>Paper headers and footers</text>
+
+<path d="M183.7,311.1l122.6,0" class="g2_23" />
+<text 
+x="256" 
+y="496" 
+dx="0,0,0,0,0,-1.1,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_23"
+>General Documents</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: SofiaProLight_8;
+	src: url("fonts/SofiaProLight_8.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

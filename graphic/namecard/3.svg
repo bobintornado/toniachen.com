@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 3 -->
+<svg x="0" y="0" width="1286" height="909" viewBox="0 0 1286 909" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_3{
+fill: #010101;
+}
+.g2_3{
+fill: #E32526;
+}
+.g3_3{
+fill: #808285;
+fill-opacity: 0.350006;
+stroke: #939598;
+stroke-width: 0.7638889;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-opacity: 0.350006;
+}
+.g4_3{
+fill: #E42325;
+}
+.g5_3{
+fill: #FFFFFF;
+stroke: #CFCFCE;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g6_3{
+fill: none;
+stroke: #6D6E71;
+stroke-width: 0.7638889;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g7_3{
+fill: none;
+stroke: #221E1F;
+stroke-width: 0.7638889;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g8_3{
+fill: #6D6E71;
+fill-opacity: 0.990005;
+}
+.g9_3{
+fill: none;
+stroke: #CFCFCE;
+stroke-width: 1.1458334;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-dasharray: 5;
+}
+.g10_3{
+fill: none;
+stroke: #E42325;
+stroke-width: 0.7638889;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-dasharray: 5;
+}
+
+.s1_3{
+font-size: 15.28px;
+font-family: SofiaProLight_2-;
+fill: #6D6E71;
+}
+.s2_3{
+font-size: 55.00px;
+font-family: SofiaProLight_2-;
+fill: #231F20;
+}
+.s3_3{
+font-size: 13.75px;
+font-family: SofiaProLight_2-;
+fill: #6D6E71;
+}
+.s4_3{
+font-size: 22.05px;
+font-family: SofiaProRegular_3b;
+fill: rgba(34, 30, 31, 0.99);
+}
+.s5_3{
+font-size: 22.05px;
+font-family: ArialMT_e;
+fill: rgba(34, 30, 31, 0.99);
+}
+.s6_3{
+font-size: 18.33px;
+font-family: STYuanti-SC-Regular_3r;
+fill: rgba(34, 30, 31, 0.99);
+}
+.s7_3{
+font-size: 17.64px;
+font-family: SofiaProLight_2-;
+fill: rgba(34, 30, 31, 0.99);
+}
+.s8_3{
+font-size: 15.44px;
+font-family: SofiaProLight_2-;
+fill: rgba(34, 30, 31, 0.99);
+}
+.s9_3{
+font-size: 14.82px;
+font-family: STYuanti-SC-Regular_3r;
+fill: #221E1F;
+}
+.s10_3{
+font-size: 18.33px;
+font-family: SofiaProLight_2-;
+fill: #231F20;
+}
+.s11_3{
+font-size: 18.33px;
+font-family: STYuanti-SC-Regular_3r;
+fill: #231F20;
+}
+.s12_3{
+font-size: 18.33px;
+font-family: SofiaProLight_2-;
+fill: #E42325;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,909
+L1286,909
+L1286,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M132.3,46.1c-1.5,1.2,-2.7,1.9,-5.6,1.9l-6.2,0l0,-15.4l6.2,0c2.9,0,4.3,0.8,5.7,2c1.3,1.5,2.1,3.5,2.1,5.7c0,2.3,-0.8,4.3,-2.2,5.8M126.8,30.2l-8.9,0l0,20.2l8.9,0c3.8,0,5.7,-1,7.6,-2.7c1.8,-1.8,2.9,-4.5,2.9,-7.4c0,-2.9,-1,-5.5,-2.8,-7.3c-1.8,-1.7,-3.9,-2.8,-7.7,-2.8Z" class="g1_3" />
+<path d="M162.3,30.2l-2.7,0l0,20.2l15.4,0L175,48l-12.7,0Z" class="g1_3" />
+<path d="M190,30.2l-18.3,0l0,2.4l7.8,0l0,17.8l2.7,0l0,-17.8l7.8,0Z" class="g1_3" />
+<path d="M110.3,54.6l1.4,0l0,-28.6l-1.4,0l0,28.6Z" class="g2_3" />
+<path d="M95.1,40.3l0,1.2l6.5,0l0,5.1c-1.5,1.2,-4.1,1.9,-6.5,1.9c-5.3,0,-8.5,-3.9,-8.5,-8.2c0,-4.5,3.5,-8.2,8.3,-8.2c2.5,0,5.4,1,7.1,2.7l1.9,-1.7C101.3,30.9,98,29.7,94.8,29.7c-6.1,0,-11,4.7,-11,10.6c0,5.9,4.8,10.6,11.2,10.6c3.2,0,6.6,-1.2,9.1,-3l0,-8.8l-9,0Z" class="g1_3" />
+<path d="M142.6,41.5l8.1,0l0,-1.2l0,-1.2l-8.1,0l0,-6.5l13.5,0l0,-2.4l-16.2,0l0,20.2l16.9,0l0,-2.4l-14.2,0Z" class="g1_3" />
+<path d="M72.6,30.2L61,50.4l2.8,0l3.5,-6.1l5.7,0l0,-2.1l-4.4,0L73,34.4l9.3,16l2.8,0L73.5,30.2Z" class="g1_3" />
+<path d="M200,30.2l-0.9,0L187.5,50.4l2.8,0l9.2,-16l4.5,7.8l-4.4,0l0,2.1l5.7,0l3.5,6.1l2.8,0Z" class="g1_3" />
+<path d="M1,90.6l1283.4,0" class="g3_3" />
+<text 
+x="23" 
+y="69" 
+dx="0,0,-0.2,0,0,0,0,-0.1,0,-0.2,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0" 
+class="s1_3"
+>Brand Merchandize Design</text>
+
+<path d="M228.4,79.4l0,-56.4" class="g3_3" />
+<path d="M6.1,74.9l-5.6,0l0,-55.8l5.6,0l0,55.8Z" class="g4_3" />
+<text 
+x="258" 
+y="65" 
+dx="0,-0.5,0,0,0,0,0,0,-0.8" 
+class="s2_3"
+>Name Card</text>
+
+<text 
+x="1166" 
+y="36" 
+dx="0,-0.2,0,-0.1,0,0,-0.3,0,-0.1,0,0,0,0,0" 
+class="s3_3"
+>Latest Modiﬁed</text>
+
+<text 
+x="1190" 
+y="52" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s3_3"
+>04/04/2017</text>
+
+<text 
+x="1194" 
+y="69" 
+dx="0,-1.4,0,0,0,0,0,0,0,0" 
+class="s3_3"
+>Tonia Chen</text>
+
+<path d="M987.5,648.3l-625.2,0l0,-375.1l625.2,0l0,375.1Z" class="g5_3" />
+<path d="M729,313.2l0,294" class="g6_3" />
+<path d="M946.8,607.2l-543.8,0l0,-294l543.8,0l0,294Z" class="g7_3" />
+<text 
+x="439" 
+y="451" 
+dx="0,0,0,0,-0.3,-0.2,-0.5,-0.7,-0.1,0" 
+class="s4_3"
+>Andrew Au </text>
+
+<text 
+x="560" 
+y="451" 
+dx="0" 
+class="s5_3"
+>(</text>
+
+<text 
+x="567" 
+y="451" 
+dx="0,0,0" 
+class="s6_3"
+>区宏远</text>
+
+<text 
+x="622" 
+y="451" 
+dx="0" 
+class="s5_3"
+>)</text>
+
+<text 
+x="439" 
+y="474" 
+dx="0,0,0,0,-0.1,-0.4,0,0,-0.2,0,0,0,0,0,-0.2,0,0,0,0,-0.3" 
+class="s7_3"
+>Chief Executive Oﬃce</text>
+
+<text 
+x="439" 
+y="534" 
+dx="0,0,0,0,-0.2,-0.1,-0.6,0,0,0,0,0,0,0,0,0,-0.1,0,0,-0.2,0" 
+class="s8_3"
+>andrew.au@agdelta.com</text>
+
+<text 
+x="439" 
+y="559" 
+dx="0,0,0,-0.6,0,0,0,0,0,0,-0.1,0,0,-0.2,0" 
+class="s8_3"
+>www.agdelta.com</text>
+
+<text 
+x="756" 
+y="452" 
+dx="0,0" 
+class="s8_3"
+>O:</text>
+
+<text 
+x="756" 
+y="474" 
+dx="0,0,0" 
+class="s8_3"
+>M: </text>
+
+<text 
+x="786" 
+y="452" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_3"
+>+65 6486 5888</text>
+
+<text 
+x="786" 
+y="474" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_3"
+>+65 9011 9547</text>
+
+<text 
+x="756" 
+y="505" 
+dx="0,0,0,0,0,0,0,-0.1,0,0,-0.5,-0.8,0,-0.6" 
+class="s8_3"
+>6 Shenton Way,</text>
+
+<text 
+x="756" 
+y="523" 
+dx="0,0,0,-0.8,0,0,0,0,0,0,0,0,0,-0.2,0,0,-0.1,-0.2,0,0,0" 
+class="s8_3"
+>#37-01 OUE Downtown 1</text>
+
+<text 
+x="756" 
+y="540" 
+dx="0,-0.1,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0" 
+class="s8_3"
+>Singapore 068809</text>
+
+<path d="M729,313.2l0,294Z" class="g8_3" />
+<path d="M537.1,367.1c-1.9,1.6,-3.6,2.6,-7.5,2.6l-8.3,0l0,-20.8l8.3,0c3.9,0,5.7,1.1,7.6,2.8c1.9,1.9,2.9,4.6,2.9,7.6c0,3.1,-1.1,5.9,-3,7.8m-7.3,-21.4l-12.1,0l0,27.2l12.1,0c5,0,7.6,-1.3,10.1,-3.6c2.6,-2.4,4,-6,4,-10c0,-3.9,-1.4,-7.3,-3.8,-9.8c-2.4,-2.3,-5.3,-3.8,-10.3,-3.8Z" class="g1_3" />
+<path d="M577.5,345.7l-3.6,0l0,27.2l20.8,0l0,-3.2l-17.2,0Z" class="g1_3" />
+<path d="M614.8,345.7l-24.7,0l0,3.2l10.6,0l0,24l3.6,0l0,-24l10.5,0Z" class="g1_3" />
+<path d="M507.5,378.6l1.9,0l0,-38.6l-1.9,0l0,38.6Z" class="g2_3" />
+<path d="M487,359.3l0,1.6l8.9,0l0,6.8c-2.1,1.7,-5.6,2.7,-8.8,2.7c-7.2,0,-11.5,-5.2,-11.5,-11.1c0,-6.1,4.7,-11.1,11.2,-11.1c3.4,0,7.2,1.4,9.6,3.7l2.5,-2.3C495.4,346.7,491,345,486.7,345c-8.3,0,-14.9,6.4,-14.9,14.3c0,7.9,6.5,14.3,15.1,14.3c4.3,0,9,-1.6,12.3,-4.1l0,-11.8l-12.2,0Z" class="g1_3" />
+<path d="M550.9,360.9l11,0l0,-1.6l0,-1.6l-11,0l0,-8.8l18.3,0l0,-3.2l-21.9,0l0,27.2l22.8,0l0,-3.2l-19.2,0Z" class="g1_3" />
+<path d="M456.8,345.7l-15.7,27.2l0.1,0l3.8,0l4.7,-8.1l7.7,0l0,-3l-6.1,0l6.1,-10.4l12.4,21.5l3.8,0L457.9,345.7Z" class="g1_3" />
+<path d="M628.2,345.7l-1.1,0l-15.7,27.2l3.8,0l12.5,-21.5l6,10.4l-6,0l0,3l7.7,0l4.7,8.1l3.8,0Z" class="g1_3" />
+<text 
+x="442" 
+y="496" 
+dx="0,0,0,0" 
+class="s9_3"
+>执行总裁</text>
+
+<text 
+x="105" 
+y="449" 
+dx="0,0,-0.1,0,0,0,-0.1,-0.3,0,0,-0.4,0,0,0,0,0,-1,0,0,0,-0.1" 
+class="s10_3"
+>Soﬁa Pro Regular, 9pt</text>
+
+<path d="M295.4,443.1l140.5,0" class="g9_3" />
+<text 
+x="135" 
+y="563" 
+dx="0,0,-0.1,0,0,0,-0.1,-0.3,0,0,0,0,0,0,-0.3,0,0,-0.1" 
+class="s10_3"
+>Soﬁa Pro Light,7pt</text>
+
+<path d="M295.4,557.6l140.5,0" class="g9_3" />
+<text 
+x="129" 
+y="474" 
+dx="0,0,-0.1,0,0,0,-0.1,-0.3,0,0,0,0,0,0,-0.3,0,0,0,-0.1" 
+class="s10_3"
+>Soﬁa Pro Light, 8pt</text>
+
+<path d="M295.4,468l140.5,0" class="g9_3" />
+<path d="M901.4,446.6l140.5,0" class="g9_3" />
+<text 
+x="1056" 
+y="450" 
+dx="0,0,-0.1,0,0,0,-0.1,-0.3,0,0,0,0,0,0,-0.3,0,0,-0.1" 
+class="s10_3"
+>Soﬁa Pro Light,7pt</text>
+
+<path d="M284.7,629.4l140.5,0" class="g9_3" />
+<text 
+x="110" 
+y="632" 
+dx="0,0,0,0,0,0,0,0,0,0,-0.5,-1.9,0,0,0,0,0,-0.3,0" 
+class="s10_3"
+>Bleed and Trim area</text>
+
+<path d="M729.6,605.4l0,71.8" class="g9_3" />
+<text 
+x="701" 
+y="702" 
+dx="0,-0.2,0,0,0,-0.1" 
+class="s10_3"
+>0.5 pt</text>
+
+<text 
+x="701" 
+y="724" 
+dx="0,0,0,0,0,0,0" 
+class="s10_3"
+>#6d6e71</text>
+
+<text 
+x="121" 
+y="358" 
+dx="0,-1.5,0,0,0,-0.5,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0" 
+class="s10_3"
+>Yuan Ti Jian Regular</text>
+
+<text 
+x="180" 
+y="380" 
+dx="0,0,0,0" 
+class="s11_3"
+>圆体-简</text>
+
+<text 
+x="245" 
+y="380" 
+dx="0,0,0,0,0,-0.1" 
+class="s10_3"
+>, 12pt</text>
+
+<text 
+x="79" 
+y="402" 
+dx="0,0,0,-0.3,0,0,-0.5,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,-0.6,0,0,0,0" 
+class="s12_3"
+>*Bracket please use Arial</text>
+
+<path d="M294.6,398l299,0" class="g9_3" />
+<path d="M595.2,430.8l0,-32.1" class="g9_3" />
+<path d="M441.3,191.8l0,416.1" class="g10_3" />
+<text 
+x="447" 
+y="205" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,-0.2,0,0,0,-0.1,0" 
+class="s10_3"
+>All lines should align to left</text>
+
+<path d="M756.8,192.5l0,416.2" class="g10_3" />
+<text 
+x="20" 
+y="497" 
+dx="0,-1.5,0,0,0,-0.5,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0" 
+class="s10_3"
+>Yuan Ti Jian Regular</text>
+
+<text 
+x="185" 
+y="497" 
+dx="0,0,0,0" 
+class="s11_3"
+>圆体-简</text>
+
+<text 
+x="250" 
+y="497" 
+dx="0,0,0,0,-0.1" 
+class="s10_3"
+>, 6pt</text>
+
+<path d="M294.9,493.5l140.5,0" class="g9_3" />
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: ArialMT_e;
+	src: url("fonts/ArialMT_e.woff") format("woff");
+}
+
+@font-face {
+	font-family: SofiaProLight_2-;
+	src: url("fonts/SofiaProLight_2-.woff") format("woff");
+}
+
+@font-face {
+	font-family: STYuanti-SC-Regular_3r;
+	src: url("fonts/STYuanti-SC-Regular_3r.woff") format("woff");
+}
+
+@font-face {
+	font-family: SofiaProRegular_3b;
+	src: url("fonts/SofiaProRegular_3b.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

@@ -7,11 +7,23 @@
   </url>
   
   <url>
+    <loc>https://toniachen.com/graphic/</loc>
+  </url>
+  
+  <url>
+    <loc>https://toniachen.com/graphic/print/</loc>
+  </url>
+  
+  <url>
     <loc>https://toniachen.com/uis/</loc>
   </url>
   
   <url>
     <loc>https://toniachen.com/writings/</loc>
+  </url>
+  
+  <url>
+    <loc>https://toniachen.com/graphic/print/brand/</loc>
   </url>
   
   <url>
@@ -36,7 +48,23 @@
   </url>
   
   <url>
+    <loc>https://toniachen.com/graphic/game/</loc>
+  </url>
+  
+  <url>
     <loc>https://toniachen.com/uis/mobile/</loc>
+  </url>
+  
+  <url>
+    <loc>https://toniachen.com/graphic/print/namecard/</loc>
+  </url>
+  
+  <url>
+    <loc>https://toniachen.com/graphic/print/</loc>
+  </url>
+  
+  <url>
+    <loc>https://toniachen.com/graphic/print/tshirt/</loc>
   </url>
   
   <url>
@@ -51,6 +79,10 @@
   
   <url>
     <loc>https://toniachen.com/uxs/</loc>
+  </url>
+  
+  <url>
+    <loc>https://toniachen.com/graphic/ecommerce/</loc>
   </url>
   
 </urlset>

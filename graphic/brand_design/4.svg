@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 4 -->
+<svg x="0" y="0" width="2933" height="1650" viewBox="0 0 2933 1650" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c0_4"><path d="M59.6,97.8l0,-55l288.7,0l0,55Z" /></clipPath>
+<clipPath id="c1_4"><path d="M223.1,799.8l0,-5l1121.2,0l0,5Z" /></clipPath>
+
+<style type="text/css"><![CDATA[
+
+.g1_4{
+fill: #FFFFFF;
+}
+.g2_4{
+fill: none;
+stroke: #A6AAA9;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+stroke-dasharray: 4,4;
+}
+.g3_4{
+fill: none;
+stroke: #DCDEE0;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g4_4{
+}
+.g5_4{
+fill: #E61E19;
+}
+.g6_4{
+fill: none;
+stroke: #0365C0;
+stroke-width: 1.9097222;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+
+.s1_4{
+font-size: 18.33px;
+font-family: Helvetica-Light_9;
+fill: #000000;
+}
+.s2_4{
+font-size: 27.50px;
+font-family: Helvetica-Light_9;
+fill: #53585F;
+}
+.s3_4{
+font-size: 27.50px;
+font-family: SofiaProRegular_10;
+fill: #53585F;
+}
+.s4_4{
+font-size: 76.39px;
+font-family: SofiaProLight_8;
+fill: #000000;
+}
+.s5_4{
+font-size: 38.19px;
+font-family: SofiaProBold_q;
+fill: #000000;
+}
+.s6_4{
+font-size: 38.19px;
+font-family: SofiaProLight_8;
+fill: #000000;
+}
+.s7_4{
+font-size: 38.19px;
+font-family: SofiaProLight_8;
+fill: #0365C0;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1650
+L2933,1650
+L2933,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M0,1650l2933.3,0l0,-1650L0,0L0,1650Z" class="g1_4" />
+<text 
+x="127" 
+y="123" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_4"
+>Brand Design Guide 2017 </text>
+
+<path d="M387.6,161.3l0,-137.5" class="g2_4" />
+<path d="M4.5,1564.2l2924.4,0" class="g3_4" />
+<path d="M196.2,81.3c-2.7,2.4,-5,3.8,-10.6,3.8l-11.8,0l0,-29.6l11.8,0c5.5,0,8.1,1.5,10.8,3.9c2.7,2.7,4.2,6.6,4.2,10.8c0,4.4,-1.6,8.4,-4.4,11.1M185.8,50.9l-17.2,0l0,38.7l17.2,0c7.2,0,10.9,-1.9,14.5,-5.1c3.6,-3.5,5.6,-8.6,5.6,-14.3c0,-5.5,-1.9,-10.4,-5.3,-13.9C197.1,53,193,50.9,185.8,50.9Z" class="g4_4" />
+<path d="M253.8,50.9l-5.1,0l0,38.7l29.5,0l0,-4.5l-24.4,0Z" class="g4_4" />
+<path d="M307,50.9l-35.2,0l0,4.6l15,0l0,34.1l5.2,0l0,-34.1l15,0Z" class="g4_4" />
+<g clip-path="url(#c0_4)">
+<path d="M154.1,97.8l2.7,0l0,-55l-2.7,0l0,55Z" class="g5_4" />
+</g>
+<path d="M125,70.3l0,2.3l12.5,0l0,9.7c-2.9,2.4,-7.9,3.8,-12.5,3.8c-10.2,0,-16.3,-7.5,-16.3,-15.8c0,-8.7,6.7,-15.8,15.9,-15.8c4.8,0,10.3,1.9,13.7,5.1l3.6,-3.2c-5,-4.2,-11.3,-6.5,-17.4,-6.5c-11.9,0,-21.2,9.1,-21.2,20.3c0,11.3,9.3,20.4,21.4,20.4c6.2,0,12.8,-2.2,17.5,-5.8l0,-16.8L125,68Z" class="g4_4" />
+<path d="M215.9,72.6l15.7,0l0,-2.3l0,-2.3l-15.7,0l0,-12.5l26,0l0,-4.6l-31.1,0l0,38.7l32.5,0l0,-4.5l-27.4,0Z" class="g4_4" />
+<g clip-path="url(#c0_4)">
+<path d="M81.9,50.9L59.6,89.6l5.4,0L71.7,78l11,0l0,-4.1l-8.6,0L82.7,59l17.7,30.6l5.4,0l0.1,0L83.5,50.9Z" class="g4_4" />
+<path d="M326,50.9l-1.6,0L302.1,89.6l5.4,0L325.2,59l8.6,14.9l-8.6,0l0,4.1l11,0l6.7,11.6l5.4,0Z" class="g4_4" />
+</g>
+<path d="M1.3,180.1l2924.4,0" class="g2_4" />
+<text 
+x="44" 
+y="1610" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_4"
+>Copyright © 2017 AG Delta Pte Ltd.</text>
+
+<text 
+x="2861" 
+y="1611" 
+dx="0" 
+class="s3_4"
+>4</text>
+
+<text 
+x="435" 
+y="120" 
+dx="0,-3.7,0,0,-1.1,0,0,0,0,-0.5,0,0,0,0,0" 
+class="s4_4"
+>Welcome Message</text>
+
+<text 
+x="190" 
+y="310" 
+dx="0,0,0,0,0,0,0" 
+class="s5_4"
+>Slogan:</text>
+
+<text 
+x="190" 
+y="389" 
+dx="0,0,0,-0.5,0,0,0,0,-0.5,-0.3,0,0,0,0,-0.5,-0.4,-1.4" 
+class="s6_4"
+>Live in tomorrow.</text>
+
+<text 
+x="190" 
+y="588" 
+dx="0,0,0,0,0,0,0,-0.6,0,0,0,0,0,0,0,0,0,0,-0.7,-0.3,0,0" 
+class="s5_4"
+>Who is this guide for?</text>
+
+<text 
+x="190" 
+y="656" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.6,-0.3,0,-0.9,-1.2,-0.6,0,0,0,0,0,-0.3,0,0,0,-0.5,0,0,-0.3,0,-0.5,0,0,0,0,0,-0.3,0,0,0,0,-0.5,0,0,-0.2,0,0,-0.3,-0.8,0,0,-0.5,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.6,-0.3,0,-0.9,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,-1.6,0" 
+class="s6_4"
+>This guide is for AG Delta create the standardize of brand visual identity(VI) for internal use only. </text>
+
+<text 
+x="190" 
+y="702" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.5,-0.5,-0.5,0,0,-0.6,-0.3,0,-0.9,0,0,0,0,0,0,0,0,0,0,-0.5,0,0,0,0,0,0,0,0,0,-0.8,-0.5,0,0,0,-1.2,-0.6,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,-0.8,0,0,0,0,-0.5,-0.6,0,0,-0.2,0,-0.3,0,0" 
+class="s6_4"
+>The assets approved for use and available at the AG Delta Design Resource Site: </text>
+
+<text 
+x="224" 
+y="794" 
+dx="0,0,0,0,0,0,0,-6.6,-1.3,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,-0.6,0,0,-1.6,0,-1.6,0,0,0,0,0,-0.3,0,0,-0.6,0,0,-1.6,0,0,0,0,0,0,0,-0.5,0,0,0,0,-0.5,-0.6,0,0,0,0,0,0" 
+class="s7_4"
+>https://sites.google.com/a/agdelta.com/design-resources/home</text>
+
+<g clip-path="url(#c1_4)">
+<path d="M224.7,797.3l1119.6,0" class="g6_4" />
+</g>
+<text 
+x="190" 
+y="1029" 
+dx="0,0,-0.2,-0.9,0,0,0,-0.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0" 
+class="s5_4"
+>Why is this guide important?</text>
+
+<text 
+x="194" 
+y="1124" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.5,0,0,0,0,0,0,0,0,-0.5,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,-1.2,-0.6,0,0,0,0,0,-0.3,0,-1.1,0,0,0,-0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,-0.4,-0.6,0,0,0,0,0,-1.2,-0.6,0,0,0,0,0,-0.3,0,-1.1,0,0,-0.6,0,0,-0.3,0,0,-0.7,0" 
+class="s6_4"
+>These guidelines outline the general rules when using AG Delta’s brand assets and showcasing AG Delta’s content. </text>
+
+<text 
+x="194" 
+y="1216" 
+dx="0,0,0,0,0,0,0,-0.3,0,0,-0.8,0,0,0,0,0,-0.3,-0.8,-0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,-0.5,0,-0.6,0,0,0,0,-0.2,0,0,-0.5,-0.2,-0.3,0,-0.5,0,0,-0.6,0,0,-0.5,-0.3,0,-1.2,-0.6,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,-0.5,-0.2,-0.3,0,0,-0.8,0,-0.6,0,0,0,0,-0.3,-1,-0.5,0,-0.5,0,0,0,0,0,0,-0.3,0,0,0,-0.2,-0.8,0,0,0,0,0,0,0,0,0,-0.3,0,0,-0.8,-0.5,0,0,0,-0.8,-1,-0.5,0,0,-0.9,0,0,0,0,-1.1,0,0,0,0,0" 
+class="s6_4"
+>Consistent use of these assets helps people easily recognize references to AG Delta and protect company trademarks. It is important that your marketing </text>
+
+<text 
+x="194" 
+y="1261" 
+dx="0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,-1.2,-0.6,0,0,0,0,0,-0.3,0,0,0,-0.3,0,0,0,0,-0.5,0,0,0,0,0,0,0,0,0,0,-1.2,-0.6,0,0,0,0,0,-0.3,0,0,0,0,0,-0.5,-0.5,-0.5,0,0,0,0,0,0,0,0,0,0,-0.6,0,0,-0.5,0,0,0,0,-1.6,0,-1.1,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,-1,-0.5,0,0,0,0,0,0,-0.8,-0.5,0,0,0,0,0,0,0,-0.3,0,0,0,0,-0.5,0,0" 
+class="s6_4"
+>materials use AG Delta standards and use AG Delta approved assets correctly. This guide will help you meet those standards.</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: Helvetica-Light_9;
+	src: url("fonts/Helvetica-Light_9.woff") format("woff");
+}
+
+@font-face {
+	font-family: SofiaProRegular_10;
+	src: url("fonts/SofiaProRegular_10.woff") format("woff");
+}
+
+@font-face {
+	font-family: SofiaProLight_8;
+	src: url("fonts/SofiaProLight_8.woff") format("woff");
+}
+
+@font-face {
+	font-family: SofiaProBold_q;
+	src: url("fonts/SofiaProBold_q.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

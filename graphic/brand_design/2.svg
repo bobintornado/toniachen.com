@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 2 -->
+<svg x="0" y="0" width="2933" height="1650" viewBox="0 0 2933 1650" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c0_2"><path d="M59.6,97.8l0,-55l288.7,0l0,55Z" /></clipPath>
+
+<style type="text/css"><![CDATA[
+
+.g1_2{
+fill: #FFFFFF;
+}
+.g2_2{
+fill: none;
+stroke: #A6AAA9;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+stroke-dasharray: 4,4;
+}
+.g3_2{
+fill: none;
+stroke: #DCDEE0;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g4_2{
+}
+.g5_2{
+fill: #E61E19;
+}
+
+.s1_2{
+font-size: 18.33px;
+font-family: Helvetica-Light_9;
+fill: #000000;
+}
+.s2_2{
+font-size: 27.50px;
+font-family: Helvetica-Light_9;
+fill: #53585F;
+}
+.s3_2{
+font-size: 38.19px;
+font-family: SofiaProBold_q;
+fill: #000000;
+}
+.s4_2{
+font-size: 38.19px;
+font-family: SofiaProLight_8;
+fill: #000000;
+}
+.s5_2{
+font-size: 76.39px;
+font-family: SofiaProLight_8;
+fill: #000000;
+}
+.s6_2{
+font-size: 38.19px;
+font-family: SofiaProLight_r;
+fill: #000000;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1650
+L2933,1650
+L2933,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M0,1650l2933.3,0l0,-1650L0,0L0,1650Z" class="g1_2" />
+<text 
+x="127" 
+y="123" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_2"
+>Brand Design Guide 2017 </text>
+
+<path d="M387.6,161.3l0,-137.5" class="g2_2" />
+<path d="M4.5,1564.2l2924.4,0" class="g3_2" />
+<path d="M196.2,81.3c-2.7,2.4,-5,3.8,-10.6,3.8l-11.8,0l0,-29.6l11.8,0c5.5,0,8.1,1.5,10.8,3.9c2.7,2.7,4.2,6.6,4.2,10.8c0,4.4,-1.6,8.4,-4.4,11.1M185.8,50.9l-17.2,0l0,38.7l17.2,0c7.2,0,10.9,-1.9,14.5,-5.1c3.6,-3.5,5.6,-8.6,5.6,-14.3c0,-5.5,-1.9,-10.4,-5.3,-13.9C197.1,53,193,50.9,185.8,50.9Z" class="g4_2" />
+<path d="M253.8,50.9l-5.1,0l0,38.7l29.5,0l0,-4.5l-24.4,0Z" class="g4_2" />
+<path d="M307,50.9l-35.2,0l0,4.6l15,0l0,34.1l5.2,0l0,-34.1l15,0Z" class="g4_2" />
+<g clip-path="url(#c0_2)">
+<path d="M154.1,97.8l2.7,0l0,-55l-2.7,0l0,55Z" class="g5_2" />
+</g>
+<path d="M125,70.3l0,2.3l12.5,0l0,9.7c-2.9,2.4,-7.9,3.8,-12.5,3.8c-10.2,0,-16.3,-7.5,-16.3,-15.8c0,-8.7,6.7,-15.8,15.9,-15.8c4.8,0,10.3,1.9,13.7,5.1l3.6,-3.2c-5,-4.2,-11.3,-6.5,-17.4,-6.5c-11.9,0,-21.2,9.1,-21.2,20.3c0,11.3,9.3,20.4,21.4,20.4c6.2,0,12.8,-2.2,17.5,-5.8l0,-16.8L125,68Z" class="g4_2" />
+<path d="M215.9,72.6l15.7,0l0,-2.3l0,-2.3l-15.7,0l0,-12.5l26,0l0,-4.6l-31.1,0l0,38.7l32.5,0l0,-4.5l-27.4,0Z" class="g4_2" />
+<g clip-path="url(#c0_2)">
+<path d="M81.9,50.9L59.6,89.6l5.4,0L71.7,78l11,0l0,-4.1l-8.6,0L82.7,59l17.7,30.6l5.4,0l0.1,0L83.5,50.9Z" class="g4_2" />
+<path d="M326,50.9l-1.6,0L302.1,89.6l5.4,0L325.2,59l8.6,14.9l-8.6,0l0,4.1l11,0l6.7,11.6l5.4,0Z" class="g4_2" />
+</g>
+<path d="M1.3,180.1l2924.4,0" class="g2_2" />
+<text 
+x="44" 
+y="1610" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_2"
+>Copyright © 2017 AG Delta Pte Ltd.</text>
+
+<text 
+x="2861" 
+y="1610" 
+dx="0" 
+class="s2_2"
+>2</text>
+
+<text 
+x="1365" 
+y="354" 
+dx="0,-0.6,0,0,0,-0.9,0,0,0,0,0,0,-0.2,0,0,0,0,0,-0.7,-0.3,0,-0.2,-0.3,0,-0.2,0" 
+class="s3_2"
+>Paper headers and footers </text>
+
+<text 
+x="1365" 
+y="400" 
+dx="0,0,0,0,0,-0.5,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_2"
+>General Documents </text>
+
+<text 
+x="435" 
+y="120" 
+dx="0,0,0,0,-0.7,0,0,0,0,0,0,0,0" 
+class="s5_2"
+>Contents List</text>
+
+<text 
+x="449" 
+y="354" 
+dx="0,-1.8,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_2"
+>Welcome message </text>
+
+<text 
+x="449" 
+y="400" 
+dx="0,-0.6,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0" 
+class="s4_2"
+>AG Delta slogan </text>
+
+<text 
+x="449" 
+y="446" 
+dx="0,0,0,0,0,0,0,-0.5,0,0,0,0,0,0,0,0,0,0,-0.6,-0.3,0,0,0" 
+class="s4_2"
+>Who is this guide for? </text>
+
+<text 
+x="449" 
+y="491" 
+dx="0,0,-0.3,-1,0,0,0,-0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0" 
+class="s4_2"
+>Why is this guide important?</text>
+
+<text 
+x="449" 
+y="640" 
+dx="0,-0.2,0,0,0" 
+class="s3_2"
+>Logo </text>
+
+<text 
+x="449" 
+y="685" 
+dx="0,-0.5,0,0,0,-1.2,-1.8,0,0,0,0,0,0,0" 
+class="s4_2"
+>Logo Versions </text>
+
+<text 
+x="449" 
+y="731" 
+dx="0,-0.5,0,0,0,0,-0.5,0,0,0,0,0" 
+class="s4_2"
+>Logo Lookup </text>
+
+<text 
+x="449" 
+y="777" 
+dx="0,0,0,0,0,0,-0.8,0,-0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_2"
+>Client Logo usage guide</text>
+
+<text 
+x="449" 
+y="925" 
+dx="0,0,0,0,0,0,-0.2,0" 
+class="s3_2"
+>Colours </text>
+
+<text 
+x="449" 
+y="971" 
+dx="0,-0.2,0,0,0,0,0,-1,0,0,0,0,0,0,-0.9" 
+class="s4_2"
+>Primary Colour </text>
+
+<text 
+x="449" 
+y="1017" 
+dx="0,0,0,-0.6,0,0,0,0,0,-1,0,-0.7,0,0,0,0,-0.3" 
+class="s4_2"
+>Secondary Palette</text>
+
+<text 
+x="449" 
+y="1208" 
+dx="0,-2.7,0,0,-0.2,-0.3,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_2"
+>Typefaces and styles </text>
+
+<text 
+x="449" 
+y="1254" 
+dx="0,0,0,0,0,-0.5,0,0,0,-1.6,0,0,0,0" 
+class="s4_2"
+>General Fonts </text>
+
+<text 
+x="449" 
+y="1300" 
+dx="0,0,0,-0.5,0,0,0,0,0,-0.8,0,0,-0.3,0,-0.3,0,0,0,0,0,0" 
+class="s4_2"
+>Copyright statements </text>
+
+<text 
+x="449" 
+y="1345" 
+dx="0,-0.3,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,-0.5" 
+class="s4_2"
+>E-mail Signature</text>
+
+<text 
+x="1368" 
+y="640" 
+dx="0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0" 
+class="s3_2"
+>Social Media usage </text>
+
+<text 
+x="1368" 
+y="685" 
+dx="0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,-0.2,-0.5,-0.3,0,0,0" 
+class="s4_2"
+>Social Media Proﬁle </text>
+
+<text 
+x="1368" 
+y="731" 
+dx="0,-0.2,-0.5,0,0,0,0,-0.8,0,0,0,0,0" 
+class="s4_2"
+>Press Release</text>
+
+<text 
+x="1373" 
+y="925" 
+dx="0,-0.3,0,-0.3,0,0,0,0,0,0,0,0" 
+class="s3_2"
+>Merchandise </text>
+
+<text 
+x="1373" 
+y="971" 
+dx="0,-0.4,0,0,0,0,0,0,-0.5,0" 
+class="s4_2"
+>Name Card </text>
+
+<text 
+x="1373" 
+y="1017" 
+dx="0,-2.3,0,0,0,0,0,-0.8" 
+class="s4_2"
+>T-shirt </text>
+
+<text 
+x="1373" 
+y="1063" 
+dx="0,-0.5,0,-0.3,-0.5,0,-0.5,0,0,0,0,0,0,-0.2,-0.3" 
+class="s4_2"
+>Lanyard and Sta</text>
+
+<text 
+x="1660" 
+y="1063" 
+dx="0" 
+class="s6_2"
+>ﬀ</text>
+
+<text 
+x="1696" 
+y="1063" 
+dx="0,-0.7,0,0" 
+class="s4_2"
+>Pass</text>
+
+<text 
+x="1379" 
+y="1208" 
+dx="0,-1.5,-0.5,-0.2,0" 
+class="s3_2"
+>FAQs </text>
+
+<text 
+x="1379" 
+y="1254" 
+dx="0,0,0,0,0,-0.5,0" 
+class="s4_2"
+>General</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: SofiaProLight_r;
+	src: url("fonts/SofiaProLight_r.woff") format("woff");
+}
+
+@font-face {
+	font-family: Helvetica-Light_9;
+	src: url("fonts/Helvetica-Light_9.woff") format("woff");
+}
+
+@font-face {
+	font-family: SofiaProLight_8;
+	src: url("fonts/SofiaProLight_8.woff") format("woff");
+}
+
+@font-face {
+	font-family: SofiaProBold_q;
+	src: url("fonts/SofiaProBold_q.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

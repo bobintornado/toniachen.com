@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 1 -->
+<svg x="0" y="0" width="2933" height="1650" viewBox="0 0 2933 1650" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c0_1"><path d="M207.8,336.1l0,-119.2l626.4,0l0,119.2Z" /></clipPath>
+<clipPath id="c1_1"><path d="M1404,1650L1404,0L2933.3,0l0,1650Z" /></clipPath>
+
+<style type="text/css"><![CDATA[
+
+.g1_1{
+fill: #F3F4F7;
+}
+.g2_1{
+fill: none;
+stroke: #E61E19;
+stroke-width: 7.638889;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g3_1{
+}
+.g4_1{
+fill: #E61E19;
+}
+.g5_1{
+fill-opacity: 0.147;
+}
+
+.s1_1{
+font-size: 171.11px;
+font-family: SofiaProLight_8;
+fill: #000000;
+}
+.s2_1{
+font-size: 27.50px;
+font-family: Helvetica-Light_9;
+fill: #000000;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1650
+L2933,1650
+L2933,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M0,1650l2933.3,0l0,-1650L0,0L0,1650Z" class="g1_1" />
+<text 
+x="195" 
+y="600" 
+dx="0,0,-2.4,0,0,0,-5.3,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_1"
+>Brand Assets Guide</text>
+
+<path d="M201.4,648.2l1492.7,0" class="g2_1" />
+<text 
+x="210" 
+y="713" 
+dx="0,-1.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_1"
+>Version 1.2 - May 2017</text>
+
+<path d="M504.2,300.5c-5.9,5,-10.9,8.1,-23,8.1l-25.7,0l0,-64.1l25.7,0c11.9,0,17.6,3.2,23.4,8.4c5.8,6,9,14.3,9,23.6c0,9.5,-3.5,18.1,-9.4,24M481.6,234.6l-37.3,0l0,83.9l37.3,0c15.7,0,23.6,-4.1,31.3,-11.1c7.9,-7.5,12.4,-18.7,12.4,-30.9c0,-12,-4.3,-22.7,-11.7,-30.2c-7.6,-7.2,-16.3,-11.7,-32,-11.7Z" class="g3_1" />
+<path d="M629.1,234.6l-11.2,0l0,83.9l64.2,0l0,-9.9l-53,0Z" class="g3_1" />
+<path d="M744.4,234.6l-76.4,0l0,9.9l32.7,0l0,74l11.2,0l0,-74l32.5,0Z" class="g3_1" />
+<g clip-path="url(#c0_1)">
+<path d="M412.7,336.1l5.9,0l0,-119.2l-5.9,0l0,119.2Z" class="g4_1" />
+</g>
+<path d="M349.6,276.5l0,5l27.3,0l0,21c-6.4,5.2,-17.3,8.3,-27.2,8.3c-22.1,0,-35.4,-16.2,-35.4,-34.2c0,-18.9,14.5,-34.3,34.4,-34.3c10.6,0,22.4,4.2,29.8,11.2l7.8,-7c-10.8,-9.1,-24.5,-14.1,-37.7,-14.1c-25.7,0,-46,19.6,-46,44.1c0,24.4,20.2,44.2,46.5,44.2c13.4,0,27.8,-4.9,37.9,-12.8l0,-36.3l-37.4,0Z" class="g3_1" />
+<path d="M547,281.5l33.9,0l0,-5l0,-4.9l-33.9,0l0,-27.1l56.3,0l0,-9.9l-67.5,0l0,83.9l70.4,0l0,-9.9l-59.2,0Z" class="g3_1" />
+<g clip-path="url(#c0_1)">
+<path d="M256.2,234.6l-48.4,83.9l0.1,0l11.7,0l14.6,-25.2l23.8,0l0,-9l-18.6,0L258,252.1l38.3,66.4l11.8,0l0.1,0L259.7,234.6Z" class="g3_1" />
+<path d="M785.7,234.6l-3.5,0l-48.4,83.9l0.1,0l11.7,0L784,252.1l18.6,32.2l-18.5,0l0,9l23.7,0l14.5,25.2l11.8,0l0.1,0Z" class="g3_1" />
+</g>
+<g clip-path="url(#c1_1)">
+<path d="M2450.7,-4.5L1404,1808.9l2.1,0l253.6,0l314.1,-544.2l514.1,0l0,-194.5l-401.9,0L2488,373.5l828.4,1435.4l253.6,0l1.9,0L2525.4,-4.5Z" class="g5_1" />
+</g>
+<text 
+x="210" 
+y="763" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,-3.1,0,0,0,0,0,0,0,0" 
+class="s2_1"
+>Last Edit By Tonia Chen</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: SofiaProLight_8;
+	src: url("fonts/SofiaProLight_8.woff") format("woff");
+}
+
+@font-face {
+	font-family: Helvetica-Light_9;
+	src: url("fonts/Helvetica-Light_9.woff") format("woff");
+}
+
+]]></style>
+
+</svg>
