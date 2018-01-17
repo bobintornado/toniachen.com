@@ -7,19 +7,7 @@
   </url>
   
   <url>
-    <loc>https://toniachen.com/graphic/</loc>
-  </url>
-  
-  <url>
     <loc>https://toniachen.com/graphic/print/</loc>
-  </url>
-  
-  <url>
-    <loc>https://toniachen.com/uis/</loc>
-  </url>
-  
-  <url>
-    <loc>https://toniachen.com/writings/</loc>
   </url>
   
   <url>
@@ -52,6 +40,11 @@
   </url>
   
   <url>
+    <loc>https://toniachen.com/graphic/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://toniachen.com/uis/mobile/</loc>
   </url>
   
@@ -78,7 +71,18 @@
   </url>
   
   <url>
+    <loc>https://toniachen.com/uis/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://toniachen.com/uxs/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://toniachen.com/writings/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
